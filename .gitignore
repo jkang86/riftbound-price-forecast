@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables (never commit cookies/keys)
+.env
+.env.*
+*.env
+
+# Raw data — large JSON dumps, not needed for dashboard
+data/raw/
+
+# Intermediate processed files — regenerable from raw
+data/processed/
+
+# SQLite database — binary, regenerable
+data/riftbound.db
+
+# Exports ARE committed — dashboard reads from here
+# data/exports/ is intentionally NOT ignored
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Output figures — regenerable
+outputs/figures/*.png
+outputs/figures/*.svg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/secrets.toml

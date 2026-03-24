@@ -1,0 +1,737 @@
+product_id,card_display,week,market_price,rarity_tier,days_since_first_sale,set_release_flag,tournament_play_rate,tournament_top8_rate,price_lag_1w,price_pct_change_1w,price_next_week,card_name,rarity,type,domain,set
+652968,Acceptable Losses,2025-12-29,0.3,2,14,0,0.0,0.0,0.395,-0.2405,0.28,Acceptable Losses,Uncommon,Spell,Chaos,Origins
+652968,Acceptable Losses,2026-01-05,0.28,2,21,0,0.0,0.0,0.3,-0.0667,0.275,Acceptable Losses,Uncommon,Spell,Chaos,Origins
+652968,Acceptable Losses,2026-01-12,0.275,2,28,1,0.0,0.0,0.28,-0.0179,0.2333,Acceptable Losses,Uncommon,Spell,Chaos,Origins
+652968,Acceptable Losses,2026-01-19,0.2333,2,35,1,0.0,0.0,0.275,-0.1516,0.23,Acceptable Losses,Uncommon,Spell,Chaos,Origins
+652968,Acceptable Losses,2026-01-26,0.23,2,42,1,0.0,0.0,0.2333,-0.0141,0.22,Acceptable Losses,Uncommon,Spell,Chaos,Origins
+652968,Acceptable Losses,2026-02-02,0.22,2,49,1,0.1763,0.0,0.23,-0.0435,0.2267,Acceptable Losses,Uncommon,Spell,Chaos,Origins
+652968,Acceptable Losses,2026-02-09,0.2267,2,56,0,0.1748,0.35,0.22,0.0305,0.24,Acceptable Losses,Uncommon,Spell,Chaos,Origins
+652968,Acceptable Losses,2026-02-16,0.24,2,63,0,0.0,0.0,0.2267,0.0587,0.23,Acceptable Losses,Uncommon,Spell,Chaos,Origins
+652968,Acceptable Losses,2026-02-23,0.23,2,70,0,0.0,0.0,0.24,-0.0417,0.2433,Acceptable Losses,Uncommon,Spell,Chaos,Origins
+652968,Acceptable Losses,2026-03-02,0.2433,2,77,0,0.1512,0.3333,0.23,0.0578,0.265,Acceptable Losses,Uncommon,Spell,Chaos,Origins
+652968,Acceptable Losses,2026-03-09,0.265,2,84,0,0.1686,0.1875,0.2433,0.0892,0.25,Acceptable Losses,Uncommon,Spell,Chaos,Origins
+652832,Adaptatron,2025-12-29,0.2967,2,14,0,0.0,0.0,0.325,-0.0871,0.22,Adaptatron,Uncommon,Unit,Calm,Origins
+652832,Adaptatron,2026-01-05,0.22,2,21,0,0.0,0.0,0.2967,-0.2585,0.22,Adaptatron,Uncommon,Unit,Calm,Origins
+652832,Adaptatron,2026-01-12,0.22,2,28,1,0.0,0.0,0.22,0.0,0.21,Adaptatron,Uncommon,Unit,Calm,Origins
+652832,Adaptatron,2026-01-19,0.21,2,35,1,0.0,0.0,0.22,-0.0455,0.19,Adaptatron,Uncommon,Unit,Calm,Origins
+652832,Adaptatron,2026-01-26,0.19,2,42,1,0.0,0.0,0.21,-0.0952,0.21,Adaptatron,Uncommon,Unit,Calm,Origins
+652832,Adaptatron,2026-02-02,0.21,2,49,1,0.0971,0.0,0.19,0.1053,0.2367,Adaptatron,Uncommon,Unit,Calm,Origins
+652832,Adaptatron,2026-02-09,0.2367,2,56,0,0.1072,0.125,0.21,0.1271,0.285,Adaptatron,Uncommon,Unit,Calm,Origins
+652832,Adaptatron,2026-02-16,0.285,2,63,0,0.0,0.0,0.2367,0.2041,0.27,Adaptatron,Uncommon,Unit,Calm,Origins
+652832,Adaptatron,2026-02-23,0.27,2,70,0,0.0,0.0,0.285,-0.0526,0.3467,Adaptatron,Uncommon,Unit,Calm,Origins
+652832,Adaptatron,2026-03-02,0.3467,2,77,0,0.0878,0.1667,0.27,0.2841,0.415,Adaptatron,Uncommon,Unit,Calm,Origins
+652832,Adaptatron,2026-03-09,0.415,2,84,0,0.102,0.125,0.3467,0.197,0.43,Adaptatron,Uncommon,Unit,Calm,Origins
+665140,Against the Odds,2026-02-16,0.095,1,14,0,0.0,0.0,0.43,-0.7791,0.0933,Against the Odds,Common,Spell,Fury,Spiritforged
+665140,Against the Odds,2026-02-23,0.0933,1,21,0,0.0,0.0,0.095,-0.0179,0.11,Against the Odds,Common,Spell,Fury,Spiritforged
+665140,Against the Odds,2026-03-02,0.11,1,28,0,0.1512,0.3333,0.0933,0.179,0.095,Against the Odds,Common,Spell,Fury,Spiritforged
+665140,Against the Odds,2026-03-09,0.095,1,35,0,0.2353,0.3125,0.11,-0.1364,0.08,Against the Odds,Common,Spell,Fury,Spiritforged
+652842,"Ahri, Alluring (Rare)",2026-01-05,0.615,3,14,0,0.0,0.0,0.855,-0.2807,0.6567,"Ahri, Alluring",Rare,Champion Unit,Calm,Origins
+652842,"Ahri, Alluring (Rare)",2026-01-12,0.6567,3,21,1,0.0,0.0,0.615,0.0678,0.665,"Ahri, Alluring",Rare,Champion Unit,Calm,Origins
+652842,"Ahri, Alluring (Rare)",2026-01-19,0.665,3,28,1,0.0,0.0,0.6567,0.0126,0.615,"Ahri, Alluring",Rare,Champion Unit,Calm,Origins
+652842,"Ahri, Alluring (Rare)",2026-01-26,0.615,3,35,1,0.0,0.0,0.665,-0.0752,0.5067,"Ahri, Alluring",Rare,Champion Unit,Calm,Origins
+652842,"Ahri, Alluring (Rare)",2026-02-02,0.5067,3,42,1,0.0971,0.0,0.615,-0.1761,0.54,"Ahri, Alluring",Rare,Champion Unit,Calm,Origins
+652842,"Ahri, Alluring (Rare)",2026-02-09,0.54,3,49,0,0.1072,0.125,0.5067,0.0657,0.565,"Ahri, Alluring",Rare,Champion Unit,Calm,Origins
+652842,"Ahri, Alluring (Rare)",2026-02-16,0.565,3,56,0,0.0,0.0,0.54,0.0463,0.6133,"Ahri, Alluring",Rare,Champion Unit,Calm,Origins
+652842,"Ahri, Alluring (Rare)",2026-02-23,0.6133,3,63,0,0.0,0.0,0.565,0.0855,0.83,"Ahri, Alluring",Rare,Champion Unit,Calm,Origins
+652842,"Ahri, Alluring (Rare)",2026-03-02,0.83,3,70,0,0.0878,0.1667,0.6133,0.3533,0.725,"Ahri, Alluring",Rare,Champion Unit,Calm,Origins
+652842,"Ahri, Alluring (Rare)",2026-03-09,0.725,3,77,0,0.102,0.125,0.83,-0.1265,0.99,"Ahri, Alluring",Rare,Champion Unit,Calm,Origins
+652843,"Ahri, Alluring (Showcase)",2026-01-05,6.85,5,14,0,0.0,0.0,7.875,-0.1302,5.1167,"Ahri, Alluring",Showcase,Champion Unit,Calm,Origins
+652843,"Ahri, Alluring (Showcase)",2026-01-12,5.1167,5,21,1,0.0,0.0,6.85,-0.253,5.585,"Ahri, Alluring",Showcase,Champion Unit,Calm,Origins
+652843,"Ahri, Alluring (Showcase)",2026-01-19,5.585,5,28,1,0.0,0.0,5.1167,0.0915,5.61,"Ahri, Alluring",Showcase,Champion Unit,Calm,Origins
+652843,"Ahri, Alluring (Showcase)",2026-01-26,5.61,5,35,1,0.0,0.0,5.585,0.0045,6.2133,"Ahri, Alluring",Showcase,Champion Unit,Calm,Origins
+652843,"Ahri, Alluring (Showcase)",2026-02-02,6.2133,5,42,1,0.0971,0.0,5.61,0.1075,5.505,"Ahri, Alluring",Showcase,Champion Unit,Calm,Origins
+652843,"Ahri, Alluring (Showcase)",2026-02-09,5.505,5,49,0,0.1072,0.125,6.2133,-0.114,5.385,"Ahri, Alluring",Showcase,Champion Unit,Calm,Origins
+652843,"Ahri, Alluring (Showcase)",2026-02-16,5.385,5,56,0,0.0,0.0,5.505,-0.0218,5.4433,"Ahri, Alluring",Showcase,Champion Unit,Calm,Origins
+652843,"Ahri, Alluring (Showcase)",2026-02-23,5.4433,5,63,0,0.0,0.0,5.385,0.0108,5.425,"Ahri, Alluring",Showcase,Champion Unit,Calm,Origins
+652843,"Ahri, Alluring (Showcase)",2026-03-02,5.425,5,70,0,0.0878,0.1667,5.4433,-0.0034,6.815,"Ahri, Alluring",Showcase,Champion Unit,Calm,Origins
+652843,"Ahri, Alluring (Showcase)",2026-03-09,6.815,5,77,0,0.102,0.125,5.425,0.2562,7.88,"Ahri, Alluring",Showcase,Champion Unit,Calm,Origins
+652901,"Ahri, Inquisitive (Epic)",2026-01-05,11.02,4,14,0,0.0,0.0,13.33,-0.1733,8.59,"Ahri, Inquisitive",Epic,Champion Unit,Mind,Origins
+652901,"Ahri, Inquisitive (Epic)",2026-01-12,8.59,4,21,1,0.0,0.0,11.02,-0.2205,6.985,"Ahri, Inquisitive",Epic,Champion Unit,Mind,Origins
+652901,"Ahri, Inquisitive (Epic)",2026-01-19,6.985,4,28,1,0.0,0.0,8.59,-0.1868,8.185,"Ahri, Inquisitive",Epic,Champion Unit,Mind,Origins
+652901,"Ahri, Inquisitive (Epic)",2026-01-26,8.185,4,35,1,0.0,0.0,6.985,0.1718,8.1833,"Ahri, Inquisitive",Epic,Champion Unit,Mind,Origins
+652901,"Ahri, Inquisitive (Epic)",2026-02-02,8.1833,4,42,1,0.1223,0.0,8.185,-0.0002,8.29,"Ahri, Inquisitive",Epic,Champion Unit,Mind,Origins
+652901,"Ahri, Inquisitive (Epic)",2026-02-09,8.29,4,49,0,0.1351,0.125,8.1833,0.013,8.665,"Ahri, Inquisitive",Epic,Champion Unit,Mind,Origins
+652901,"Ahri, Inquisitive (Epic)",2026-02-16,8.665,4,56,0,0.0,0.0,8.29,0.0452,8.1667,"Ahri, Inquisitive",Epic,Champion Unit,Mind,Origins
+652901,"Ahri, Inquisitive (Epic)",2026-02-23,8.1667,4,63,0,0.0,0.0,8.665,-0.0575,8.645,"Ahri, Inquisitive",Epic,Champion Unit,Mind,Origins
+652901,"Ahri, Inquisitive (Epic)",2026-03-02,8.645,4,70,0,0.0976,0.1667,8.1667,0.0586,8.645,"Ahri, Inquisitive",Epic,Champion Unit,Mind,Origins
+652901,"Ahri, Inquisitive (Epic)",2026-03-09,8.645,4,77,0,0.2353,0.3125,8.645,0.0,9.55,"Ahri, Inquisitive",Epic,Champion Unit,Mind,Origins
+653231,"Ahri, Inquisitive (Showcase)",2026-01-05,17.67,5,14,0,0.0,0.0,19.26,-0.0826,15.41,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Origins
+653231,"Ahri, Inquisitive (Showcase)",2026-01-12,15.41,5,21,1,0.0,0.0,17.67,-0.1279,15.225,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Origins
+653231,"Ahri, Inquisitive (Showcase)",2026-01-19,15.225,5,28,1,0.0,0.0,15.41,-0.012,14.835,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Origins
+653231,"Ahri, Inquisitive (Showcase)",2026-01-26,14.835,5,35,1,0.0,0.0,15.225,-0.0256,14.3833,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Origins
+653231,"Ahri, Inquisitive (Showcase)",2026-02-02,14.3833,5,42,1,0.1223,0.0,14.835,-0.0304,15.225,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Origins
+653231,"Ahri, Inquisitive (Showcase)",2026-02-09,15.225,5,49,0,0.1351,0.125,14.3833,0.0585,16.075,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Origins
+653231,"Ahri, Inquisitive (Showcase)",2026-02-16,16.075,5,56,0,0.0,0.0,15.225,0.0558,15.5967,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Origins
+653231,"Ahri, Inquisitive (Showcase)",2026-02-23,15.5967,5,63,0,0.0,0.0,16.075,-0.0298,14.975,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Origins
+664881,"Ahri, Inquisitive (Showcase)",2026-02-23,341.3133,5,14,0,0.0,0.0,319.595,0.068,393.995,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Spiritforged
+664913,"Ahri, Inquisitive (Showcase)",2026-02-23,2613.1067,5,14,0,0.0,0.0,2618.345,-0.002,2654.88,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Spiritforged
+653231,"Ahri, Inquisitive (Showcase)",2026-03-02,14.975,5,70,0,0.0976,0.1667,15.5967,-0.0399,14.42,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Origins
+664881,"Ahri, Inquisitive (Showcase)",2026-03-02,393.995,5,21,0,0.0976,0.1667,341.3133,0.1543,405.395,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Spiritforged
+664913,"Ahri, Inquisitive (Showcase)",2026-03-02,2654.88,5,21,0,0.0976,0.1667,2613.1067,0.016,2698.99,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Spiritforged
+653231,"Ahri, Inquisitive (Showcase)",2026-03-09,14.42,5,77,0,0.2353,0.3125,14.975,-0.0371,13.92,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Origins
+664881,"Ahri, Inquisitive (Showcase)",2026-03-09,405.395,5,28,0,0.2353,0.3125,393.995,0.0289,405.5,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Spiritforged
+664913,"Ahri, Inquisitive (Showcase)",2026-03-09,2698.99,5,28,0,0.2353,0.3125,2654.88,0.0166,2698.99,"Ahri, Inquisitive",Showcase,Champion Unit,Mind,Spiritforged
+666888,"Akshan, Mischievous",2026-02-16,1.52,3,14,0,0.0,0.0,2.91,-0.4777,1.51,"Akshan, Mischievous",Rare,Champion Unit,Body,Spiritforged
+666888,"Akshan, Mischievous",2026-02-23,1.51,3,21,0,0.0,0.0,1.52,-0.0066,1.2,"Akshan, Mischievous",Rare,Champion Unit,Body,Spiritforged
+666888,"Akshan, Mischievous",2026-03-02,1.2,3,28,0,0.0488,0.0417,1.51,-0.2053,1.205,"Akshan, Mischievous",Rare,Champion Unit,Body,Spiritforged
+666888,"Akshan, Mischievous",2026-03-09,1.205,3,35,0,0.0863,0.125,1.2,0.0042,0.88,"Akshan, Mischievous",Rare,Champion Unit,Body,Spiritforged
+653024,Albus Ferros,2026-01-05,0.11,3,14,0,0.0,0.0,0.125,-0.12,0.1367,Albus Ferros,Rare,Unit,Order,Origins
+653024,Albus Ferros,2026-01-12,0.1367,3,21,1,0.0,0.0,0.11,0.2427,0.12,Albus Ferros,Rare,Unit,Order,Origins
+653024,Albus Ferros,2026-01-19,0.12,3,28,1,0.0,0.0,0.1367,-0.1222,0.12,Albus Ferros,Rare,Unit,Order,Origins
+653024,Albus Ferros,2026-01-26,0.12,3,35,1,0.0,0.0,0.12,0.0,0.1067,Albus Ferros,Rare,Unit,Order,Origins
+653024,Albus Ferros,2026-02-02,0.1067,3,42,1,0.0827,0.0,0.12,-0.1108,0.12,Albus Ferros,Rare,Unit,Order,Origins
+653024,Albus Ferros,2026-02-09,0.12,3,49,0,0.0586,0.075,0.1067,0.1246,0.125,Albus Ferros,Rare,Unit,Order,Origins
+653024,Albus Ferros,2026-02-16,0.125,3,56,0,0.0,0.0,0.12,0.0417,0.16,Albus Ferros,Rare,Unit,Order,Origins
+653024,Albus Ferros,2026-02-23,0.16,3,63,0,0.0,0.0,0.125,0.28,0.115,Albus Ferros,Rare,Unit,Order,Origins
+653024,Albus Ferros,2026-03-02,0.115,3,70,0,0.0732,0.0417,0.16,-0.2812,0.115,Albus Ferros,Rare,Unit,Order,Origins
+653024,Albus Ferros,2026-03-09,0.115,3,77,0,0.0392,0.1875,0.115,0.0,0.13,Albus Ferros,Rare,Unit,Order,Origins
+653069,Altar To Unity,2025-12-29,0.12,2,14,0,0.0,0.0,0.135,-0.1111,0.125,Altar To Unity,Uncommon,Battlefield,Colorless,Origins
+653069,Altar To Unity,2026-01-05,0.125,2,21,0,0.0,0.0,0.12,0.0417,0.13,Altar To Unity,Uncommon,Battlefield,Colorless,Origins
+653069,Altar To Unity,2026-01-12,0.13,2,28,1,0.0,0.0,0.125,0.04,0.1167,Altar To Unity,Uncommon,Battlefield,Colorless,Origins
+653069,Altar To Unity,2026-01-19,0.1167,2,35,1,0.0,0.0,0.13,-0.1023,0.095,Altar To Unity,Uncommon,Battlefield,Colorless,Origins
+653069,Altar To Unity,2026-01-26,0.095,2,42,1,0.0,0.0,0.1167,-0.1859,0.09,Altar To Unity,Uncommon,Battlefield,Colorless,Origins
+653069,Altar To Unity,2026-02-02,0.09,2,49,1,0.0,0.0,0.095,-0.0526,0.0967,Altar To Unity,Uncommon,Battlefield,Colorless,Origins
+653069,Altar To Unity,2026-02-09,0.0967,2,56,0,0.0,0.0,0.09,0.0744,0.1,Altar To Unity,Uncommon,Battlefield,Colorless,Origins
+653069,Altar To Unity,2026-02-16,0.1,2,63,0,0.0,0.0,0.0967,0.0341,0.1,Altar To Unity,Uncommon,Battlefield,Colorless,Origins
+653069,Altar To Unity,2026-02-23,0.1,2,70,0,0.0,0.0,0.1,0.0,0.1167,Altar To Unity,Uncommon,Battlefield,Colorless,Origins
+653069,Altar To Unity,2026-03-02,0.1167,2,77,0,0.0,0.0,0.1,0.167,0.11,Altar To Unity,Uncommon,Battlefield,Colorless,Origins
+653069,Altar To Unity,2026-03-09,0.11,2,84,0,0.0,0.0,0.1167,-0.0574,0.09,Altar To Unity,Uncommon,Battlefield,Colorless,Origins
+664966,Altar of Memories,2026-02-16,0.18,3,14,0,0.0,0.0,1.5,-0.88,0.16,Altar of Memories,Rare,Gear,Order,Spiritforged
+664966,Altar of Memories,2026-02-23,0.16,3,21,0,0.0,0.0,0.18,-0.1111,0.21,Altar of Memories,Rare,Gear,Order,Spiritforged
+664966,Altar of Memories,2026-03-02,0.21,3,28,0,0.0732,0.0417,0.16,0.3125,0.16,Altar of Memories,Rare,Gear,Order,Spiritforged
+664966,Altar of Memories,2026-03-09,0.16,3,35,0,0.0392,0.1875,0.21,-0.2381,0.18,Altar of Memories,Rare,Gear,Order,Spiritforged
+666481,Ancient Henge,2026-02-09,5.18,4,14,0,0.0586,0.075,9.99,-0.4815,2.62,Ancient Henge,Epic,Unit,Body,Spiritforged
+666481,Ancient Henge,2026-02-16,2.62,4,21,0,0.0,0.0,5.18,-0.4942,2.26,Ancient Henge,Epic,Unit,Body,Spiritforged
+666481,Ancient Henge,2026-02-23,2.26,4,28,0,0.0,0.0,2.62,-0.1374,1.8767,Ancient Henge,Epic,Unit,Body,Spiritforged
+666481,Ancient Henge,2026-03-02,1.8767,4,35,0,0.0488,0.0417,2.26,-0.1696,1.775,Ancient Henge,Epic,Unit,Body,Spiritforged
+666481,Ancient Henge,2026-03-09,1.775,4,42,0,0.0863,0.125,1.8767,-0.0542,2.25,Ancient Henge,Epic,Unit,Body,Spiritforged
+666834,Ancient Warmonger,2026-02-09,0.12,2,14,0,0.1748,0.35,0.0967,0.241,0.125,Ancient Warmonger,Uncommon,Unit,Chaos,Spiritforged
+666834,Ancient Warmonger,2026-02-16,0.125,2,21,0,0.0,0.0,0.12,0.0417,0.09,Ancient Warmonger,Uncommon,Unit,Chaos,Spiritforged
+666834,Ancient Warmonger,2026-02-23,0.09,2,28,0,0.0,0.0,0.125,-0.28,0.08,Ancient Warmonger,Uncommon,Unit,Chaos,Spiritforged
+666834,Ancient Warmonger,2026-03-02,0.08,2,35,0,0.1512,0.3333,0.09,-0.1111,0.065,Ancient Warmonger,Uncommon,Unit,Chaos,Spiritforged
+666834,Ancient Warmonger,2026-03-09,0.065,2,42,0,0.1686,0.1875,0.08,-0.1875,0.06,Ancient Warmonger,Uncommon,Unit,Chaos,Spiritforged
+666801,Angle Shot,2026-02-23,0.14,2,14,0,0.0,0.0,0.12,0.1667,0.11,Angle Shot,Uncommon,Spell,Fury,Spiritforged
+666801,Angle Shot,2026-03-02,0.11,2,21,0,0.1512,0.3333,0.14,-0.2143,0.125,Angle Shot,Uncommon,Spell,Fury,Spiritforged
+666801,Angle Shot,2026-03-09,0.125,2,28,0,0.2353,0.3125,0.11,0.1364,0.09,Angle Shot,Uncommon,Spell,Fury,Spiritforged
+652932,"Anivia, Primal",2025-12-29,0.5733,3,14,0,0.0,0.0,0.71,-0.1925,0.47,"Anivia, Primal",Rare,Champion Unit,Body,Origins
+652932,"Anivia, Primal",2026-01-05,0.47,3,21,0,0.0,0.0,0.5733,-0.1802,0.43,"Anivia, Primal",Rare,Champion Unit,Body,Origins
+652932,"Anivia, Primal",2026-01-12,0.43,3,28,1,0.0,0.0,0.47,-0.0851,0.3833,"Anivia, Primal",Rare,Champion Unit,Body,Origins
+652932,"Anivia, Primal",2026-01-19,0.3833,3,35,1,0.0,0.0,0.43,-0.1086,0.355,"Anivia, Primal",Rare,Champion Unit,Body,Origins
+652932,"Anivia, Primal",2026-01-26,0.355,3,42,1,0.0,0.0,0.3833,-0.0738,0.39,"Anivia, Primal",Rare,Champion Unit,Body,Origins
+652932,"Anivia, Primal",2026-02-02,0.39,3,49,1,0.0827,0.0,0.355,0.0986,0.4467,"Anivia, Primal",Rare,Champion Unit,Body,Origins
+652932,"Anivia, Primal",2026-02-09,0.4467,3,56,0,0.0586,0.075,0.39,0.1454,0.465,"Anivia, Primal",Rare,Champion Unit,Body,Origins
+652932,"Anivia, Primal",2026-02-16,0.465,3,63,0,0.0,0.0,0.4467,0.041,0.405,"Anivia, Primal",Rare,Champion Unit,Body,Origins
+652932,"Anivia, Primal",2026-02-23,0.405,3,70,0,0.0,0.0,0.465,-0.129,0.5333,"Anivia, Primal",Rare,Champion Unit,Body,Origins
+652932,"Anivia, Primal",2026-03-02,0.5333,3,77,0,0.0488,0.0417,0.405,0.3168,0.605,"Anivia, Primal",Rare,Champion Unit,Body,Origins
+652932,"Anivia, Primal",2026-03-09,0.605,3,84,0,0.0863,0.125,0.5333,0.1344,0.6,"Anivia, Primal",Rare,Champion Unit,Body,Origins
+653136,"Annie, Fiery",2026-01-05,1.275,4,14,0,0.0,0.0,1.36,-0.0625,1.1933,"Annie, Fiery",Epic,Champion Unit,Fury,Proving Grounds
+653136,"Annie, Fiery",2026-01-12,1.1933,4,21,1,0.0,0.0,1.275,-0.0641,1.525,"Annie, Fiery",Epic,Champion Unit,Fury,Proving Grounds
+653136,"Annie, Fiery",2026-01-19,1.525,4,28,1,0.0,0.0,1.1933,0.278,1.435,"Annie, Fiery",Epic,Champion Unit,Fury,Proving Grounds
+653136,"Annie, Fiery",2026-01-26,1.435,4,35,1,0.0,0.0,1.525,-0.059,1.5133,"Annie, Fiery",Epic,Champion Unit,Fury,Proving Grounds
+653136,"Annie, Fiery",2026-02-02,1.5133,4,42,1,0.1763,0.0,1.435,0.0546,1.63,"Annie, Fiery",Epic,Champion Unit,Fury,Proving Grounds
+653136,"Annie, Fiery",2026-02-09,1.63,4,49,0,0.1748,0.35,1.5133,0.0771,1.805,"Annie, Fiery",Epic,Champion Unit,Fury,Proving Grounds
+653136,"Annie, Fiery",2026-02-16,1.805,4,56,0,0.0,0.0,1.63,0.1074,1.95,"Annie, Fiery",Epic,Champion Unit,Fury,Proving Grounds
+653136,"Annie, Fiery",2026-02-23,1.95,4,63,0,0.0,0.0,1.805,0.0803,2.51,"Annie, Fiery",Epic,Champion Unit,Fury,Proving Grounds
+653136,"Annie, Fiery",2026-03-02,2.51,4,70,0,0.1512,0.3333,1.95,0.2872,2.6,"Annie, Fiery",Epic,Champion Unit,Fury,Proving Grounds
+653136,"Annie, Fiery",2026-03-09,2.6,4,77,0,0.2353,0.3125,2.51,0.0359,2.72,"Annie, Fiery",Epic,Champion Unit,Fury,Proving Grounds
+653145,"Annie, Stubborn",2026-01-05,5.65,3,14,0,0.0,0.0,5.78,-0.0225,5.54,"Annie, Stubborn",Rare,Champion Unit,Chaos,Proving Grounds
+653145,"Annie, Stubborn",2026-01-12,5.54,3,21,1,0.0,0.0,5.65,-0.0195,6.3,"Annie, Stubborn",Rare,Champion Unit,Chaos,Proving Grounds
+653145,"Annie, Stubborn",2026-01-19,6.3,3,28,1,0.0,0.0,5.54,0.1372,6.605,"Annie, Stubborn",Rare,Champion Unit,Chaos,Proving Grounds
+653145,"Annie, Stubborn",2026-01-26,6.605,3,35,1,0.0,0.0,6.3,0.0484,6.6,"Annie, Stubborn",Rare,Champion Unit,Chaos,Proving Grounds
+653145,"Annie, Stubborn",2026-02-02,6.6,3,42,1,0.1763,0.0,6.605,-0.0008,5.605,"Annie, Stubborn",Rare,Champion Unit,Chaos,Proving Grounds
+653145,"Annie, Stubborn",2026-02-09,5.605,3,49,0,0.1748,0.35,6.6,-0.1508,5.205,"Annie, Stubborn",Rare,Champion Unit,Chaos,Proving Grounds
+653145,"Annie, Stubborn",2026-02-16,5.205,3,56,0,0.0,0.0,5.605,-0.0714,6.5933,"Annie, Stubborn",Rare,Champion Unit,Chaos,Proving Grounds
+653145,"Annie, Stubborn",2026-02-23,6.5933,3,63,0,0.0,0.0,5.205,0.2667,7.38,"Annie, Stubborn",Rare,Champion Unit,Chaos,Proving Grounds
+653145,"Annie, Stubborn",2026-03-02,7.38,3,70,0,0.1512,0.3333,6.5933,0.1193,5.83,"Annie, Stubborn",Rare,Champion Unit,Chaos,Proving Grounds
+653145,"Annie, Stubborn",2026-03-09,5.83,3,77,0,0.1686,0.1875,7.38,-0.21,5.54,"Annie, Stubborn",Rare,Champion Unit,Chaos,Proving Grounds
+665143,"Aphelios, Exalted (Rare)",2026-02-16,0.295,3,14,0,0.0,0.0,1.5533,-0.8101,0.265,"Aphelios, Exalted",Rare,Champion Unit,Calm,Spiritforged
+665143,"Aphelios, Exalted (Rare)",2026-02-23,0.265,3,21,0,0.0,0.0,0.295,-0.1017,0.3,"Aphelios, Exalted",Rare,Champion Unit,Calm,Spiritforged
+665143,"Aphelios, Exalted (Rare)",2026-03-02,0.3,3,28,0,0.0878,0.1667,0.265,0.1321,0.39,"Aphelios, Exalted",Rare,Champion Unit,Calm,Spiritforged
+665143,"Aphelios, Exalted (Rare)",2026-03-09,0.39,3,35,0,0.102,0.125,0.3,0.3,0.38,"Aphelios, Exalted",Rare,Champion Unit,Calm,Spiritforged
+666788,"Aphelios, Exalted (Showcase)",2026-02-23,99.15,5,14,0,0.0,0.0,118.34,-0.1622,99.9267,"Aphelios, Exalted",Showcase,Champion Unit,Calm,Spiritforged
+666787,"Aphelios, Exalted (Showcase)",2026-03-02,653.04,5,14,0,0.0878,0.1667,653.04,0.0,653.04,"Aphelios, Exalted",Showcase,Champion Unit,Calm,Spiritforged
+666788,"Aphelios, Exalted (Showcase)",2026-03-02,99.9267,5,21,0,0.0878,0.1667,99.15,0.0078,98.755,"Aphelios, Exalted",Showcase,Champion Unit,Calm,Spiritforged
+666787,"Aphelios, Exalted (Showcase)",2026-03-09,653.04,5,21,0,0.102,0.125,653.04,0.0,653.04,"Aphelios, Exalted",Showcase,Champion Unit,Calm,Spiritforged
+666788,"Aphelios, Exalted (Showcase)",2026-03-09,98.755,5,28,0,0.102,0.125,99.9267,-0.0117,94.54,"Aphelios, Exalted",Showcase,Champion Unit,Calm,Spiritforged
+666583,Apprentice Smith,2026-02-09,0.135,2,14,0,0.1072,0.125,0.1067,0.2652,0.14,Apprentice Smith,Uncommon,Unit,Calm,Spiritforged
+666583,Apprentice Smith,2026-02-16,0.14,2,21,0,0.0,0.0,0.135,0.037,0.1167,Apprentice Smith,Uncommon,Unit,Calm,Spiritforged
+666583,Apprentice Smith,2026-02-23,0.1167,2,28,0,0.0,0.0,0.14,-0.1664,0.115,Apprentice Smith,Uncommon,Unit,Calm,Spiritforged
+666583,Apprentice Smith,2026-03-02,0.115,2,35,0,0.0878,0.1667,0.1167,-0.0146,0.145,Apprentice Smith,Uncommon,Unit,Calm,Spiritforged
+666583,Apprentice Smith,2026-03-09,0.145,2,42,0,0.102,0.125,0.115,0.2609,0.12,Apprentice Smith,Uncommon,Unit,Calm,Spiritforged
+666816,Arcane Shift,2026-02-09,16.96,4,14,0,0.0,0.0,30.155,-0.4376,15.165,Arcane Shift,Epic,Signature Spell,Mind|Chaos,Spiritforged
+666816,Arcane Shift,2026-02-16,15.165,4,21,0,0.0,0.0,16.96,-0.1058,16.495,Arcane Shift,Epic,Signature Spell,Mind|Chaos,Spiritforged
+666816,Arcane Shift,2026-02-23,16.495,4,28,0,0.0,0.0,15.165,0.0877,9.09,Arcane Shift,Epic,Signature Spell,Mind|Chaos,Spiritforged
+666816,Arcane Shift,2026-03-02,9.09,4,35,0,0.0,0.0,16.495,-0.4489,5.02,Arcane Shift,Epic,Signature Spell,Mind|Chaos,Spiritforged
+666816,Arcane Shift,2026-03-09,5.02,4,42,0,0.0,0.0,9.09,-0.4477,4.42,Arcane Shift,Epic,Signature Spell,Mind|Chaos,Spiritforged
+652907,Arena Bar,2025-12-29,0.1167,1,14,0,0.0,0.0,0.14,-0.1664,0.105,Arena Bar,Common,Gear,Body,Origins
+652907,Arena Bar,2026-01-05,0.105,1,21,0,0.0,0.0,0.1167,-0.1003,0.095,Arena Bar,Common,Gear,Body,Origins
+652907,Arena Bar,2026-01-12,0.095,1,28,1,0.0,0.0,0.105,-0.0952,0.1,Arena Bar,Common,Gear,Body,Origins
+652907,Arena Bar,2026-01-19,0.1,1,35,1,0.0,0.0,0.095,0.0526,0.1,Arena Bar,Common,Gear,Body,Origins
+652907,Arena Bar,2026-01-26,0.1,1,42,1,0.0,0.0,0.1,0.0,0.1,Arena Bar,Common,Gear,Body,Origins
+652907,Arena Bar,2026-02-02,0.1,1,49,1,0.0827,0.0,0.1,0.0,0.0667,Arena Bar,Common,Gear,Body,Origins
+652907,Arena Bar,2026-02-09,0.0667,1,56,0,0.0586,0.075,0.1,-0.333,0.07,Arena Bar,Common,Gear,Body,Origins
+652907,Arena Bar,2026-02-16,0.07,1,63,0,0.0,0.0,0.0667,0.0495,0.085,Arena Bar,Common,Gear,Body,Origins
+652907,Arena Bar,2026-02-23,0.085,1,70,0,0.0,0.0,0.07,0.2143,0.0867,Arena Bar,Common,Gear,Body,Origins
+652907,Arena Bar,2026-03-02,0.0867,1,77,0,0.0488,0.0417,0.085,0.02,0.11,Arena Bar,Common,Gear,Body,Origins
+652907,Arena Bar,2026-03-09,0.11,1,84,0,0.0863,0.125,0.0867,0.2687,0.14,Arena Bar,Common,Gear,Body,Origins
+666812,Arise!,2026-02-09,36.2767,4,14,0,0.0,0.0,26.885,0.3493,33.56,Arise!,Epic,Signature Spell,Calm|Order,Spiritforged
+666812,Arise!,2026-02-16,33.56,4,21,0,0.0,0.0,36.2767,-0.0749,27.48,Arise!,Epic,Signature Spell,Calm|Order,Spiritforged
+666812,Arise!,2026-02-23,27.48,4,28,0,0.0,0.0,33.56,-0.1812,18.4933,Arise!,Epic,Signature Spell,Calm|Order,Spiritforged
+666812,Arise!,2026-03-02,18.4933,4,35,0,0.0,0.0,27.48,-0.327,16.78,Arise!,Epic,Signature Spell,Calm|Order,Spiritforged
+666812,Arise!,2026-03-09,16.78,4,42,0,0.0,0.0,18.4933,-0.0926,15.93,Arise!,Epic,Signature Spell,Calm|Order,Spiritforged
+666790,Armed Assailant,2026-02-23,0.05,1,14,0,0.0,0.0,0.04,0.25,0.04,Armed Assailant,Common,Unit,Fury,Spiritforged
+666790,Armed Assailant,2026-03-02,0.04,1,21,0,0.1512,0.3333,0.05,-0.2,0.04,Armed Assailant,Common,Unit,Fury,Spiritforged
+666790,Armed Assailant,2026-03-09,0.04,1,28,0,0.2353,0.3125,0.04,0.0,0.04,Armed Assailant,Common,Unit,Fury,Spiritforged
+653070,Aspirant'S Climb,2026-01-05,0.21,2,14,0,0.0,0.0,0.22,-0.0455,0.2,Aspirant'S Climb,Uncommon,Battlefield,Colorless,Origins
+653070,Aspirant'S Climb,2026-01-12,0.2,2,21,1,0.0,0.0,0.21,-0.0476,0.205,Aspirant'S Climb,Uncommon,Battlefield,Colorless,Origins
+653070,Aspirant'S Climb,2026-01-19,0.205,2,28,1,0.0,0.0,0.2,0.025,0.185,Aspirant'S Climb,Uncommon,Battlefield,Colorless,Origins
+653070,Aspirant'S Climb,2026-01-26,0.185,2,35,1,0.0,0.0,0.205,-0.0976,0.1867,Aspirant'S Climb,Uncommon,Battlefield,Colorless,Origins
+653070,Aspirant'S Climb,2026-02-02,0.1867,2,42,1,0.0,0.0,0.185,0.0092,0.185,Aspirant'S Climb,Uncommon,Battlefield,Colorless,Origins
+653070,Aspirant'S Climb,2026-02-09,0.185,2,49,0,0.0,0.0,0.1867,-0.0091,0.195,Aspirant'S Climb,Uncommon,Battlefield,Colorless,Origins
+653070,Aspirant'S Climb,2026-02-16,0.195,2,56,0,0.0,0.0,0.185,0.0541,0.2133,Aspirant'S Climb,Uncommon,Battlefield,Colorless,Origins
+653070,Aspirant'S Climb,2026-02-23,0.2133,2,63,0,0.0,0.0,0.195,0.0938,0.23,Aspirant'S Climb,Uncommon,Battlefield,Colorless,Origins
+653070,Aspirant'S Climb,2026-03-02,0.23,2,70,0,0.0,0.0,0.2133,0.0783,0.235,Aspirant'S Climb,Uncommon,Battlefield,Colorless,Origins
+653070,Aspirant'S Climb,2026-03-09,0.235,2,77,0,0.0,0.0,0.23,0.0217,0.26,Aspirant'S Climb,Uncommon,Battlefield,Colorless,Origins
+666491,Aspiring Engineer,2026-02-23,0.04,1,14,0,0.0,0.0,0.04,0.0,0.04,Aspiring Engineer,Common,Unit,Mind,Spiritforged
+666491,Aspiring Engineer,2026-03-02,0.04,1,21,0,0.0976,0.1667,0.04,0.0,0.04,Aspiring Engineer,Common,Unit,Mind,Spiritforged
+666491,Aspiring Engineer,2026-03-09,0.04,1,28,0,0.2353,0.3125,0.04,0.0,0.04,Aspiring Engineer,Common,Unit,Mind,Spiritforged
+666811,Assembly Rig,2026-02-16,0.155,3,14,0,0.0,0.0,0.38,-0.5921,0.15,Assembly Rig,Rare,Gear,Fury,Spiritforged
+666811,Assembly Rig,2026-02-23,0.15,3,21,0,0.0,0.0,0.155,-0.0323,0.105,Assembly Rig,Rare,Gear,Fury,Spiritforged
+666811,Assembly Rig,2026-03-02,0.105,3,28,0,0.1512,0.3333,0.15,-0.3,0.115,Assembly Rig,Rare,Gear,Fury,Spiritforged
+666811,Assembly Rig,2026-03-09,0.115,3,35,0,0.2353,0.3125,0.105,0.0952,0.12,Assembly Rig,Rare,Gear,Fury,Spiritforged
+652888,Ava Achiever,2026-01-05,0.215,3,14,0,0.0,0.0,0.24,-0.1042,0.19,Ava Achiever,Rare,Unit,Mind,Origins
+652888,Ava Achiever,2026-01-12,0.19,3,21,1,0.0,0.0,0.215,-0.1163,0.205,Ava Achiever,Rare,Unit,Mind,Origins
+652888,Ava Achiever,2026-01-19,0.205,3,28,1,0.0,0.0,0.19,0.0789,0.17,Ava Achiever,Rare,Unit,Mind,Origins
+652888,Ava Achiever,2026-01-26,0.17,3,35,1,0.0,0.0,0.205,-0.1707,0.1967,Ava Achiever,Rare,Unit,Mind,Origins
+652888,Ava Achiever,2026-02-02,0.1967,3,42,1,0.1223,0.0,0.17,0.1571,0.235,Ava Achiever,Rare,Unit,Mind,Origins
+652888,Ava Achiever,2026-02-09,0.235,3,49,0,0.1351,0.125,0.1967,0.1947,0.24,Ava Achiever,Rare,Unit,Mind,Origins
+652888,Ava Achiever,2026-02-16,0.24,3,56,0,0.0,0.0,0.235,0.0213,0.1933,Ava Achiever,Rare,Unit,Mind,Origins
+652888,Ava Achiever,2026-02-23,0.1933,3,63,0,0.0,0.0,0.24,-0.1946,0.215,Ava Achiever,Rare,Unit,Mind,Origins
+652888,Ava Achiever,2026-03-02,0.215,3,70,0,0.0976,0.1667,0.1933,0.1123,0.245,Ava Achiever,Rare,Unit,Mind,Origins
+652888,Ava Achiever,2026-03-09,0.245,3,77,0,0.2353,0.3125,0.215,0.1395,0.31,Ava Achiever,Rare,Unit,Mind,Origins
+666398,"Azir, Ascendant (Rare)",2026-02-16,0.255,3,14,0,0.0,0.0,1.3533,-0.8116,0.22,"Azir, Ascendant",Rare,Champion Unit,Calm,Spiritforged
+666398,"Azir, Ascendant (Rare)",2026-02-23,0.22,3,21,0,0.0,0.0,0.255,-0.1373,0.2133,"Azir, Ascendant",Rare,Champion Unit,Calm,Spiritforged
+666398,"Azir, Ascendant (Rare)",2026-03-02,0.2133,3,28,0,0.0878,0.1667,0.22,-0.0305,0.26,"Azir, Ascendant",Rare,Champion Unit,Calm,Spiritforged
+666398,"Azir, Ascendant (Rare)",2026-03-09,0.26,3,35,0,0.102,0.125,0.2133,0.2189,0.24,"Azir, Ascendant",Rare,Champion Unit,Calm,Spiritforged
+666395,"Azir, Ascendant (Showcase)",2026-02-23,1.68,5,14,0,0.0,0.0,2.225,-0.2449,1.3833,"Azir, Ascendant",Showcase,Champion Unit,Calm,Spiritforged
+666395,"Azir, Ascendant (Showcase)",2026-03-02,1.3833,5,21,0,0.0878,0.1667,1.68,-0.1766,1.335,"Azir, Ascendant",Showcase,Champion Unit,Calm,Spiritforged
+666395,"Azir, Ascendant (Showcase)",2026-03-09,1.335,5,28,0,0.102,0.125,1.3833,-0.0349,1.29,"Azir, Ascendant",Showcase,Champion Unit,Calm,Spiritforged
+666473,"Azir, Sovereign (Epic)",2026-02-09,9.6,4,14,0,0.0586,0.075,14.59,-0.342,9.365,"Azir, Sovereign",Epic,Champion Unit,Order,Spiritforged
+666473,"Azir, Sovereign (Epic)",2026-02-16,9.365,4,21,0,0.0,0.0,9.6,-0.0245,6.82,"Azir, Sovereign",Epic,Champion Unit,Order,Spiritforged
+666473,"Azir, Sovereign (Epic)",2026-02-23,6.82,4,28,0,0.0,0.0,9.365,-0.2718,4.87,"Azir, Sovereign",Epic,Champion Unit,Order,Spiritforged
+666473,"Azir, Sovereign (Epic)",2026-03-02,4.87,4,35,0,0.0732,0.0417,6.82,-0.2859,3.685,"Azir, Sovereign",Epic,Champion Unit,Order,Spiritforged
+666473,"Azir, Sovereign (Epic)",2026-03-09,3.685,4,42,0,0.0392,0.1875,4.87,-0.2433,3.59,"Azir, Sovereign",Epic,Champion Unit,Order,Spiritforged
+666474,"Azir, Sovereign (Showcase)",2026-02-23,8.225,5,14,0,0.0,0.0,9.41,-0.1259,6.7467,"Azir, Sovereign",Showcase,Champion Unit,Order,Spiritforged
+666474,"Azir, Sovereign (Showcase)",2026-03-02,6.7467,5,21,0,0.0732,0.0417,8.225,-0.1797,4.555,"Azir, Sovereign",Showcase,Champion Unit,Order,Spiritforged
+666474,"Azir, Sovereign (Showcase)",2026-03-09,4.555,5,28,0,0.0392,0.1875,6.7467,-0.3249,4.05,"Azir, Sovereign",Showcase,Champion Unit,Order,Spiritforged
+664970,B.F. Sword,2026-02-16,0.385,2,14,0,0.0,0.0,0.83,-0.5361,0.3033,B.F. Sword,Uncommon,Gear,Order,Spiritforged
+664970,B.F. Sword,2026-02-23,0.3033,2,21,0,0.0,0.0,0.385,-0.2122,0.22,B.F. Sword,Uncommon,Gear,Order,Spiritforged
+664970,B.F. Sword,2026-03-02,0.22,2,28,0,0.0732,0.0417,0.3033,-0.2746,0.225,B.F. Sword,Uncommon,Gear,Order,Spiritforged
+664970,B.F. Sword,2026-03-09,0.225,2,35,0,0.0392,0.1875,0.22,0.0227,0.21,B.F. Sword,Uncommon,Gear,Order,Spiritforged
+652999,Back To Back,2025-12-29,0.0767,1,14,0,0.0,0.0,0.12,-0.3608,0.05,Back To Back,Common,Spell,Order,Origins
+652999,Back To Back,2026-01-05,0.05,1,21,0,0.0,0.0,0.0767,-0.3481,0.065,Back To Back,Common,Spell,Order,Origins
+652999,Back To Back,2026-01-12,0.065,1,28,1,0.0,0.0,0.05,0.3,0.0733,Back To Back,Common,Spell,Order,Origins
+652999,Back To Back,2026-01-19,0.0733,1,35,1,0.0,0.0,0.065,0.1277,0.07,Back To Back,Common,Spell,Order,Origins
+652999,Back To Back,2026-01-26,0.07,1,42,1,0.0,0.0,0.0733,-0.045,0.07,Back To Back,Common,Spell,Order,Origins
+652999,Back To Back,2026-02-02,0.07,1,49,1,0.0827,0.0,0.07,0.0,0.06,Back To Back,Common,Spell,Order,Origins
+652999,Back To Back,2026-02-09,0.06,1,56,0,0.0586,0.075,0.07,-0.1429,0.07,Back To Back,Common,Spell,Order,Origins
+652999,Back To Back,2026-02-16,0.07,1,63,0,0.0,0.0,0.06,0.1667,0.065,Back To Back,Common,Spell,Order,Origins
+652999,Back To Back,2026-02-23,0.065,1,70,0,0.0,0.0,0.07,-0.0714,0.0933,Back To Back,Common,Spell,Order,Origins
+652999,Back To Back,2026-03-02,0.0933,1,77,0,0.0732,0.0417,0.065,0.4354,0.09,Back To Back,Common,Spell,Order,Origins
+652999,Back To Back,2026-03-09,0.09,1,84,0,0.0392,0.1875,0.0933,-0.0354,0.09,Back To Back,Common,Spell,Order,Origins
+653071,Back-Alley Bar,2025-12-29,0.1633,2,14,0,0.0,0.0,0.18,-0.0928,0.135,Back-Alley Bar,Uncommon,Battlefield,Colorless,Origins
+653071,Back-Alley Bar,2026-01-05,0.135,2,21,0,0.0,0.0,0.1633,-0.1733,0.115,Back-Alley Bar,Uncommon,Battlefield,Colorless,Origins
+653071,Back-Alley Bar,2026-01-12,0.115,2,28,1,0.0,0.0,0.135,-0.1481,0.1233,Back-Alley Bar,Uncommon,Battlefield,Colorless,Origins
+653071,Back-Alley Bar,2026-01-19,0.1233,2,35,1,0.0,0.0,0.115,0.0722,0.135,Back-Alley Bar,Uncommon,Battlefield,Colorless,Origins
+653071,Back-Alley Bar,2026-01-26,0.135,2,42,1,0.0,0.0,0.1233,0.0949,0.13,Back-Alley Bar,Uncommon,Battlefield,Colorless,Origins
+653071,Back-Alley Bar,2026-02-02,0.13,2,49,1,0.0,0.0,0.135,-0.037,0.1267,Back-Alley Bar,Uncommon,Battlefield,Colorless,Origins
+653071,Back-Alley Bar,2026-02-09,0.1267,2,56,0,0.0,0.0,0.13,-0.0254,0.105,Back-Alley Bar,Uncommon,Battlefield,Colorless,Origins
+653071,Back-Alley Bar,2026-02-16,0.105,2,63,0,0.0,0.0,0.1267,-0.1713,0.125,Back-Alley Bar,Uncommon,Battlefield,Colorless,Origins
+653071,Back-Alley Bar,2026-02-23,0.125,2,70,0,0.0,0.0,0.105,0.1905,0.13,Back-Alley Bar,Uncommon,Battlefield,Colorless,Origins
+653071,Back-Alley Bar,2026-03-02,0.13,2,77,0,0.0,0.0,0.125,0.04,0.145,Back-Alley Bar,Uncommon,Battlefield,Colorless,Origins
+653071,Back-Alley Bar,2026-03-09,0.145,2,84,0,0.0,0.0,0.13,0.1154,0.14,Back-Alley Bar,Uncommon,Battlefield,Colorless,Origins
+653038,Baited Hook,2026-01-05,20.13,4,14,0,0.0,0.0,28.045,-0.2822,19.3067,Baited Hook,Epic,Gear,Order,Origins
+653038,Baited Hook,2026-01-12,19.3067,4,21,1,0.0,0.0,20.13,-0.0409,25.465,Baited Hook,Epic,Gear,Order,Origins
+653038,Baited Hook,2026-01-19,25.465,4,28,1,0.0,0.0,19.3067,0.319,36.59,Baited Hook,Epic,Gear,Order,Origins
+653038,Baited Hook,2026-01-26,36.59,4,35,1,0.0,0.0,25.465,0.4369,34.82,Baited Hook,Epic,Gear,Order,Origins
+653038,Baited Hook,2026-02-02,34.82,4,42,1,0.0827,0.0,36.59,-0.0484,45.16,Baited Hook,Epic,Gear,Order,Origins
+653038,Baited Hook,2026-02-09,45.16,4,49,0,0.0586,0.075,34.82,0.297,46.155,Baited Hook,Epic,Gear,Order,Origins
+653038,Baited Hook,2026-02-16,46.155,4,56,0,0.0,0.0,45.16,0.022,41.83,Baited Hook,Epic,Gear,Order,Origins
+653038,Baited Hook,2026-02-23,41.83,4,63,0,0.0,0.0,46.155,-0.0937,40.675,Baited Hook,Epic,Gear,Order,Origins
+653038,Baited Hook,2026-03-02,40.675,4,70,0,0.0732,0.0417,41.83,-0.0276,41.59,Baited Hook,Epic,Gear,Order,Origins
+653038,Baited Hook,2026-03-09,41.59,4,77,0,0.0392,0.1875,40.675,0.0225,60.19,Baited Hook,Epic,Gear,Order,Origins
+653072,Bandle Tree,2025-12-29,0.1567,2,14,0,0.0,0.0,0.21,-0.2538,0.16,Bandle Tree,Uncommon,Battlefield,Colorless,Origins
+653072,Bandle Tree,2026-01-05,0.16,2,21,0,0.0,0.0,0.1567,0.0211,0.15,Bandle Tree,Uncommon,Battlefield,Colorless,Origins
+653072,Bandle Tree,2026-01-12,0.15,2,28,1,0.0,0.0,0.16,-0.0625,0.13,Bandle Tree,Uncommon,Battlefield,Colorless,Origins
+653072,Bandle Tree,2026-01-19,0.13,2,35,1,0.0,0.0,0.15,-0.1333,0.11,Bandle Tree,Uncommon,Battlefield,Colorless,Origins
+653072,Bandle Tree,2026-01-26,0.11,2,42,1,0.0,0.0,0.13,-0.1538,0.12,Bandle Tree,Uncommon,Battlefield,Colorless,Origins
+653072,Bandle Tree,2026-02-02,0.12,2,49,1,0.0,0.0,0.11,0.0909,0.17,Bandle Tree,Uncommon,Battlefield,Colorless,Origins
+653072,Bandle Tree,2026-02-09,0.17,2,56,0,0.0,0.0,0.12,0.4167,0.14,Bandle Tree,Uncommon,Battlefield,Colorless,Origins
+653072,Bandle Tree,2026-02-16,0.14,2,63,0,0.0,0.0,0.17,-0.1765,0.17,Bandle Tree,Uncommon,Battlefield,Colorless,Origins
+653072,Bandle Tree,2026-02-23,0.17,2,70,0,0.0,0.0,0.14,0.2143,0.19,Bandle Tree,Uncommon,Battlefield,Colorless,Origins
+653072,Bandle Tree,2026-03-02,0.19,2,77,0,0.0,0.0,0.17,0.1176,0.19,Bandle Tree,Uncommon,Battlefield,Colorless,Origins
+653072,Bandle Tree,2026-03-09,0.19,2,84,0,0.0,0.0,0.19,0.0,0.19,Bandle Tree,Uncommon,Battlefield,Colorless,Origins
+666442,"Bard, Mercurial (Rare)",2026-02-16,0.225,3,14,0,0.0,0.0,1.07,-0.7897,0.21,"Bard, Mercurial",Rare,Champion Unit,Mind,Spiritforged
+666442,"Bard, Mercurial (Rare)",2026-02-23,0.21,3,21,0,0.0,0.0,0.225,-0.0667,0.25,"Bard, Mercurial",Rare,Champion Unit,Mind,Spiritforged
+666442,"Bard, Mercurial (Rare)",2026-03-02,0.25,3,28,0,0.0976,0.1667,0.21,0.1905,0.22,"Bard, Mercurial",Rare,Champion Unit,Mind,Spiritforged
+666442,"Bard, Mercurial (Rare)",2026-03-09,0.22,3,35,0,0.2353,0.3125,0.25,-0.12,0.22,"Bard, Mercurial",Rare,Champion Unit,Mind,Spiritforged
+668214,"Bard, Mercurial (Showcase)",2026-02-23,63.52,5,14,0,0.0,0.0,68.39,-0.0712,54.67,"Bard, Mercurial",Showcase,Champion Unit,Mind,Spiritforged
+668215,"Bard, Mercurial (Showcase)",2026-02-23,607.245,5,14,0,0.0,0.0,630.645,-0.0371,589.6067,"Bard, Mercurial",Showcase,Champion Unit,Mind,Spiritforged
+668214,"Bard, Mercurial (Showcase)",2026-03-02,54.67,5,21,0,0.0976,0.1667,63.52,-0.1393,47.87,"Bard, Mercurial",Showcase,Champion Unit,Mind,Spiritforged
+668215,"Bard, Mercurial (Showcase)",2026-03-02,589.6067,5,21,0,0.0976,0.1667,607.245,-0.029,586.05,"Bard, Mercurial",Showcase,Champion Unit,Mind,Spiritforged
+668214,"Bard, Mercurial (Showcase)",2026-03-09,47.87,5,28,0,0.2353,0.3125,54.67,-0.1244,45.39,"Bard, Mercurial",Showcase,Champion Unit,Mind,Spiritforged
+668215,"Bard, Mercurial (Showcase)",2026-03-09,586.05,5,28,0,0.2353,0.3125,589.6067,-0.006,586.05,"Bard, Mercurial",Showcase,Champion Unit,Mind,Spiritforged
+666802,Battering Ram,2026-02-16,0.37,2,14,0,0.0,0.0,1.57,-0.7643,0.26,Battering Ram,Uncommon,Unit,Fury,Spiritforged
+666802,Battering Ram,2026-02-23,0.26,2,21,0,0.0,0.0,0.37,-0.2973,0.2133,Battering Ram,Uncommon,Unit,Fury,Spiritforged
+666802,Battering Ram,2026-03-02,0.2133,2,28,0,0.1512,0.3333,0.26,-0.1796,0.205,Battering Ram,Uncommon,Unit,Fury,Spiritforged
+666802,Battering Ram,2026-03-09,0.205,2,35,0,0.2353,0.3125,0.2133,-0.0389,0.23,Battering Ram,Uncommon,Unit,Fury,Spiritforged
+663438,Battle Mistress (Rare),2026-02-16,0.175,3,14,0,0.0,0.0,0.62,-0.7177,0.1567,Battle Mistress,Rare,Legend,Body|Chaos,Spiritforged
+663438,Battle Mistress (Rare),2026-02-23,0.1567,3,21,0,0.0,0.0,0.175,-0.1046,0.13,Battle Mistress,Rare,Legend,Body|Chaos,Spiritforged
+663438,Battle Mistress (Rare),2026-03-02,0.13,3,28,0,0.0,0.0,0.1567,-0.1704,0.16,Battle Mistress,Rare,Legend,Body|Chaos,Spiritforged
+663438,Battle Mistress (Rare),2026-03-09,0.16,3,35,0,0.0,0.0,0.13,0.2308,0.16,Battle Mistress,Rare,Legend,Body|Chaos,Spiritforged
+666779,Battle Mistress (Showcase),2026-02-23,90.2133,5,14,0,0.0,0.0,82.31,0.096,79.22,Battle Mistress,Showcase,Legend,Body|Chaos,Spiritforged
+666779,Battle Mistress (Showcase),2026-03-02,79.22,5,21,0,0.0,0.0,90.2133,-0.1219,66.435,Battle Mistress,Showcase,Legend,Body|Chaos,Spiritforged
+666779,Battle Mistress (Showcase),2026-03-09,66.435,5,28,0,0.0,0.0,79.22,-0.1614,62.56,Battle Mistress,Showcase,Legend,Body|Chaos,Spiritforged
+666836,Beast Below,2026-02-09,0.1,2,14,0,0.1748,0.35,0.1,0.0,0.09,Beast Below,Uncommon,Unit,Chaos,Spiritforged
+666836,Beast Below,2026-02-16,0.09,2,21,0,0.0,0.0,0.1,-0.1,0.0767,Beast Below,Uncommon,Unit,Chaos,Spiritforged
+666836,Beast Below,2026-02-23,0.0767,2,28,0,0.0,0.0,0.09,-0.1478,0.08,Beast Below,Uncommon,Unit,Chaos,Spiritforged
+666836,Beast Below,2026-03-02,0.08,2,35,0,0.1512,0.3333,0.0767,0.043,0.115,Beast Below,Uncommon,Unit,Chaos,Spiritforged
+666836,Beast Below,2026-03-09,0.115,2,42,0,0.1686,0.1875,0.08,0.4375,0.12,Beast Below,Uncommon,Unit,Chaos,Spiritforged
+665009,Bellows Breath,2026-02-16,1.945,3,14,0,0.0,0.0,8.6667,-0.7756,1.885,Bellows Breath,Rare,Spell,Mind,Spiritforged
+665009,Bellows Breath,2026-02-23,1.885,3,21,0,0.0,0.0,1.945,-0.0308,1.1633,Bellows Breath,Rare,Spell,Mind,Spiritforged
+665009,Bellows Breath,2026-03-02,1.1633,3,28,0,0.0976,0.1667,1.885,-0.3829,1.235,Bellows Breath,Rare,Spell,Mind,Spiritforged
+665009,Bellows Breath,2026-03-09,1.235,3,35,0,0.2353,0.3125,1.1633,0.0616,1.21,Bellows Breath,Rare,Spell,Mind,Spiritforged
+652908,Bilgewater Bully,2025-12-29,0.0433,1,14,0,0.0,0.0,0.05,-0.134,0.035,Bilgewater Bully,Common,Unit,Body,Origins
+652908,Bilgewater Bully,2026-01-05,0.035,1,21,0,0.0,0.0,0.0433,-0.1917,0.03,Bilgewater Bully,Common,Unit,Body,Origins
+652908,Bilgewater Bully,2026-01-12,0.03,1,28,1,0.0,0.0,0.035,-0.1429,0.03,Bilgewater Bully,Common,Unit,Body,Origins
+652908,Bilgewater Bully,2026-01-19,0.03,1,35,1,0.0,0.0,0.03,0.0,0.03,Bilgewater Bully,Common,Unit,Body,Origins
+652908,Bilgewater Bully,2026-01-26,0.03,1,42,1,0.0,0.0,0.03,0.0,0.02,Bilgewater Bully,Common,Unit,Body,Origins
+652908,Bilgewater Bully,2026-02-02,0.02,1,49,1,0.0827,0.0,0.03,-0.3333,0.02,Bilgewater Bully,Common,Unit,Body,Origins
+652908,Bilgewater Bully,2026-02-09,0.02,1,56,0,0.0586,0.075,0.02,0.0,0.02,Bilgewater Bully,Common,Unit,Body,Origins
+652908,Bilgewater Bully,2026-02-16,0.02,1,63,0,0.0,0.0,0.02,0.0,0.03,Bilgewater Bully,Common,Unit,Body,Origins
+652908,Bilgewater Bully,2026-02-23,0.03,1,70,0,0.0,0.0,0.02,0.5,0.0533,Bilgewater Bully,Common,Unit,Body,Origins
+652908,Bilgewater Bully,2026-03-02,0.0533,1,77,0,0.0488,0.0417,0.03,0.7767,0.06,Bilgewater Bully,Common,Unit,Body,Origins
+652908,Bilgewater Bully,2026-03-09,0.06,1,84,0,0.0863,0.125,0.0533,0.1257,0.06,Bilgewater Bully,Common,Unit,Body,Origins
+666819,Black Market Broker,2026-02-23,0.0667,1,14,0,0.0,0.0,0.06,0.1117,0.055,Black Market Broker,Common,Unit,Chaos,Spiritforged
+666819,Black Market Broker,2026-03-02,0.055,1,21,0,0.1512,0.3333,0.0667,-0.1754,0.05,Black Market Broker,Common,Unit,Chaos,Spiritforged
+666819,Black Market Broker,2026-03-09,0.05,1,28,0,0.1686,0.1875,0.055,-0.0909,0.04,Black Market Broker,Common,Unit,Chaos,Spiritforged
+663441,Blade Dancer (Rare),2026-02-09,1.255,3,14,0,0.0,0.0,4.8533,-0.7414,0.17,Blade Dancer,Rare,Legend,Calm|Chaos,Spiritforged
+663441,Blade Dancer (Rare),2026-02-16,0.17,3,21,0,0.0,0.0,1.255,-0.8645,0.17,Blade Dancer,Rare,Legend,Calm|Chaos,Spiritforged
+663441,Blade Dancer (Rare),2026-02-23,0.17,3,28,0,0.0,0.0,0.17,0.0,0.125,Blade Dancer,Rare,Legend,Calm|Chaos,Spiritforged
+663441,Blade Dancer (Rare),2026-03-02,0.125,3,35,0,0.0,0.0,0.17,-0.2647,0.16,Blade Dancer,Rare,Legend,Calm|Chaos,Spiritforged
+663441,Blade Dancer (Rare),2026-03-09,0.16,3,42,0,0.0,0.0,0.125,0.28,0.16,Blade Dancer,Rare,Legend,Calm|Chaos,Spiritforged
+664882,Blade Dancer (Showcase),2026-02-23,228.88,5,14,0,0.0,0.0,221.305,0.0342,201.08,Blade Dancer,Showcase,Legend,Calm|Chaos,Spiritforged
+664882,Blade Dancer (Showcase),2026-03-02,201.08,5,21,0,0.0,0.0,228.88,-0.1215,186.495,Blade Dancer,Showcase,Legend,Calm|Chaos,Spiritforged
+664882,Blade Dancer (Showcase),2026-03-09,186.495,5,28,0,0.0,0.0,201.08,-0.0725,163.4,Blade Dancer,Showcase,Legend,Calm|Chaos,Spiritforged
+663432,Blade of the Ruined King,2026-02-09,9.88,4,14,0,0.0586,0.075,9.99,-0.011,5.25,Blade of the Ruined King,Epic,Gear,Order,Spiritforged
+663432,Blade of the Ruined King,2026-02-16,5.25,4,21,0,0.0,0.0,9.88,-0.4686,4.455,Blade of the Ruined King,Epic,Gear,Order,Spiritforged
+663432,Blade of the Ruined King,2026-02-23,4.455,4,28,0,0.0,0.0,5.25,-0.1514,3.57,Blade of the Ruined King,Epic,Gear,Order,Spiritforged
+663432,Blade of the Ruined King,2026-03-02,3.57,4,35,0,0.0732,0.0417,4.455,-0.1987,2.865,Blade of the Ruined King,Epic,Gear,Order,Spiritforged
+663432,Blade of the Ruined King,2026-03-09,2.865,4,42,0,0.0392,0.1875,3.57,-0.1975,4.66,Blade of the Ruined King,Epic,Gear,Order,Spiritforged
+666803,Blast Corps Cadet,2026-02-09,0.085,2,14,0,0.1748,0.35,0.0967,-0.121,0.125,Blast Corps Cadet,Uncommon,Unit,Fury,Spiritforged
+666803,Blast Corps Cadet,2026-02-16,0.125,2,21,0,0.0,0.0,0.085,0.4706,0.1167,Blast Corps Cadet,Uncommon,Unit,Fury,Spiritforged
+666803,Blast Corps Cadet,2026-02-23,0.1167,2,28,0,0.0,0.0,0.125,-0.0664,0.09,Blast Corps Cadet,Uncommon,Unit,Fury,Spiritforged
+666803,Blast Corps Cadet,2026-03-02,0.09,2,35,0,0.1512,0.3333,0.1167,-0.2288,0.09,Blast Corps Cadet,Uncommon,Unit,Fury,Spiritforged
+666803,Blast Corps Cadet,2026-03-09,0.09,2,42,0,0.2353,0.3125,0.09,0.0,0.1,Blast Corps Cadet,Uncommon,Unit,Fury,Spiritforged
+653147,Blast Of Power,2026-01-05,13.27,1,14,0,0.0,0.0,16.4,-0.1909,11.2033,Blast Of Power,Common,Spell,Order,Proving Grounds
+653147,Blast Of Power,2026-01-12,11.2033,1,21,1,0.0,0.0,13.27,-0.1557,9.61,Blast Of Power,Common,Spell,Order,Proving Grounds
+653147,Blast Of Power,2026-01-19,9.61,1,28,1,0.0,0.0,11.2033,-0.1422,8.885,Blast Of Power,Common,Spell,Order,Proving Grounds
+653147,Blast Of Power,2026-01-26,8.885,1,35,1,0.0,0.0,9.61,-0.0754,6.8667,Blast Of Power,Common,Spell,Order,Proving Grounds
+653147,Blast Of Power,2026-02-02,6.8667,1,42,1,0.0827,0.0,8.885,-0.2272,5.455,Blast Of Power,Common,Spell,Order,Proving Grounds
+653147,Blast Of Power,2026-02-09,5.455,1,49,0,0.0586,0.075,6.8667,-0.2056,5.105,Blast Of Power,Common,Spell,Order,Proving Grounds
+653147,Blast Of Power,2026-02-16,5.105,1,56,0,0.0,0.0,5.455,-0.0642,5.02,Blast Of Power,Common,Spell,Order,Proving Grounds
+653147,Blast Of Power,2026-02-23,5.02,1,63,0,0.0,0.0,5.105,-0.0167,5.105,Blast Of Power,Common,Spell,Order,Proving Grounds
+653147,Blast Of Power,2026-03-02,5.105,1,70,0,0.0732,0.0417,5.02,0.0169,5.09,Blast Of Power,Common,Spell,Order,Proving Grounds
+653147,Blast Of Power,2026-03-09,5.09,1,77,0,0.0392,0.1875,5.105,-0.0029,5.07,Blast Of Power,Common,Spell,Order,Proving Grounds
+652878,Blastcone Fae,2026-01-05,0.215,2,14,0,0.0,0.0,0.345,-0.3768,0.2267,Blastcone Fae,Uncommon,Unit,Mind,Origins
+652878,Blastcone Fae,2026-01-12,0.2267,2,21,1,0.0,0.0,0.215,0.0544,0.265,Blastcone Fae,Uncommon,Unit,Mind,Origins
+652878,Blastcone Fae,2026-01-19,0.265,2,28,1,0.0,0.0,0.2267,0.1689,0.2,Blastcone Fae,Uncommon,Unit,Mind,Origins
+652878,Blastcone Fae,2026-01-26,0.2,2,35,1,0.0,0.0,0.265,-0.2453,0.1967,Blastcone Fae,Uncommon,Unit,Mind,Origins
+652878,Blastcone Fae,2026-02-02,0.1967,2,42,1,0.1223,0.0,0.2,-0.0165,0.17,Blastcone Fae,Uncommon,Unit,Mind,Origins
+652878,Blastcone Fae,2026-02-09,0.17,2,49,0,0.1351,0.125,0.1967,-0.1357,0.18,Blastcone Fae,Uncommon,Unit,Mind,Origins
+652878,Blastcone Fae,2026-02-16,0.18,2,56,0,0.0,0.0,0.17,0.0588,0.2,Blastcone Fae,Uncommon,Unit,Mind,Origins
+652878,Blastcone Fae,2026-02-23,0.2,2,63,0,0.0,0.0,0.18,0.1111,0.225,Blastcone Fae,Uncommon,Unit,Mind,Origins
+652878,Blastcone Fae,2026-03-02,0.225,2,70,0,0.0976,0.1667,0.2,0.125,0.235,Blastcone Fae,Uncommon,Unit,Mind,Origins
+652878,Blastcone Fae,2026-03-09,0.235,2,77,0,0.2353,0.3125,0.225,0.0444,0.22,Blastcone Fae,Uncommon,Unit,Mind,Origins
+652771,Blazing Scorcher,2025-12-29,0.0867,1,14,0,0.0,0.0,0.08,0.0837,0.07,Blazing Scorcher,Common,Unit,Fury,Origins
+652771,Blazing Scorcher,2026-01-05,0.07,1,21,0,0.0,0.0,0.0867,-0.1926,0.05,Blazing Scorcher,Common,Unit,Fury,Origins
+652771,Blazing Scorcher,2026-01-12,0.05,1,28,1,0.0,0.0,0.07,-0.2857,0.04,Blazing Scorcher,Common,Unit,Fury,Origins
+652771,Blazing Scorcher,2026-01-19,0.04,1,35,1,0.0,0.0,0.05,-0.2,0.065,Blazing Scorcher,Common,Unit,Fury,Origins
+652771,Blazing Scorcher,2026-01-26,0.065,1,42,1,0.0,0.0,0.04,0.625,0.045,Blazing Scorcher,Common,Unit,Fury,Origins
+652771,Blazing Scorcher,2026-02-02,0.045,1,49,1,0.1763,0.0,0.065,-0.3077,0.0267,Blazing Scorcher,Common,Unit,Fury,Origins
+652771,Blazing Scorcher,2026-02-09,0.0267,1,56,0,0.1748,0.35,0.045,-0.4067,0.055,Blazing Scorcher,Common,Unit,Fury,Origins
+652771,Blazing Scorcher,2026-02-16,0.055,1,63,0,0.0,0.0,0.0267,1.0599,0.075,Blazing Scorcher,Common,Unit,Fury,Origins
+652771,Blazing Scorcher,2026-02-23,0.075,1,70,0,0.0,0.0,0.055,0.3636,0.0733,Blazing Scorcher,Common,Unit,Fury,Origins
+652771,Blazing Scorcher,2026-03-02,0.0733,1,77,0,0.1512,0.3333,0.075,-0.0227,0.06,Blazing Scorcher,Common,Unit,Fury,Origins
+652771,Blazing Scorcher,2026-03-09,0.06,1,84,0,0.2353,0.3125,0.0733,-0.1814,0.07,Blazing Scorcher,Common,Unit,Fury,Origins
+652796,Blind Fury,2025-12-29,0.2067,3,14,0,0.0,0.0,0.245,-0.1563,0.2,Blind Fury,Rare,Spell,Fury,Origins
+652796,Blind Fury,2026-01-05,0.2,3,21,0,0.0,0.0,0.2067,-0.0324,0.205,Blind Fury,Rare,Spell,Fury,Origins
+652796,Blind Fury,2026-01-12,0.205,3,28,1,0.0,0.0,0.2,0.025,0.19,Blind Fury,Rare,Spell,Fury,Origins
+652796,Blind Fury,2026-01-19,0.19,3,35,1,0.0,0.0,0.205,-0.0732,0.14,Blind Fury,Rare,Spell,Fury,Origins
+652796,Blind Fury,2026-01-26,0.14,3,42,1,0.0,0.0,0.19,-0.2632,0.125,Blind Fury,Rare,Spell,Fury,Origins
+652796,Blind Fury,2026-02-02,0.125,3,49,1,0.1763,0.0,0.14,-0.1071,0.1333,Blind Fury,Rare,Spell,Fury,Origins
+652796,Blind Fury,2026-02-09,0.1333,3,56,0,0.1748,0.35,0.125,0.0664,0.185,Blind Fury,Rare,Spell,Fury,Origins
+652796,Blind Fury,2026-02-16,0.185,3,63,0,0.0,0.0,0.1333,0.3878,0.18,Blind Fury,Rare,Spell,Fury,Origins
+652796,Blind Fury,2026-02-23,0.18,3,70,0,0.0,0.0,0.185,-0.027,0.1867,Blind Fury,Rare,Spell,Fury,Origins
+652796,Blind Fury,2026-03-02,0.1867,3,77,0,0.1512,0.3333,0.18,0.0372,0.235,Blind Fury,Rare,Spell,Fury,Origins
+652796,Blind Fury,2026-03-09,0.235,3,84,0,0.2353,0.3125,0.1867,0.2587,0.22,Blind Fury,Rare,Spell,Fury,Origins
+653055,Blind Monk (Rare),2025-12-29,0.19,3,14,0,0.0,0.0,0.285,-0.3333,0.14,Blind Monk,Rare,Legend,Calm|Body,Origins
+653055,Blind Monk (Rare),2026-01-05,0.14,3,21,0,0.0,0.0,0.19,-0.2632,0.15,Blind Monk,Rare,Legend,Calm|Body,Origins
+653055,Blind Monk (Rare),2026-01-12,0.15,3,28,1,0.0,0.0,0.14,0.0714,0.1467,Blind Monk,Rare,Legend,Calm|Body,Origins
+653055,Blind Monk (Rare),2026-01-19,0.1467,3,35,1,0.0,0.0,0.15,-0.022,0.155,Blind Monk,Rare,Legend,Calm|Body,Origins
+653055,Blind Monk (Rare),2026-01-26,0.155,3,42,1,0.0,0.0,0.1467,0.0566,0.165,Blind Monk,Rare,Legend,Calm|Body,Origins
+653055,Blind Monk (Rare),2026-02-02,0.165,3,49,1,0.0,0.0,0.155,0.0645,0.18,Blind Monk,Rare,Legend,Calm|Body,Origins
+653055,Blind Monk (Rare),2026-02-09,0.18,3,56,0,0.0,0.0,0.165,0.0909,0.195,Blind Monk,Rare,Legend,Calm|Body,Origins
+653055,Blind Monk (Rare),2026-02-16,0.195,3,63,0,0.0,0.0,0.18,0.0833,0.2,Blind Monk,Rare,Legend,Calm|Body,Origins
+653055,Blind Monk (Rare),2026-02-23,0.2,3,70,0,0.0,0.0,0.195,0.0256,0.17,Blind Monk,Rare,Legend,Calm|Body,Origins
+653055,Blind Monk (Rare),2026-03-02,0.17,3,77,0,0.0,0.0,0.2,-0.15,0.235,Blind Monk,Rare,Legend,Calm|Body,Origins
+653055,Blind Monk (Rare),2026-03-09,0.235,3,84,0,0.0,0.0,0.17,0.3824,0.23,Blind Monk,Rare,Legend,Calm|Body,Origins
+653103,Blind Monk (Showcase),2025-12-29,71.9667,5,14,0,0.0,0.0,73.125,-0.0158,66.655,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653103,Blind Monk (Showcase),2026-01-05,66.655,5,21,0,0.0,0.0,71.9667,-0.0738,62.47,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653104,Blind Monk (Showcase),2026-01-05,649.845,5,14,0,0.0,0.0,678.39,-0.0421,691.0233,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653103,Blind Monk (Showcase),2026-01-12,62.47,5,28,1,0.0,0.0,66.655,-0.0628,64.3167,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653104,Blind Monk (Showcase),2026-01-12,691.0233,5,21,1,0.0,0.0,649.845,0.0634,705.705,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653103,Blind Monk (Showcase),2026-01-19,64.3167,5,35,1,0.0,0.0,62.47,0.0296,74.925,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653104,Blind Monk (Showcase),2026-01-19,705.705,5,28,1,0.0,0.0,691.0233,0.0212,734.555,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653103,Blind Monk (Showcase),2026-01-26,74.925,5,42,1,0.0,0.0,64.3167,0.1649,84.83,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653104,Blind Monk (Showcase),2026-01-26,734.555,5,35,1,0.0,0.0,705.705,0.0409,744.8033,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653103,Blind Monk (Showcase),2026-02-02,84.83,5,49,1,0.0,0.0,74.925,0.1322,91.55,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653104,Blind Monk (Showcase),2026-02-02,744.8033,5,42,1,0.0,0.0,734.555,0.014,755.38,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653103,Blind Monk (Showcase),2026-02-09,91.55,5,56,0,0.0,0.0,84.83,0.0792,91.165,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653104,Blind Monk (Showcase),2026-02-09,755.38,5,49,0,0.0,0.0,744.8033,0.0142,755.38,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653103,Blind Monk (Showcase),2026-02-16,91.165,5,63,0,0.0,0.0,91.55,-0.0042,90.715,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653104,Blind Monk (Showcase),2026-02-16,755.38,5,56,0,0.0,0.0,755.38,0.0,755.38,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653103,Blind Monk (Showcase),2026-02-23,90.715,5,70,0,0.0,0.0,91.165,-0.0049,88.2933,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653104,Blind Monk (Showcase),2026-02-23,755.38,5,63,0,0.0,0.0,755.38,0.0,758.745,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653103,Blind Monk (Showcase),2026-03-02,88.2933,5,77,0,0.0,0.0,90.715,-0.0267,85.59,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653104,Blind Monk (Showcase),2026-03-02,758.745,5,70,0,0.0,0.0,755.38,0.0045,772.71,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653103,Blind Monk (Showcase),2026-03-09,85.59,5,84,0,0.0,0.0,88.2933,-0.0306,83.86,Blind Monk,Showcase,Legend,Calm|Body,Origins
+653104,Blind Monk (Showcase),2026-03-09,772.71,5,77,0,0.0,0.0,758.745,0.0184,772.71,Blind Monk,Showcase,Legend,Calm|Body,Origins
+652844,"Blitzcrank, Impassive",2026-01-05,0.765,3,14,0,0.0,0.0,0.805,-0.0497,0.5867,"Blitzcrank, Impassive",Rare,Champion Unit,Calm,Origins
+652844,"Blitzcrank, Impassive",2026-01-12,0.5867,3,21,1,0.0,0.0,0.765,-0.2331,0.44,"Blitzcrank, Impassive",Rare,Champion Unit,Calm,Origins
+652844,"Blitzcrank, Impassive",2026-01-19,0.44,3,28,1,0.0,0.0,0.5867,-0.25,0.425,"Blitzcrank, Impassive",Rare,Champion Unit,Calm,Origins
+652844,"Blitzcrank, Impassive",2026-01-26,0.425,3,35,1,0.0,0.0,0.44,-0.0341,0.38,"Blitzcrank, Impassive",Rare,Champion Unit,Calm,Origins
+652844,"Blitzcrank, Impassive",2026-02-02,0.38,3,42,1,0.0971,0.0,0.425,-0.1059,0.39,"Blitzcrank, Impassive",Rare,Champion Unit,Calm,Origins
+652844,"Blitzcrank, Impassive",2026-02-09,0.39,3,49,0,0.1072,0.125,0.38,0.0263,0.465,"Blitzcrank, Impassive",Rare,Champion Unit,Calm,Origins
+652844,"Blitzcrank, Impassive",2026-02-16,0.465,3,56,0,0.0,0.0,0.39,0.1923,0.5033,"Blitzcrank, Impassive",Rare,Champion Unit,Calm,Origins
+652844,"Blitzcrank, Impassive",2026-02-23,0.5033,3,63,0,0.0,0.0,0.465,0.0824,0.515,"Blitzcrank, Impassive",Rare,Champion Unit,Calm,Origins
+652844,"Blitzcrank, Impassive",2026-03-02,0.515,3,70,0,0.0878,0.1667,0.5033,0.0232,0.56,"Blitzcrank, Impassive",Rare,Champion Unit,Calm,Origins
+652844,"Blitzcrank, Impassive",2026-03-09,0.56,3,77,0,0.102,0.125,0.515,0.0874,0.67,"Blitzcrank, Impassive",Rare,Champion Unit,Calm,Origins
+652833,Block,2025-12-29,0.2533,2,14,0,0.0,0.0,0.26,-0.0258,0.215,Block,Uncommon,Spell,Calm,Origins
+652833,Block,2026-01-05,0.215,2,21,0,0.0,0.0,0.2533,-0.1512,0.2,Block,Uncommon,Spell,Calm,Origins
+652833,Block,2026-01-12,0.2,2,28,1,0.0,0.0,0.215,-0.0698,0.17,Block,Uncommon,Spell,Calm,Origins
+652833,Block,2026-01-19,0.17,2,35,1,0.0,0.0,0.2,-0.15,0.19,Block,Uncommon,Spell,Calm,Origins
+652833,Block,2026-01-26,0.19,2,42,1,0.0,0.0,0.17,0.1176,0.19,Block,Uncommon,Spell,Calm,Origins
+652833,Block,2026-02-02,0.19,2,49,1,0.0971,0.0,0.19,0.0,0.1867,Block,Uncommon,Spell,Calm,Origins
+652833,Block,2026-02-09,0.1867,2,56,0,0.1072,0.125,0.19,-0.0174,0.215,Block,Uncommon,Spell,Calm,Origins
+652833,Block,2026-02-16,0.215,2,63,0,0.0,0.0,0.1867,0.1516,0.215,Block,Uncommon,Spell,Calm,Origins
+652833,Block,2026-02-23,0.215,2,70,0,0.0,0.0,0.215,0.0,0.2433,Block,Uncommon,Spell,Calm,Origins
+652833,Block,2026-03-02,0.2433,2,77,0,0.0878,0.1667,0.215,0.1316,0.31,Block,Uncommon,Spell,Calm,Origins
+652833,Block,2026-03-09,0.31,2,84,0,0.102,0.125,0.2433,0.2741,0.27,Block,Uncommon,Spell,Calm,Origins
+666862,Blood Money,2026-02-09,1.3833,2,14,0,0.0586,0.075,2.9,-0.523,0.31,Blood Money,Uncommon,Spell,Order,Spiritforged
+666862,Blood Money,2026-02-16,0.31,2,21,0,0.0,0.0,1.3833,-0.7759,0.265,Blood Money,Uncommon,Spell,Order,Spiritforged
+666862,Blood Money,2026-02-23,0.265,2,28,0,0.0,0.0,0.31,-0.1452,0.2033,Blood Money,Uncommon,Spell,Order,Spiritforged
+666862,Blood Money,2026-03-02,0.2033,2,35,0,0.0732,0.0417,0.265,-0.2328,0.185,Blood Money,Uncommon,Spell,Order,Spiritforged
+666862,Blood Money,2026-03-09,0.185,2,42,0,0.0392,0.1875,0.2033,-0.09,0.18,Blood Money,Uncommon,Spell,Order,Spiritforged
+666792,Blood Rush,2026-02-16,0.13,1,14,0,0.0,0.0,0.42,-0.6905,0.1,Blood Rush,Common,Spell,Fury,Spiritforged
+666792,Blood Rush,2026-02-23,0.1,1,21,0,0.0,0.0,0.13,-0.2308,0.08,Blood Rush,Common,Spell,Fury,Spiritforged
+666792,Blood Rush,2026-03-02,0.08,1,28,0,0.1512,0.3333,0.1,-0.2,0.085,Blood Rush,Common,Spell,Fury,Spiritforged
+666792,Blood Rush,2026-03-09,0.085,1,35,0,0.2353,0.3125,0.08,0.0625,0.07,Blood Rush,Common,Spell,Fury,Spiritforged
+652909,Body Rune (Common),2026-01-05,0.255,1,14,0,0.0,0.0,0.235,0.0851,0.2167,Body Rune,Common,Basic Rune,Body,Origins
+652909,Body Rune (Common),2026-01-12,0.2167,1,21,1,0.0,0.0,0.255,-0.1502,0.215,Body Rune,Common,Basic Rune,Body,Origins
+652909,Body Rune (Common),2026-01-19,0.215,1,28,1,0.0,0.0,0.2167,-0.0078,0.2,Body Rune,Common,Basic Rune,Body,Origins
+652909,Body Rune (Common),2026-01-26,0.2,1,35,1,0.0,0.0,0.215,-0.0698,0.2,Body Rune,Common,Basic Rune,Body,Origins
+652909,Body Rune (Common),2026-02-02,0.2,1,42,1,0.0827,0.0,0.2,0.0,0.18,Body Rune,Common,Basic Rune,Body,Origins
+652909,Body Rune (Common),2026-02-09,0.18,1,49,0,0.0586,0.075,0.2,-0.1,0.155,Body Rune,Common,Basic Rune,Body,Origins
+652909,Body Rune (Common),2026-02-16,0.155,1,56,0,0.0,0.0,0.18,-0.1389,0.1633,Body Rune,Common,Basic Rune,Body,Origins
+652909,Body Rune (Common),2026-02-23,0.1633,1,63,0,0.0,0.0,0.155,0.0535,0.135,Body Rune,Common,Basic Rune,Body,Origins
+652909,Body Rune (Common),2026-03-02,0.135,1,70,0,0.0488,0.0417,0.1633,-0.1733,0.135,Body Rune,Common,Basic Rune,Body,Origins
+652909,Body Rune (Common),2026-03-09,0.135,1,77,0,0.0863,0.125,0.135,0.0,0.15,Body Rune,Common,Basic Rune,Body,Origins
+662903,Body Rune (Promo),2026-01-05,13.355,3,14,0,0.0,0.0,14.4,-0.0726,12.1,Body Rune,Promo,Basic Rune,Body,Origins
+662903,Body Rune (Promo),2026-01-12,12.1,3,21,1,0.0,0.0,13.355,-0.094,9.625,Body Rune,Promo,Basic Rune,Body,Origins
+662903,Body Rune (Promo),2026-01-19,9.625,3,28,1,0.0,0.0,12.1,-0.2045,8.98,Body Rune,Promo,Basic Rune,Body,Origins
+662903,Body Rune (Promo),2026-01-26,8.98,3,35,1,0.0,0.0,9.625,-0.067,9.1533,Body Rune,Promo,Basic Rune,Body,Origins
+662903,Body Rune (Promo),2026-02-02,9.1533,3,42,1,0.0827,0.0,8.98,0.0193,7.72,Body Rune,Promo,Basic Rune,Body,Origins
+662903,Body Rune (Promo),2026-02-09,7.72,3,49,0,0.0586,0.075,9.1533,-0.1566,8.715,Body Rune,Promo,Basic Rune,Body,Origins
+662903,Body Rune (Promo),2026-02-16,8.715,3,56,0,0.0,0.0,7.72,0.1289,7.6,Body Rune,Promo,Basic Rune,Body,Origins
+662903,Body Rune (Promo),2026-02-23,7.6,3,63,0,0.0,0.0,8.715,-0.1279,7.29,Body Rune,Promo,Basic Rune,Body,Origins
+662903,Body Rune (Promo),2026-03-02,7.29,3,70,0,0.0488,0.0417,7.6,-0.0408,6.74,Body Rune,Promo,Basic Rune,Body,Origins
+662903,Body Rune (Promo),2026-03-09,6.74,3,77,0,0.0863,0.125,7.29,-0.0754,6.01,Body Rune,Promo,Basic Rune,Body,Origins
+652910,Body Rune (Showcase),2026-01-05,14.285,5,14,0,0.0,0.0,16.305,-0.1239,12.6033,Body Rune,Showcase,Basic Rune,Body,Origins
+652910,Body Rune (Showcase),2026-01-12,12.6033,5,21,1,0.0,0.0,14.285,-0.1177,14.18,Body Rune,Showcase,Basic Rune,Body,Origins
+652910,Body Rune (Showcase),2026-01-19,14.18,5,28,1,0.0,0.0,12.6033,0.1251,14.025,Body Rune,Showcase,Basic Rune,Body,Origins
+652910,Body Rune (Showcase),2026-01-26,14.025,5,35,1,0.0,0.0,14.18,-0.0109,13.35,Body Rune,Showcase,Basic Rune,Body,Origins
+652910,Body Rune (Showcase),2026-02-02,13.35,5,42,1,0.0827,0.0,14.025,-0.0481,12.025,Body Rune,Showcase,Basic Rune,Body,Origins
+652910,Body Rune (Showcase),2026-02-09,12.025,5,49,0,0.0586,0.075,13.35,-0.0993,9.905,Body Rune,Showcase,Basic Rune,Body,Origins
+652910,Body Rune (Showcase),2026-02-16,9.905,5,56,0,0.0,0.0,12.025,-0.1763,8.49,Body Rune,Showcase,Basic Rune,Body,Origins
+652910,Body Rune (Showcase),2026-02-23,8.49,5,63,0,0.0,0.0,9.905,-0.1429,8.02,Body Rune,Showcase,Basic Rune,Body,Origins
+652910,Body Rune (Showcase),2026-03-02,8.02,5,70,0,0.0488,0.0417,8.49,-0.0554,7.525,Body Rune,Showcase,Basic Rune,Body,Origins
+652910,Body Rune (Showcase),2026-03-09,7.525,5,77,0,0.0863,0.125,8.02,-0.0617,7.41,Body Rune,Showcase,Basic Rune,Body,Origins
+666500,Bonds of Strength,2026-02-23,0.0667,1,14,0,0.0,0.0,0.07,-0.0471,0.07,Bonds of Strength,Common,Spell,Order,Spiritforged
+666500,Bonds of Strength,2026-03-02,0.07,1,21,0,0.0732,0.0417,0.0667,0.0495,0.08,Bonds of Strength,Common,Spell,Order,Spiritforged
+666500,Bonds of Strength,2026-03-09,0.08,1,28,0,0.0392,0.1875,0.07,0.1429,0.07,Bonds of Strength,Common,Spell,Order,Spiritforged
+665138,Boneshiver,2026-02-16,20.42,4,14,0,0.0,0.0,18.4767,0.1052,20.5,Boneshiver,Epic,Gear,Body,Spiritforged
+665138,Boneshiver,2026-02-23,20.5,4,21,0,0.0,0.0,20.42,0.0039,24.6133,Boneshiver,Epic,Gear,Body,Spiritforged
+665138,Boneshiver,2026-03-02,24.6133,4,28,0,0.0488,0.0417,20.5,0.2006,22.725,Boneshiver,Epic,Gear,Body,Spiritforged
+665138,Boneshiver,2026-03-09,22.725,4,35,0,0.0863,0.125,24.6133,-0.0767,21.56,Boneshiver,Epic,Gear,Body,Spiritforged
+665019,Boots of Swiftness,2026-02-16,0.31,2,14,0,0.0,0.0,0.885,-0.6497,0.2933,Boots of Swiftness,Uncommon,Gear,Chaos,Spiritforged
+665019,Boots of Swiftness,2026-02-23,0.2933,2,21,0,0.0,0.0,0.31,-0.0539,0.255,Boots of Swiftness,Uncommon,Gear,Chaos,Spiritforged
+665019,Boots of Swiftness,2026-03-02,0.255,2,28,0,0.1512,0.3333,0.2933,-0.1306,0.225,Boots of Swiftness,Uncommon,Gear,Chaos,Spiritforged
+665019,Boots of Swiftness,2026-03-09,0.225,2,35,0,0.1686,0.1875,0.255,-0.1176,0.23,Boots of Swiftness,Uncommon,Gear,Chaos,Spiritforged
+653065,Bounty Hunter (Rare),2025-12-29,0.3333,3,14,0,0.0,0.0,0.335,-0.0051,0.315,Bounty Hunter,Rare,Legend,Body|Chaos,Origins
+653065,Bounty Hunter (Rare),2026-01-05,0.315,3,21,0,0.0,0.0,0.3333,-0.0549,0.3,Bounty Hunter,Rare,Legend,Body|Chaos,Origins
+653065,Bounty Hunter (Rare),2026-01-12,0.3,3,28,1,0.0,0.0,0.315,-0.0476,0.3133,Bounty Hunter,Rare,Legend,Body|Chaos,Origins
+653065,Bounty Hunter (Rare),2026-01-19,0.3133,3,35,1,0.0,0.0,0.3,0.0443,0.325,Bounty Hunter,Rare,Legend,Body|Chaos,Origins
+653065,Bounty Hunter (Rare),2026-01-26,0.325,3,42,1,0.0,0.0,0.3133,0.0373,0.285,Bounty Hunter,Rare,Legend,Body|Chaos,Origins
+653065,Bounty Hunter (Rare),2026-02-02,0.285,3,49,1,0.0,0.0,0.325,-0.1231,0.3133,Bounty Hunter,Rare,Legend,Body|Chaos,Origins
+653065,Bounty Hunter (Rare),2026-02-09,0.3133,3,56,0,0.0,0.0,0.285,0.0993,0.3,Bounty Hunter,Rare,Legend,Body|Chaos,Origins
+653065,Bounty Hunter (Rare),2026-02-16,0.3,3,63,0,0.0,0.0,0.3133,-0.0425,0.33,Bounty Hunter,Rare,Legend,Body|Chaos,Origins
+653065,Bounty Hunter (Rare),2026-02-23,0.33,3,70,0,0.0,0.0,0.3,0.1,0.3933,Bounty Hunter,Rare,Legend,Body|Chaos,Origins
+653065,Bounty Hunter (Rare),2026-03-02,0.3933,3,77,0,0.0,0.0,0.33,0.1918,0.315,Bounty Hunter,Rare,Legend,Body|Chaos,Origins
+653065,Bounty Hunter (Rare),2026-03-09,0.315,3,84,0,0.0,0.0,0.3933,-0.1991,0.34,Bounty Hunter,Rare,Legend,Body|Chaos,Origins
+653114,Bounty Hunter (Showcase),2025-12-29,734.2,5,14,0,0.0,0.0,734.2,0.0,741.9867,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653113,Bounty Hunter (Showcase),2026-01-05,113.025,5,14,0,0.0,0.0,117.695,-0.0397,111.2267,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653114,Bounty Hunter (Showcase),2026-01-05,741.9867,5,21,0,0.0,0.0,734.2,0.0106,746.675,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653113,Bounty Hunter (Showcase),2026-01-12,111.2267,5,21,1,0.0,0.0,113.025,-0.0159,108.93,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653114,Bounty Hunter (Showcase),2026-01-12,746.675,5,28,1,0.0,0.0,741.9867,0.0063,753.93,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653113,Bounty Hunter (Showcase),2026-01-19,108.93,5,28,1,0.0,0.0,111.2267,-0.0206,105.745,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653114,Bounty Hunter (Showcase),2026-01-19,753.93,5,35,1,0.0,0.0,746.675,0.0097,795.37,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653113,Bounty Hunter (Showcase),2026-01-26,105.745,5,35,1,0.0,0.0,108.93,-0.0292,136.4333,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653114,Bounty Hunter (Showcase),2026-01-26,795.37,5,42,1,0.0,0.0,753.93,0.055,813.39,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653113,Bounty Hunter (Showcase),2026-02-02,136.4333,5,42,1,0.0,0.0,105.745,0.2902,158.705,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653114,Bounty Hunter (Showcase),2026-02-02,813.39,5,49,1,0.0,0.0,795.37,0.0227,824.79,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653113,Bounty Hunter (Showcase),2026-02-09,158.705,5,49,0,0.0,0.0,136.4333,0.1632,153.625,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653114,Bounty Hunter (Showcase),2026-02-09,824.79,5,56,0,0.0,0.0,813.39,0.014,860.99,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653113,Bounty Hunter (Showcase),2026-02-16,153.625,5,56,0,0.0,0.0,158.705,-0.032,129.3367,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653114,Bounty Hunter (Showcase),2026-02-16,860.99,5,63,0,0.0,0.0,824.79,0.0439,860.99,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653113,Bounty Hunter (Showcase),2026-02-23,129.3367,5,63,0,0.0,0.0,153.625,-0.1581,128.36,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653114,Bounty Hunter (Showcase),2026-02-23,860.99,5,70,0,0.0,0.0,860.99,0.0,875.79,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653113,Bounty Hunter (Showcase),2026-03-02,128.36,5,70,0,0.0,0.0,129.3367,-0.0076,122.6,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653114,Bounty Hunter (Showcase),2026-03-02,875.79,5,77,0,0.0,0.0,860.99,0.0172,937.4767,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653113,Bounty Hunter (Showcase),2026-03-09,122.6,5,77,0,0.0,0.0,128.36,-0.0449,121.37,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+653114,Bounty Hunter (Showcase),2026-03-09,937.4767,5,84,0,0.0,0.0,875.79,0.0704,972.71,Bounty Hunter,Showcase,Legend,Body|Chaos,Origins
+652772,Brazen Buccaneer,2025-12-29,0.04,1,14,0,0.0,0.0,0.055,-0.2727,0.0433,Brazen Buccaneer,Common,Unit,Fury,Origins
+652772,Brazen Buccaneer,2026-01-05,0.0433,1,21,0,0.0,0.0,0.04,0.0825,0.04,Brazen Buccaneer,Common,Unit,Fury,Origins
+652772,Brazen Buccaneer,2026-01-12,0.04,1,28,1,0.0,0.0,0.0433,-0.0762,0.03,Brazen Buccaneer,Common,Unit,Fury,Origins
+652772,Brazen Buccaneer,2026-01-19,0.03,1,35,1,0.0,0.0,0.04,-0.25,0.0367,Brazen Buccaneer,Common,Unit,Fury,Origins
+652772,Brazen Buccaneer,2026-01-26,0.0367,1,42,1,0.0,0.0,0.03,0.2233,0.04,Brazen Buccaneer,Common,Unit,Fury,Origins
+652772,Brazen Buccaneer,2026-02-02,0.04,1,49,1,0.1763,0.0,0.0367,0.0899,0.035,Brazen Buccaneer,Common,Unit,Fury,Origins
+652772,Brazen Buccaneer,2026-02-09,0.035,1,56,0,0.1748,0.35,0.04,-0.125,0.0533,Brazen Buccaneer,Common,Unit,Fury,Origins
+652772,Brazen Buccaneer,2026-02-16,0.0533,1,63,0,0.0,0.0,0.035,0.5229,0.06,Brazen Buccaneer,Common,Unit,Fury,Origins
+652772,Brazen Buccaneer,2026-02-23,0.06,1,70,0,0.0,0.0,0.0533,0.1257,0.04,Brazen Buccaneer,Common,Unit,Fury,Origins
+652772,Brazen Buccaneer,2026-03-02,0.04,1,77,0,0.1512,0.3333,0.06,-0.3333,0.04,Brazen Buccaneer,Common,Unit,Fury,Origins
+652772,Brazen Buccaneer,2026-03-09,0.04,1,84,0,0.2353,0.3125,0.04,0.0,0.05,Brazen Buccaneer,Common,Unit,Fury,Origins
+666434,Breakneck Mech,2026-02-09,0.095,2,14,0,0.1351,0.125,0.1,-0.05,0.09,Breakneck Mech,Uncommon,Unit,Mind,Spiritforged
+666434,Breakneck Mech,2026-02-16,0.09,2,21,0,0.0,0.0,0.095,-0.0526,0.0933,Breakneck Mech,Uncommon,Unit,Mind,Spiritforged
+666434,Breakneck Mech,2026-02-23,0.0933,2,28,0,0.0,0.0,0.09,0.0367,0.1,Breakneck Mech,Uncommon,Unit,Mind,Spiritforged
+666434,Breakneck Mech,2026-03-02,0.1,2,35,0,0.0976,0.1667,0.0933,0.0718,0.11,Breakneck Mech,Uncommon,Unit,Mind,Spiritforged
+666434,Breakneck Mech,2026-03-09,0.11,2,42,0,0.2353,0.3125,0.1,0.1,0.09,Breakneck Mech,Uncommon,Unit,Mind,Spiritforged
+666373,Brutalizer,2026-02-09,0.71,2,14,0,0.1072,0.125,0.59,0.2034,0.31,Brutalizer,Uncommon,Gear,Calm,Spiritforged
+666373,Brutalizer,2026-02-16,0.31,2,21,0,0.0,0.0,0.71,-0.5634,0.2967,Brutalizer,Uncommon,Gear,Calm,Spiritforged
+666373,Brutalizer,2026-02-23,0.2967,2,28,0,0.0,0.0,0.31,-0.0429,0.275,Brutalizer,Uncommon,Gear,Calm,Spiritforged
+666373,Brutalizer,2026-03-02,0.275,2,35,0,0.0878,0.1667,0.2967,-0.0731,0.26,Brutalizer,Uncommon,Gear,Calm,Spiritforged
+666373,Brutalizer,2026-03-09,0.26,2,42,0,0.102,0.125,0.275,-0.0545,0.24,Brutalizer,Uncommon,Gear,Calm,Spiritforged
+652797,Brynhir Thundersong,2025-12-29,2.0333,3,14,0,0.0,0.0,0.98,1.0748,3.19,Brynhir Thundersong,Rare,Unit,Fury,Origins
+652797,Brynhir Thundersong,2026-01-05,3.19,3,21,0,0.0,0.0,2.0333,0.5689,1.335,Brynhir Thundersong,Rare,Unit,Fury,Origins
+652797,Brynhir Thundersong,2026-01-12,1.335,3,28,1,0.0,0.0,3.19,-0.5815,1.3833,Brynhir Thundersong,Rare,Unit,Fury,Origins
+652797,Brynhir Thundersong,2026-01-19,1.3833,3,35,1,0.0,0.0,1.335,0.0362,1.91,Brynhir Thundersong,Rare,Unit,Fury,Origins
+652797,Brynhir Thundersong,2026-01-26,1.91,3,42,1,0.0,0.0,1.3833,0.3808,1.74,Brynhir Thundersong,Rare,Unit,Fury,Origins
+652797,Brynhir Thundersong,2026-02-02,1.74,3,49,1,0.1763,0.0,1.91,-0.089,4.17,Brynhir Thundersong,Rare,Unit,Fury,Origins
+652797,Brynhir Thundersong,2026-02-09,4.17,3,56,0,0.1748,0.35,1.74,1.3966,7.63,Brynhir Thundersong,Rare,Unit,Fury,Origins
+652797,Brynhir Thundersong,2026-02-16,7.63,3,63,0,0.0,0.0,4.17,0.8297,7.615,Brynhir Thundersong,Rare,Unit,Fury,Origins
+652797,Brynhir Thundersong,2026-02-23,7.615,3,70,0,0.0,0.0,7.63,-0.002,8.65,Brynhir Thundersong,Rare,Unit,Fury,Origins
+652797,Brynhir Thundersong,2026-03-02,8.65,3,77,0,0.1512,0.3333,7.615,0.1359,8.65,Brynhir Thundersong,Rare,Unit,Fury,Origins
+652797,Brynhir Thundersong,2026-03-09,8.65,3,84,0,0.2353,0.3125,8.65,0.0,9.2,Brynhir Thundersong,Rare,Unit,Fury,Origins
+666429,Bubble Bot,2026-02-23,0.0533,1,14,0,0.0,0.0,0.06,-0.1117,0.07,Bubble Bot,Common,Unit,Mind,Spiritforged
+666429,Bubble Bot,2026-03-02,0.07,1,21,0,0.0976,0.1667,0.0533,0.3133,0.08,Bubble Bot,Common,Unit,Mind,Spiritforged
+666429,Bubble Bot,2026-03-09,0.08,1,28,0,0.2353,0.3125,0.07,0.1429,0.08,Bubble Bot,Common,Unit,Mind,Spiritforged
+664953,Buhru Captain,2026-02-16,0.055,1,14,0,0.0,0.0,0.125,-0.56,0.0633,Buhru Captain,Common,Unit,Body,Spiritforged
+664953,Buhru Captain,2026-02-23,0.0633,1,21,0,0.0,0.0,0.055,0.1509,0.09,Buhru Captain,Common,Unit,Body,Spiritforged
+664953,Buhru Captain,2026-03-02,0.09,1,28,0,0.0488,0.0417,0.0633,0.4218,0.105,Buhru Captain,Common,Unit,Body,Spiritforged
+664953,Buhru Captain,2026-03-09,0.105,1,35,0,0.0863,0.125,0.09,0.1667,0.08,Buhru Captain,Common,Unit,Body,Spiritforged
+653066,Bullet Time,2025-12-29,22.33,4,14,0,0.0,0.0,23.905,-0.0659,17.165,Bullet Time,Epic,Signature Spell,Body|Chaos,Origins
+653066,Bullet Time,2026-01-05,17.165,4,21,0,0.0,0.0,22.33,-0.2313,15.19,Bullet Time,Epic,Signature Spell,Body|Chaos,Origins
+653066,Bullet Time,2026-01-12,15.19,4,28,1,0.0,0.0,17.165,-0.1151,15.2367,Bullet Time,Epic,Signature Spell,Body|Chaos,Origins
+653066,Bullet Time,2026-01-19,15.2367,4,35,1,0.0,0.0,15.19,0.0031,14.57,Bullet Time,Epic,Signature Spell,Body|Chaos,Origins
+653066,Bullet Time,2026-01-26,14.57,4,42,1,0.0,0.0,15.2367,-0.0438,13.32,Bullet Time,Epic,Signature Spell,Body|Chaos,Origins
+653066,Bullet Time,2026-02-02,13.32,4,49,1,0.0,0.0,14.57,-0.0858,11.6367,Bullet Time,Epic,Signature Spell,Body|Chaos,Origins
+653066,Bullet Time,2026-02-09,11.6367,4,56,0,0.0,0.0,13.32,-0.1264,11.97,Bullet Time,Epic,Signature Spell,Body|Chaos,Origins
+653066,Bullet Time,2026-02-16,11.97,4,63,0,0.0,0.0,11.6367,0.0286,15.64,Bullet Time,Epic,Signature Spell,Body|Chaos,Origins
+653066,Bullet Time,2026-02-23,15.64,4,70,0,0.0,0.0,11.97,0.3066,14.58,Bullet Time,Epic,Signature Spell,Body|Chaos,Origins
+653066,Bullet Time,2026-03-02,14.58,4,77,0,0.0,0.0,15.64,-0.0678,15.355,Bullet Time,Epic,Signature Spell,Body|Chaos,Origins
+653066,Bullet Time,2026-03-09,15.355,4,84,0,0.0,0.0,14.58,0.0532,17.44,Bullet Time,Epic,Signature Spell,Body|Chaos,Origins
+666793,Bushwhack,2026-02-16,0.08,1,14,0,0.0,0.0,0.155,-0.4839,0.07,Bushwhack,Common,Spell,Fury,Spiritforged
+666793,Bushwhack,2026-02-23,0.07,1,21,0,0.0,0.0,0.08,-0.125,0.085,Bushwhack,Common,Spell,Fury,Spiritforged
+666793,Bushwhack,2026-03-02,0.085,1,28,0,0.1512,0.3333,0.07,0.2143,0.1,Bushwhack,Common,Spell,Fury,Spiritforged
+666793,Bushwhack,2026-03-09,0.1,1,35,0,0.2353,0.3125,0.085,0.1765,0.08,Bushwhack,Common,Spell,Fury,Spiritforged
+652845,"Caitlyn, Patrolling",2025-12-29,0.4133,3,14,0,0.0,0.0,0.57,-0.2749,0.435,"Caitlyn, Patrolling",Rare,Champion Unit,Calm,Origins
+652845,"Caitlyn, Patrolling",2026-01-05,0.435,3,21,0,0.0,0.0,0.4133,0.0525,0.395,"Caitlyn, Patrolling",Rare,Champion Unit,Calm,Origins
+652845,"Caitlyn, Patrolling",2026-01-12,0.395,3,28,1,0.0,0.0,0.435,-0.092,0.2867,"Caitlyn, Patrolling",Rare,Champion Unit,Calm,Origins
+652845,"Caitlyn, Patrolling",2026-01-19,0.2867,3,35,1,0.0,0.0,0.395,-0.2742,0.27,"Caitlyn, Patrolling",Rare,Champion Unit,Calm,Origins
+652845,"Caitlyn, Patrolling",2026-01-26,0.27,3,42,1,0.0,0.0,0.2867,-0.0582,0.285,"Caitlyn, Patrolling",Rare,Champion Unit,Calm,Origins
+652845,"Caitlyn, Patrolling",2026-02-02,0.285,3,49,1,0.0971,0.0,0.27,0.0556,0.3267,"Caitlyn, Patrolling",Rare,Champion Unit,Calm,Origins
+652845,"Caitlyn, Patrolling",2026-02-09,0.3267,3,56,0,0.1072,0.125,0.285,0.1463,0.355,"Caitlyn, Patrolling",Rare,Champion Unit,Calm,Origins
+652845,"Caitlyn, Patrolling",2026-02-16,0.355,3,63,0,0.0,0.0,0.3267,0.0866,0.34,"Caitlyn, Patrolling",Rare,Champion Unit,Calm,Origins
+652845,"Caitlyn, Patrolling",2026-02-23,0.34,3,70,0,0.0,0.0,0.355,-0.0423,0.4067,"Caitlyn, Patrolling",Rare,Champion Unit,Calm,Origins
+652845,"Caitlyn, Patrolling",2026-03-02,0.4067,3,77,0,0.0878,0.1667,0.34,0.1962,0.46,"Caitlyn, Patrolling",Rare,Champion Unit,Calm,Origins
+652845,"Caitlyn, Patrolling",2026-03-09,0.46,3,84,0,0.102,0.125,0.4067,0.1311,0.49,"Caitlyn, Patrolling",Rare,Champion Unit,Calm,Origins
+653000,Call To Glory,2025-12-29,0.1733,1,14,0,0.0,0.0,0.21,-0.1748,0.15,Call To Glory,Common,Spell,Order,Origins
+653000,Call To Glory,2026-01-05,0.15,1,21,0,0.0,0.0,0.1733,-0.1344,0.19,Call To Glory,Common,Spell,Order,Origins
+653000,Call To Glory,2026-01-12,0.19,1,28,1,0.0,0.0,0.15,0.2667,0.1567,Call To Glory,Common,Spell,Order,Origins
+653000,Call To Glory,2026-01-19,0.1567,1,35,1,0.0,0.0,0.19,-0.1753,0.16,Call To Glory,Common,Spell,Order,Origins
+653000,Call To Glory,2026-01-26,0.16,1,42,1,0.0,0.0,0.1567,0.0211,0.15,Call To Glory,Common,Spell,Order,Origins
+653000,Call To Glory,2026-02-02,0.15,1,49,1,0.0827,0.0,0.16,-0.0625,0.14,Call To Glory,Common,Spell,Order,Origins
+653000,Call To Glory,2026-02-09,0.14,1,56,0,0.0586,0.075,0.15,-0.0667,0.16,Call To Glory,Common,Spell,Order,Origins
+653000,Call To Glory,2026-02-16,0.16,1,63,0,0.0,0.0,0.14,0.1429,0.17,Call To Glory,Common,Spell,Order,Origins
+653000,Call To Glory,2026-02-23,0.17,1,70,0,0.0,0.0,0.16,0.0625,0.2133,Call To Glory,Common,Spell,Order,Origins
+653000,Call To Glory,2026-03-02,0.2133,1,77,0,0.0732,0.0417,0.17,0.2547,0.22,Call To Glory,Common,Spell,Order,Origins
+653000,Call To Glory,2026-03-09,0.22,1,84,0,0.0392,0.1875,0.2133,0.0314,0.22,Call To Glory,Common,Spell,Order,Origins
+664961,Called Shot,2026-02-16,0.235,1,14,0,0.0,0.0,1.8867,-0.8754,0.15,Called Shot,Common,Spell,Chaos,Spiritforged
+664961,Called Shot,2026-02-23,0.15,1,21,0,0.0,0.0,0.235,-0.3617,0.1267,Called Shot,Common,Spell,Chaos,Spiritforged
+664961,Called Shot,2026-03-02,0.1267,1,28,0,0.1512,0.3333,0.15,-0.1553,0.13,Called Shot,Common,Spell,Chaos,Spiritforged
+664961,Called Shot,2026-03-09,0.13,1,35,0,0.1686,0.1875,0.1267,0.026,0.1,Called Shot,Common,Spell,Chaos,Spiritforged
+652817,Calm Rune (Common),2026-01-05,0.49,1,14,0,0.0,0.0,0.49,0.0,0.39,Calm Rune,Common,Basic Rune,Calm,Origins
+652817,Calm Rune (Common),2026-01-12,0.39,1,21,1,0.0,0.0,0.49,-0.2041,0.375,Calm Rune,Common,Basic Rune,Calm,Origins
+652817,Calm Rune (Common),2026-01-19,0.375,1,28,1,0.0,0.0,0.39,-0.0385,0.395,Calm Rune,Common,Basic Rune,Calm,Origins
+652817,Calm Rune (Common),2026-01-26,0.395,1,35,1,0.0,0.0,0.375,0.0533,0.3633,Calm Rune,Common,Basic Rune,Calm,Origins
+652817,Calm Rune (Common),2026-02-02,0.3633,1,42,1,0.0971,0.0,0.395,-0.0803,0.27,Calm Rune,Common,Basic Rune,Calm,Origins
+652817,Calm Rune (Common),2026-02-09,0.27,1,49,0,0.1072,0.125,0.3633,-0.2568,0.22,Calm Rune,Common,Basic Rune,Calm,Origins
+652817,Calm Rune (Common),2026-02-16,0.22,1,56,0,0.0,0.0,0.27,-0.1852,0.21,Calm Rune,Common,Basic Rune,Calm,Origins
+652817,Calm Rune (Common),2026-02-23,0.21,1,63,0,0.0,0.0,0.22,-0.0455,0.215,Calm Rune,Common,Basic Rune,Calm,Origins
+652817,Calm Rune (Common),2026-03-02,0.215,1,70,0,0.0878,0.1667,0.21,0.0238,0.215,Calm Rune,Common,Basic Rune,Calm,Origins
+652817,Calm Rune (Common),2026-03-09,0.215,1,77,0,0.102,0.125,0.215,0.0,0.24,Calm Rune,Common,Basic Rune,Calm,Origins
+662902,Calm Rune (Promo),2026-01-05,14.71,3,14,0,0.0,0.0,16.81,-0.1249,11.5633,Calm Rune,Promo,Basic Rune,Calm,Origins
+662902,Calm Rune (Promo),2026-01-12,11.5633,3,21,1,0.0,0.0,14.71,-0.2139,9.95,Calm Rune,Promo,Basic Rune,Calm,Origins
+662902,Calm Rune (Promo),2026-01-19,9.95,3,28,1,0.0,0.0,11.5633,-0.1395,9.085,Calm Rune,Promo,Basic Rune,Calm,Origins
+662902,Calm Rune (Promo),2026-01-26,9.085,3,35,1,0.0,0.0,9.95,-0.0869,8.3067,Calm Rune,Promo,Basic Rune,Calm,Origins
+662902,Calm Rune (Promo),2026-02-02,8.3067,3,42,1,0.0971,0.0,9.085,-0.0857,7.26,Calm Rune,Promo,Basic Rune,Calm,Origins
+662902,Calm Rune (Promo),2026-02-09,7.26,3,49,0,0.1072,0.125,8.3067,-0.126,10.79,Calm Rune,Promo,Basic Rune,Calm,Origins
+662902,Calm Rune (Promo),2026-02-16,10.79,3,56,0,0.0,0.0,7.26,0.4862,8.1067,Calm Rune,Promo,Basic Rune,Calm,Origins
+662902,Calm Rune (Promo),2026-02-23,8.1067,3,63,0,0.0,0.0,10.79,-0.2487,7.765,Calm Rune,Promo,Basic Rune,Calm,Origins
+662902,Calm Rune (Promo),2026-03-02,7.765,3,70,0,0.0878,0.1667,8.1067,-0.0422,6.785,Calm Rune,Promo,Basic Rune,Calm,Origins
+662902,Calm Rune (Promo),2026-03-09,6.785,3,77,0,0.102,0.125,7.765,-0.1262,6.15,Calm Rune,Promo,Basic Rune,Calm,Origins
+652818,Calm Rune (Showcase),2026-01-05,16.095,5,14,0,0.0,0.0,20.68,-0.2217,15.9767,Calm Rune,Showcase,Basic Rune,Calm,Origins
+652818,Calm Rune (Showcase),2026-01-12,15.9767,5,21,1,0.0,0.0,16.095,-0.0074,16.73,Calm Rune,Showcase,Basic Rune,Calm,Origins
+652818,Calm Rune (Showcase),2026-01-19,16.73,5,28,1,0.0,0.0,15.9767,0.0471,18.535,Calm Rune,Showcase,Basic Rune,Calm,Origins
+652818,Calm Rune (Showcase),2026-01-26,18.535,5,35,1,0.0,0.0,16.73,0.1079,18.6,Calm Rune,Showcase,Basic Rune,Calm,Origins
+652818,Calm Rune (Showcase),2026-02-02,18.6,5,42,1,0.0971,0.0,18.535,0.0035,15.78,Calm Rune,Showcase,Basic Rune,Calm,Origins
+652818,Calm Rune (Showcase),2026-02-09,15.78,5,49,0,0.1072,0.125,18.6,-0.1516,12.685,Calm Rune,Showcase,Basic Rune,Calm,Origins
+652818,Calm Rune (Showcase),2026-02-16,12.685,5,56,0,0.0,0.0,15.78,-0.1961,11.3233,Calm Rune,Showcase,Basic Rune,Calm,Origins
+652818,Calm Rune (Showcase),2026-02-23,11.3233,5,63,0,0.0,0.0,12.685,-0.1073,10.415,Calm Rune,Showcase,Basic Rune,Calm,Origins
+652818,Calm Rune (Showcase),2026-03-02,10.415,5,70,0,0.0878,0.1667,11.3233,-0.0802,9.67,Calm Rune,Showcase,Basic Rune,Calm,Origins
+652818,Calm Rune (Showcase),2026-03-09,9.67,5,77,0,0.102,0.125,10.415,-0.0715,9.66,Calm Rune,Showcase,Basic Rune,Calm,Origins
+652911,Cannon Barrage,2025-12-29,0.0933,1,14,0,0.0,0.0,0.115,-0.1887,0.07,Cannon Barrage,Common,Spell,Body,Origins
+652911,Cannon Barrage,2026-01-05,0.07,1,21,0,0.0,0.0,0.0933,-0.2497,0.08,Cannon Barrage,Common,Spell,Body,Origins
+652911,Cannon Barrage,2026-01-12,0.08,1,28,1,0.0,0.0,0.07,0.1429,0.0833,Cannon Barrage,Common,Spell,Body,Origins
+652911,Cannon Barrage,2026-01-19,0.0833,1,35,1,0.0,0.0,0.08,0.0412,0.07,Cannon Barrage,Common,Spell,Body,Origins
+652911,Cannon Barrage,2026-01-26,0.07,1,42,1,0.0,0.0,0.0833,-0.1597,0.085,Cannon Barrage,Common,Spell,Body,Origins
+652911,Cannon Barrage,2026-02-02,0.085,1,49,1,0.0827,0.0,0.07,0.2143,0.0667,Cannon Barrage,Common,Spell,Body,Origins
+652911,Cannon Barrage,2026-02-09,0.0667,1,56,0,0.0586,0.075,0.085,-0.2153,0.09,Cannon Barrage,Common,Spell,Body,Origins
+652911,Cannon Barrage,2026-02-16,0.09,1,63,0,0.0,0.0,0.0667,0.3493,0.095,Cannon Barrage,Common,Spell,Body,Origins
+652911,Cannon Barrage,2026-02-23,0.095,1,70,0,0.0,0.0,0.09,0.0556,0.1367,Cannon Barrage,Common,Spell,Body,Origins
+652911,Cannon Barrage,2026-03-02,0.1367,1,77,0,0.0488,0.0417,0.095,0.4389,0.12,Cannon Barrage,Common,Spell,Body,Origins
+652911,Cannon Barrage,2026-03-09,0.12,1,84,0,0.0863,0.125,0.1367,-0.1222,0.14,Cannon Barrage,Common,Spell,Body,Origins
+652786,Captain Farron,2025-12-29,0.1333,2,14,0,0.0,0.0,0.16,-0.1669,0.135,Captain Farron,Uncommon,Unit,Fury,Origins
+652786,Captain Farron,2026-01-05,0.135,2,21,0,0.0,0.0,0.1333,0.0128,0.14,Captain Farron,Uncommon,Unit,Fury,Origins
+652786,Captain Farron,2026-01-12,0.14,2,28,1,0.0,0.0,0.135,0.037,0.1267,Captain Farron,Uncommon,Unit,Fury,Origins
+652786,Captain Farron,2026-01-19,0.1267,2,35,1,0.0,0.0,0.14,-0.095,0.12,Captain Farron,Uncommon,Unit,Fury,Origins
+652786,Captain Farron,2026-01-26,0.12,2,42,1,0.0,0.0,0.1267,-0.0529,0.125,Captain Farron,Uncommon,Unit,Fury,Origins
+652786,Captain Farron,2026-02-02,0.125,2,49,1,0.1763,0.0,0.12,0.0417,0.1267,Captain Farron,Uncommon,Unit,Fury,Origins
+652786,Captain Farron,2026-02-09,0.1267,2,56,0,0.1748,0.35,0.125,0.0136,0.12,Captain Farron,Uncommon,Unit,Fury,Origins
+652786,Captain Farron,2026-02-16,0.12,2,63,0,0.0,0.0,0.1267,-0.0529,0.135,Captain Farron,Uncommon,Unit,Fury,Origins
+652786,Captain Farron,2026-02-23,0.135,2,70,0,0.0,0.0,0.12,0.125,0.1267,Captain Farron,Uncommon,Unit,Fury,Origins
+652786,Captain Farron,2026-03-02,0.1267,2,77,0,0.1512,0.3333,0.135,-0.0615,0.145,Captain Farron,Uncommon,Unit,Fury,Origins
+652786,Captain Farron,2026-03-09,0.145,2,84,0,0.2353,0.3125,0.1267,0.1444,0.16,Captain Farron,Uncommon,Unit,Fury,Origins
+666587,Card Sharp,2026-02-16,0.39,3,14,0,0.0,0.0,1.6,-0.7562,0.345,Card Sharp,Rare,Unit,Mind,Spiritforged
+666587,Card Sharp,2026-02-23,0.345,3,21,0,0.0,0.0,0.39,-0.1154,0.3167,Card Sharp,Rare,Unit,Mind,Spiritforged
+666587,Card Sharp,2026-03-02,0.3167,3,28,0,0.0976,0.1667,0.345,-0.082,0.345,Card Sharp,Rare,Unit,Mind,Spiritforged
+666587,Card Sharp,2026-03-09,0.345,3,35,0,0.2353,0.3125,0.3167,0.0894,0.31,Card Sharp,Rare,Unit,Mind,Spiritforged
+652933,Carnivorous Snapvine,2025-12-29,0.93,3,14,0,0.0,0.0,1.19,-0.2185,0.66,Carnivorous Snapvine,Rare,Unit,Body,Origins
+652933,Carnivorous Snapvine,2026-01-05,0.66,3,21,0,0.0,0.0,0.93,-0.2903,0.59,Carnivorous Snapvine,Rare,Unit,Body,Origins
+652933,Carnivorous Snapvine,2026-01-12,0.59,3,28,1,0.0,0.0,0.66,-0.1061,0.5367,Carnivorous Snapvine,Rare,Unit,Body,Origins
+652933,Carnivorous Snapvine,2026-01-19,0.5367,3,35,1,0.0,0.0,0.59,-0.0903,0.455,Carnivorous Snapvine,Rare,Unit,Body,Origins
+652933,Carnivorous Snapvine,2026-01-26,0.455,3,42,1,0.0,0.0,0.5367,-0.1522,0.53,Carnivorous Snapvine,Rare,Unit,Body,Origins
+652933,Carnivorous Snapvine,2026-02-02,0.53,3,49,1,0.0827,0.0,0.455,0.1648,0.46,Carnivorous Snapvine,Rare,Unit,Body,Origins
+652933,Carnivorous Snapvine,2026-02-09,0.46,3,56,0,0.0586,0.075,0.53,-0.1321,0.47,Carnivorous Snapvine,Rare,Unit,Body,Origins
+652933,Carnivorous Snapvine,2026-02-16,0.47,3,63,0,0.0,0.0,0.46,0.0217,0.475,Carnivorous Snapvine,Rare,Unit,Body,Origins
+652933,Carnivorous Snapvine,2026-02-23,0.475,3,70,0,0.0,0.0,0.47,0.0106,0.5367,Carnivorous Snapvine,Rare,Unit,Body,Origins
+652933,Carnivorous Snapvine,2026-03-02,0.5367,3,77,0,0.0488,0.0417,0.475,0.1299,0.58,Carnivorous Snapvine,Rare,Unit,Body,Origins
+652933,Carnivorous Snapvine,2026-03-09,0.58,3,84,0,0.0863,0.125,0.5367,0.0807,0.61,Carnivorous Snapvine,Rare,Unit,Body,Origins
+652922,Catalyst Of Aeons,2026-01-05,0.51,2,14,0,0.0,0.0,0.605,-0.157,0.4033,Catalyst Of Aeons,Uncommon,Spell,Body,Origins
+652922,Catalyst Of Aeons,2026-01-12,0.4033,2,21,1,0.0,0.0,0.51,-0.2092,0.395,Catalyst Of Aeons,Uncommon,Spell,Body,Origins
+652922,Catalyst Of Aeons,2026-01-19,0.395,2,28,1,0.0,0.0,0.4033,-0.0206,0.37,Catalyst Of Aeons,Uncommon,Spell,Body,Origins
+652922,Catalyst Of Aeons,2026-01-26,0.37,2,35,1,0.0,0.0,0.395,-0.0633,0.3833,Catalyst Of Aeons,Uncommon,Spell,Body,Origins
+652922,Catalyst Of Aeons,2026-02-02,0.3833,2,42,1,0.0827,0.0,0.37,0.0359,0.285,Catalyst Of Aeons,Uncommon,Spell,Body,Origins
+652922,Catalyst Of Aeons,2026-02-09,0.285,2,49,0,0.0586,0.075,0.3833,-0.2565,0.35,Catalyst Of Aeons,Uncommon,Spell,Body,Origins
+652922,Catalyst Of Aeons,2026-02-16,0.35,2,56,0,0.0,0.0,0.285,0.2281,0.44,Catalyst Of Aeons,Uncommon,Spell,Body,Origins
+652922,Catalyst Of Aeons,2026-02-23,0.44,2,63,0,0.0,0.0,0.35,0.2571,0.565,Catalyst Of Aeons,Uncommon,Spell,Body,Origins
+652922,Catalyst Of Aeons,2026-03-02,0.565,2,70,0,0.0488,0.0417,0.44,0.2841,0.625,Catalyst Of Aeons,Uncommon,Spell,Body,Origins
+652922,Catalyst Of Aeons,2026-03-09,0.625,2,77,0,0.0863,0.125,0.565,0.1062,0.64,Catalyst Of Aeons,Uncommon,Spell,Body,Origins
+652953,Cemetery Attendant,2025-12-29,0.1,1,14,0,0.0,0.0,0.085,0.1765,0.0833,Cemetery Attendant,Common,Unit,Chaos,Origins
+652953,Cemetery Attendant,2026-01-05,0.0833,1,21,0,0.0,0.0,0.1,-0.167,0.065,Cemetery Attendant,Common,Unit,Chaos,Origins
+652953,Cemetery Attendant,2026-01-12,0.065,1,28,1,0.0,0.0,0.0833,-0.2197,0.05,Cemetery Attendant,Common,Unit,Chaos,Origins
+652953,Cemetery Attendant,2026-01-19,0.05,1,35,1,0.0,0.0,0.065,-0.2308,0.05,Cemetery Attendant,Common,Unit,Chaos,Origins
+652953,Cemetery Attendant,2026-01-26,0.05,1,42,1,0.0,0.0,0.05,0.0,0.05,Cemetery Attendant,Common,Unit,Chaos,Origins
+652953,Cemetery Attendant,2026-02-02,0.05,1,49,1,0.1763,0.0,0.05,0.0,0.045,Cemetery Attendant,Common,Unit,Chaos,Origins
+652953,Cemetery Attendant,2026-02-09,0.045,1,56,0,0.1748,0.35,0.05,-0.1,0.0767,Cemetery Attendant,Common,Unit,Chaos,Origins
+652953,Cemetery Attendant,2026-02-16,0.0767,1,63,0,0.0,0.0,0.045,0.7044,0.08,Cemetery Attendant,Common,Unit,Chaos,Origins
+652953,Cemetery Attendant,2026-02-23,0.08,1,70,0,0.0,0.0,0.0767,0.043,0.07,Cemetery Attendant,Common,Unit,Chaos,Origins
+652953,Cemetery Attendant,2026-03-02,0.07,1,77,0,0.1512,0.3333,0.08,-0.125,0.0633,Cemetery Attendant,Common,Unit,Chaos,Origins
+652953,Cemetery Attendant,2026-03-09,0.0633,1,84,0,0.1686,0.1875,0.07,-0.0957,0.08,Cemetery Attendant,Common,Unit,Chaos,Origins
+652912,Challenge,2025-12-29,0.1233,1,14,0,0.0,0.0,0.13,-0.0515,0.105,Challenge,Common,Spell,Body,Origins
+652912,Challenge,2026-01-05,0.105,1,21,0,0.0,0.0,0.1233,-0.1484,0.105,Challenge,Common,Spell,Body,Origins
+652912,Challenge,2026-01-12,0.105,1,28,1,0.0,0.0,0.105,0.0,0.11,Challenge,Common,Spell,Body,Origins
+652912,Challenge,2026-01-19,0.11,1,35,1,0.0,0.0,0.105,0.0476,0.1,Challenge,Common,Spell,Body,Origins
+652912,Challenge,2026-01-26,0.1,1,42,1,0.0,0.0,0.11,-0.0909,0.09,Challenge,Common,Spell,Body,Origins
+652912,Challenge,2026-02-02,0.09,1,49,1,0.0827,0.0,0.1,-0.1,0.1033,Challenge,Common,Spell,Body,Origins
+652912,Challenge,2026-02-09,0.1033,1,56,0,0.0586,0.075,0.09,0.1478,0.14,Challenge,Common,Spell,Body,Origins
+652912,Challenge,2026-02-16,0.14,1,63,0,0.0,0.0,0.1033,0.3553,0.165,Challenge,Common,Spell,Body,Origins
+652912,Challenge,2026-02-23,0.165,1,70,0,0.0,0.0,0.14,0.1786,0.18,Challenge,Common,Spell,Body,Origins
+652912,Challenge,2026-03-02,0.18,1,77,0,0.0488,0.0417,0.165,0.0909,0.195,Challenge,Common,Spell,Body,Origins
+652912,Challenge,2026-03-09,0.195,1,84,0,0.0863,0.125,0.18,0.0833,0.21,Challenge,Common,Spell,Body,Origins
+652954,Chaos Rune (Common),2025-12-29,0.2933,1,14,0,0.0,0.0,0.31,-0.0539,0.28,Chaos Rune,Common,Basic Rune,Chaos,Origins
+652954,Chaos Rune (Common),2026-01-05,0.28,1,21,0,0.0,0.0,0.2933,-0.0453,0.245,Chaos Rune,Common,Basic Rune,Chaos,Origins
+652954,Chaos Rune (Common),2026-01-12,0.245,1,28,1,0.0,0.0,0.28,-0.125,0.2433,Chaos Rune,Common,Basic Rune,Chaos,Origins
+652954,Chaos Rune (Common),2026-01-19,0.2433,1,35,1,0.0,0.0,0.245,-0.0069,0.24,Chaos Rune,Common,Basic Rune,Chaos,Origins
+652954,Chaos Rune (Common),2026-01-26,0.24,1,42,1,0.0,0.0,0.2433,-0.0136,0.245,Chaos Rune,Common,Basic Rune,Chaos,Origins
+652954,Chaos Rune (Common),2026-02-02,0.245,1,49,1,0.1763,0.0,0.24,0.0208,0.24,Chaos Rune,Common,Basic Rune,Chaos,Origins
+652954,Chaos Rune (Common),2026-02-09,0.24,1,56,0,0.1748,0.35,0.245,-0.0204,0.18,Chaos Rune,Common,Basic Rune,Chaos,Origins
+652954,Chaos Rune (Common),2026-02-16,0.18,1,63,0,0.0,0.0,0.24,-0.25,0.195,Chaos Rune,Common,Basic Rune,Chaos,Origins
+652954,Chaos Rune (Common),2026-02-23,0.195,1,70,0,0.0,0.0,0.18,0.0833,0.1933,Chaos Rune,Common,Basic Rune,Chaos,Origins
+652954,Chaos Rune (Common),2026-03-02,0.1933,1,77,0,0.1512,0.3333,0.195,-0.0087,0.19,Chaos Rune,Common,Basic Rune,Chaos,Origins
+652954,Chaos Rune (Common),2026-03-09,0.19,1,84,0,0.1686,0.1875,0.1933,-0.0171,0.19,Chaos Rune,Common,Basic Rune,Chaos,Origins
+662904,Chaos Rune (Promo),2026-01-05,24.985,3,14,0,0.0,0.0,27.285,-0.0843,20.5267,Chaos Rune,Promo,Basic Rune,Chaos,Origins
+662904,Chaos Rune (Promo),2026-01-12,20.5267,3,21,1,0.0,0.0,24.985,-0.1784,18.85,Chaos Rune,Promo,Basic Rune,Chaos,Origins
+662904,Chaos Rune (Promo),2026-01-19,18.85,3,28,1,0.0,0.0,20.5267,-0.0817,20.52,Chaos Rune,Promo,Basic Rune,Chaos,Origins
+662904,Chaos Rune (Promo),2026-01-26,20.52,3,35,1,0.0,0.0,18.85,0.0886,21.1467,Chaos Rune,Promo,Basic Rune,Chaos,Origins
+662904,Chaos Rune (Promo),2026-02-02,21.1467,3,42,1,0.1763,0.0,20.52,0.0305,17.1,Chaos Rune,Promo,Basic Rune,Chaos,Origins
+662904,Chaos Rune (Promo),2026-02-09,17.1,3,49,0,0.1748,0.35,21.1467,-0.1914,17.655,Chaos Rune,Promo,Basic Rune,Chaos,Origins
+662904,Chaos Rune (Promo),2026-02-16,17.655,3,56,0,0.0,0.0,17.1,0.0325,17.1267,Chaos Rune,Promo,Basic Rune,Chaos,Origins
+662904,Chaos Rune (Promo),2026-02-23,17.1267,3,63,0,0.0,0.0,17.655,-0.0299,17.0,Chaos Rune,Promo,Basic Rune,Chaos,Origins
+662904,Chaos Rune (Promo),2026-03-02,17.0,3,70,0,0.1512,0.3333,17.1267,-0.0074,15.81,Chaos Rune,Promo,Basic Rune,Chaos,Origins
+662904,Chaos Rune (Promo),2026-03-09,15.81,3,77,0,0.1686,0.1875,17.0,-0.07,15.19,Chaos Rune,Promo,Basic Rune,Chaos,Origins
+652955,Chaos Rune (Showcase),2026-01-05,20.76,5,14,0,0.0,0.0,22.705,-0.0857,25.3567,Chaos Rune,Showcase,Basic Rune,Chaos,Origins
+652955,Chaos Rune (Showcase),2026-01-12,25.3567,5,21,1,0.0,0.0,20.76,0.2214,24.36,Chaos Rune,Showcase,Basic Rune,Chaos,Origins
+652955,Chaos Rune (Showcase),2026-01-19,24.36,5,28,1,0.0,0.0,25.3567,-0.0393,25.355,Chaos Rune,Showcase,Basic Rune,Chaos,Origins
+652955,Chaos Rune (Showcase),2026-01-26,25.355,5,35,1,0.0,0.0,24.36,0.0408,25.58,Chaos Rune,Showcase,Basic Rune,Chaos,Origins
+652955,Chaos Rune (Showcase),2026-02-02,25.58,5,42,1,0.1763,0.0,25.355,0.0089,23.87,Chaos Rune,Showcase,Basic Rune,Chaos,Origins
+652955,Chaos Rune (Showcase),2026-02-09,23.87,5,49,0,0.1748,0.35,25.58,-0.0668,18.75,Chaos Rune,Showcase,Basic Rune,Chaos,Origins
+652955,Chaos Rune (Showcase),2026-02-16,18.75,5,56,0,0.0,0.0,23.87,-0.2145,18.4033,Chaos Rune,Showcase,Basic Rune,Chaos,Origins
+652955,Chaos Rune (Showcase),2026-02-23,18.4033,5,63,0,0.0,0.0,18.75,-0.0185,16.925,Chaos Rune,Showcase,Basic Rune,Chaos,Origins
+652955,Chaos Rune (Showcase),2026-03-02,16.925,5,70,0,0.1512,0.3333,18.4033,-0.0803,15.305,Chaos Rune,Showcase,Basic Rune,Chaos,Origins
+652955,Chaos Rune (Showcase),2026-03-09,15.305,5,77,0,0.1686,0.1875,16.925,-0.0957,14.52,Chaos Rune,Showcase,Basic Rune,Chaos,Origins
+652819,Charm,2025-12-29,0.21,1,14,0,0.0,0.0,0.225,-0.0667,0.165,Charm,Common,Spell,Calm,Origins
+652819,Charm,2026-01-05,0.165,1,21,0,0.0,0.0,0.21,-0.2143,0.17,Charm,Common,Spell,Calm,Origins
+652819,Charm,2026-01-12,0.17,1,28,1,0.0,0.0,0.165,0.0303,0.17,Charm,Common,Spell,Calm,Origins
+652819,Charm,2026-01-19,0.17,1,35,1,0.0,0.0,0.17,0.0,0.14,Charm,Common,Spell,Calm,Origins
+652819,Charm,2026-01-26,0.14,1,42,1,0.0,0.0,0.17,-0.1765,0.16,Charm,Common,Spell,Calm,Origins
+652819,Charm,2026-02-02,0.16,1,49,1,0.0971,0.0,0.14,0.1429,0.1867,Charm,Common,Spell,Calm,Origins
+652819,Charm,2026-02-09,0.1867,1,56,0,0.1072,0.125,0.16,0.1669,0.235,Charm,Common,Spell,Calm,Origins
+652819,Charm,2026-02-16,0.235,1,63,0,0.0,0.0,0.1867,0.2587,0.26,Charm,Common,Spell,Calm,Origins
+652819,Charm,2026-02-23,0.26,1,70,0,0.0,0.0,0.235,0.1064,0.29,Charm,Common,Spell,Calm,Origins
+652819,Charm,2026-03-02,0.29,1,77,0,0.0878,0.1667,0.26,0.1154,0.335,Charm,Common,Spell,Calm,Origins
+652819,Charm,2026-03-09,0.335,1,84,0,0.102,0.125,0.29,0.1552,0.35,Charm,Common,Spell,Calm,Origins
+663439,Chem-Baroness,2026-02-16,0.14,3,14,0,0.0,0.0,0.37,-0.6216,0.1467,Chem-Baroness,Rare,Legend,Order|Mind,Spiritforged
+663439,Chem-Baroness,2026-02-23,0.1467,3,21,0,0.0,0.0,0.14,0.0479,0.125,Chem-Baroness,Rare,Legend,Order|Mind,Spiritforged
+663439,Chem-Baroness,2026-03-02,0.125,3,28,0,0.0,0.0,0.1467,-0.1479,0.14,Chem-Baroness,Rare,Legend,Order|Mind,Spiritforged
+663439,Chem-Baroness,2026-03-09,0.14,3,35,0,0.0,0.0,0.125,0.12,0.15,Chem-Baroness,Rare,Legend,Order|Mind,Spiritforged
