@@ -3,11 +3,11 @@
 A data analytics portfolio project that scrapes card price and tournament data for the Riftbound TCG, engineers features, and trains multiple forecasting models to predict weekly card price movement. Framed as a financial/sports analytics crossover — think stock market meets competitive gaming.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit)](https://streamlit.io)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live_Dashboard-FF4B4B?logo=streamlit)](https://riftbound-price-forecast.streamlit.app)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Model-orange)](https://xgboost.readthedocs.io)
 [![Prophet](https://img.shields.io/badge/Prophet-Time--Series-blue)](https://facebook.github.io/prophet/)
 
-**[Live Dashboard →](https://share.streamlit.io)** _(link pending deployment)_
+**[Live Dashboard →](https://riftbound-price-forecast.streamlit.app)**
 
 ---
 
