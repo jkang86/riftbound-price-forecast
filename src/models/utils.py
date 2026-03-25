@@ -18,7 +18,9 @@ from config import PROCESSED_DIR, TARGET_COL, MODEL_PARAMS
 # ---------------------------------------------------------------------------
 # Feature columns used by cross-sectional models (Ridge/Lasso/RF/XGB)
 # ---------------------------------------------------------------------------
-FEATURE_COLS: list[str] = [
+
+# Base features always expected in features.csv
+_BASE_FEATURE_COLS: list[str] = [
     "market_price",
     "rarity_tier",
     "days_since_first_sale",
@@ -29,22 +31,18 @@ FEATURE_COLS: list[str] = [
     "price_lag_2w",
     "price_rolling_mean_4w",
     "price_pct_change_1w",
-    "type_basic_rune",
-    "type_battlefield",
-    "type_champion_unit",
-    "type_gear",
-    "type_legend",
-    "type_signature_spell",
-    "type_spell",
-    "type_unit",
-    "domain_primary_body",
-    "domain_primary_calm",
-    "domain_primary_chaos",
-    "domain_primary_colorless",
-    "domain_primary_fury",
-    "domain_primary_mind",
-    "domain_primary_order",
 ]
+
+
+def get_feature_cols(df: pd.DataFrame) -> list[str]:
+    """Return base features + all type/domain dummies present in df."""
+    type_cols   = sorted(c for c in df.columns if c.startswith("type_"))
+    domain_cols = sorted(c for c in df.columns if c.startswith("domain_primary_"))
+    return _BASE_FEATURE_COLS + type_cols + domain_cols
+
+
+# Legacy alias — populated after first load
+FEATURE_COLS: list[str] = _BASE_FEATURE_COLS
 
 # Price-scale features that benefit from log1p transformation
 LOG_PRICE_COLS: list[str] = [
@@ -81,7 +79,7 @@ def time_split(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
 # ---------------------------------------------------------------------------
 
 def get_xy(df: pd.DataFrame, log_transform: bool = True) -> tuple[np.ndarray, np.ndarray]:
-    X = df[FEATURE_COLS].copy().astype(float)
+    X = df[get_feature_cols(df)].copy().astype(float)
     if log_transform:
         for col in LOG_PRICE_COLS:
             X[col] = np.log1p(X[col].clip(lower=0))

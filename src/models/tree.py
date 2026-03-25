@@ -20,19 +20,19 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 from config import FIGURES_DIR, MODEL_PARAMS, TARGET_COL
 from src.models.utils import (
-    FEATURE_COLS, compute_metrics, get_xy, load_features,
+    compute_metrics, get_feature_cols, get_xy, load_features,
     make_pred_df, pred_to_price, time_split,
 )
 
 TOP_N_FEATURES = 10
 
 
-def _save_importance_plot(importances: np.ndarray, model_name: str) -> None:
+def _save_importance_plot(importances: np.ndarray, feature_cols: list[str], model_name: str) -> None:
     FIGURES_DIR.mkdir(parents=True, exist_ok=True)
     idx = np.argsort(importances)[-TOP_N_FEATURES:]
     fig, ax = plt.subplots(figsize=(8, 5))
     ax.barh(
-        [FEATURE_COLS[i] for i in idx],
+        [feature_cols[i] for i in idx],
         importances[idx],
         color="#C89B3C",
     )
@@ -46,7 +46,7 @@ def _save_importance_plot(importances: np.ndarray, model_name: str) -> None:
     print(f"[{model_name}] Feature importance chart saved to {out.name}")
     print(f"[{model_name}] Top 5 features:")
     for i in reversed(idx[-5:]):
-        print(f"  {FEATURE_COLS[i]}: {importances[i]:.4f}")
+        print(f"  {feature_cols[i]}: {importances[i]:.4f}")
 
 
 def train_random_forest(
@@ -71,7 +71,7 @@ def train_random_forest(
     y_pred_test  = pred_to_price(model.predict(X_test))
 
     metrics = compute_metrics(y_test_orig, y_pred_test, "RandomForest")
-    _save_importance_plot(model.feature_importances_, "RandomForest")
+    _save_importance_plot(model.feature_importances_, get_feature_cols(df), "RandomForest")
 
     pred_df = pd.concat([
         make_pred_df(train, y_pred_train, "RandomForest"),
@@ -143,7 +143,7 @@ def train_xgboost(
     y_pred_test  = pred_to_price(model.predict(X_test))
 
     metrics = compute_metrics(y_test_orig, y_pred_test, "XGBoost")
-    _save_importance_plot(model.feature_importances_, "XGBoost")
+    _save_importance_plot(model.feature_importances_, get_feature_cols(df), "XGBoost")
 
     pred_df = pd.concat([
         make_pred_df(train, y_pred_train, "XGBoost"),

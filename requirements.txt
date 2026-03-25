@@ -16,3 +16,4 @@ jupyter>=1.0
 notebook>=7.0
 tqdm>=4.66
 python-dotenv>=1.0
+py7zr>=0.20

@@ -48,3 +48,18 @@ CARD_COL = "card_name"
 
 SCRAPER_SLEEP = 1.5  # seconds between requests
 PAGE_SIZE = 100
+
+# TCGCSV — no-auth TCGPlayer price mirror, updated daily
+TCGCSV_BASE = "https://tcgcsv.com"
+TCGCSV_CATEGORY_ID = 89  # Riftbound: League of Legends Trading Card Game
+TCGCSV_GROUPS = {
+    "Origins": 24344,
+    "Origins: Proving Grounds": 24439,
+    "Spiritforged": 24519,
+    "Unleashed": 24560,
+    "Promotional Cards": 24343,
+    "Judge Promotional": 24552,
+    "Organized Play Promos": 24528,
+}
+# First Monday on or after Origins launch window (game launched ~Oct/Nov 2025)
+TCGCSV_START_DATE = "2025-10-06"

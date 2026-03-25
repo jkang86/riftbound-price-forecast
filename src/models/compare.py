@@ -58,7 +58,7 @@ def _save_features_export(df: pd.DataFrame) -> None:
     ]
     # Also include original categorical labels from master for display
     master = pd.read_csv(PROCESSED_DIR / "master.csv")[
-        ["product_id", "card_name", "rarity", "type", "domain", "set"]
+        ["product_id", "card_name", "rarity", "card_type", "domain", "set_name"]
     ].drop_duplicates("product_id")
 
     export = df[keep].merge(master, on="product_id", how="left")
@@ -72,12 +72,11 @@ def _save_features_export(df: pd.DataFrame) -> None:
     print(f"[compare] features.csv saved — {export.shape}")
 
 
-def _save_feature_importances(models_map: dict) -> None:
+def _save_feature_importances(models_map: dict, feature_cols: list[str]) -> None:
     """Save feature importances for RF and XGBoost to a tidy CSV."""
-    from src.models.utils import FEATURE_COLS
     rows = []
     for model_name, model in models_map.items():
-        for feat, imp in zip(FEATURE_COLS, model.feature_importances_):
+        for feat, imp in zip(feature_cols, model.feature_importances_):
             rows.append({"model": model_name, "feature": feat, "importance": round(float(imp), 6)})
     df = pd.DataFrame(rows).sort_values(["model", "importance"], ascending=[True, False])
     out = EXPORTS_DIR / "feature_importances.csv"
@@ -165,7 +164,8 @@ def run_all() -> None:
     _save_prices(pred_dfs)
     _save_features_export(df)
     _save_top_movers(df)
-    _save_feature_importances({"RandomForest": rf_model, "XGBoost": xgb_model})
+    from src.models.utils import get_feature_cols
+    _save_feature_importances({"RandomForest": rf_model, "XGBoost": xgb_model}, get_feature_cols(df))
 
     print(f"\n[compare] All exports written to {EXPORTS_DIR}")
 

@@ -1,117 +1,138 @@
 """
 Phase 2 — Cleaning.
 
-Reads:  data/raw/tcgplayer/YYYY-MM-DD_price_history.json
-Writes: data/processed/prices_clean.csv
+Reads:  SQLite prices_raw + cards tables (data/riftbound.db)
+Writes: SQLite prices_weekly table  +  data/processed/prices_clean.csv
 
-Schema:
-  card_name, product_id, rarity, set, type, domain,
-  variant, condition, week, market_price, low_price,
-  high_price, qty_sold, transaction_count
+Logic:
+  - Join prices_raw with cards to get metadata.
+  - Prefer Normal SKU over Foil per product; drop rows with no market_price.
+  - Aggregate daily snapshots to weekly (Monday of ISO week).
+  - One row per (product_id, week).
 """
-import json
-import re
+import sqlite3
 from pathlib import Path
 
 import pandas as pd
 
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from config import RAW_DIR, PROCESSED_DIR
+from config import DB_PATH, PROCESSED_DIR
 
 
-def _latest_file(directory: Path, pattern: str) -> Path:
-    matches = sorted(directory.glob(pattern), reverse=True)
-    if not matches:
-        raise FileNotFoundError(f"No file matching {pattern} in {directory}")
-    return matches[0]
+def _get_conn() -> sqlite3.Connection:
+    if not DB_PATH.exists():
+        raise FileNotFoundError(
+            f"Database not found at {DB_PATH}. Run the TCGCSV scraper first."
+        )
+    return sqlite3.connect(DB_PATH)
 
 
-def _load_price_history() -> pd.DataFrame:
-    path = _latest_file(RAW_DIR / "tcgplayer", "*_price_history.json")
-    print(f"[cleaner] Loading {path.name}")
-    with open(path, encoding="utf-8") as f:
-        raw = json.load(f)
-
-    rows = []
-    for pid, card in raw.items():
-        for bucket in card.get("buckets", []):
-            rows.append({
-                "card_name": card["card_name"],
-                "product_id": card["product_id"],
-                "rarity": card.get("rarity"),
-                "set": card.get("set"),
-                "type": card.get("type"),
-                "domain": card.get("domain"),
-                "variant": card.get("selected_variant"),
-                "condition": card.get("selected_condition"),
-                "bucket_date": bucket["bucketStartDate"],
-                "market_price": float(bucket["marketPrice"] or 0),
-                "low_price": float(bucket.get("lowSalePrice") or 0),
-                "high_price": float(bucket.get("highSalePrice") or 0),
-                "qty_sold": int(bucket.get("quantitySold") or 0),
-                "transaction_count": int(bucket.get("transactionCount") or 0),
-            })
-
-    return pd.DataFrame(rows)
+def _init_prices_weekly(conn: sqlite3.Connection) -> None:
+    conn.executescript("""
+        CREATE TABLE IF NOT EXISTS prices_weekly (
+            product_id   INTEGER NOT NULL,
+            card_name    TEXT    NOT NULL,
+            week         TEXT    NOT NULL,
+            rarity       TEXT,
+            set_name     TEXT,
+            card_type    TEXT,
+            domain       TEXT,
+            market_price REAL,
+            low_price    REAL,
+            high_price   REAL,
+            PRIMARY KEY (product_id, week)
+        );
+    """)
+    conn.commit()
 
 
-def _derive_week(df: pd.DataFrame) -> pd.DataFrame:
-    """Floor bucket_date to the Monday of its ISO week."""
-    dates = pd.to_datetime(df["bucket_date"])
-    df["week"] = (dates - pd.to_timedelta(dates.dt.dayofweek, unit="D")).dt.strftime("%Y-%m-%d")
+def _load_raw(conn: sqlite3.Connection) -> pd.DataFrame:
+    """
+    Join prices_raw with cards. Prefer Normal SKU; fall back to Foil.
+    Returns one row per (product_id, date) — the best available SKU.
+    """
+    query = """
+        SELECT
+            p.date,
+            p.product_id,
+            p.sub_type_name,
+            p.market_price,
+            p.low_price,
+            p.high_price,
+            c.name        AS card_name,
+            c.rarity,
+            c.set_name,
+            c.card_type,
+            c.domain
+        FROM prices_raw p
+        INNER JOIN cards c ON c.product_id = p.product_id
+        WHERE p.market_price IS NOT NULL
+          AND p.market_price > 0
+        ORDER BY p.product_id, p.date,
+                 -- Normal preferred (0) before Foil (1) and others (2)
+                 CASE p.sub_type_name
+                     WHEN 'Normal' THEN 0
+                     WHEN 'Foil'   THEN 1
+                     ELSE               2
+                 END
+    """
+    df = pd.read_sql_query(query, conn)
+
+    # Keep best SKU per (product_id, date)
+    df = df.drop_duplicates(subset=["product_id", "date"], keep="first").copy()
     return df
 
 
-def _aggregate_to_weekly(df: pd.DataFrame) -> pd.DataFrame:
-    """Mean market/low/high price + sum qty per (card_name, week)."""
-    # Drop buckets with no sales activity
-    df = df[df["market_price"] > 0].copy()
+def _to_weekly(df: pd.DataFrame) -> pd.DataFrame:
+    """Floor date to Monday of its ISO week, then aggregate to weekly means."""
+    dates = pd.to_datetime(df["date"])
+    df["week"] = (dates - pd.to_timedelta(dates.dt.dayofweek, unit="D")).dt.strftime("%Y-%m-%d")
 
     agg = (
-        df.groupby(["card_name", "product_id", "rarity", "set", "type", "domain",
-                    "variant", "condition", "week"])
+        df.groupby(["product_id", "card_name", "week", "rarity", "set_name", "card_type", "domain"])
         .agg(
             market_price=("market_price", "mean"),
-            low_price=("low_price", "mean"),
-            high_price=("high_price", "mean"),
-            qty_sold=("qty_sold", "sum"),
-            transaction_count=("transaction_count", "sum"),
+            low_price=("low_price",    "mean"),
+            high_price=("high_price",  "mean"),
         )
         .reset_index()
     )
-
     agg[["market_price", "low_price", "high_price"]] = (
         agg[["market_price", "low_price", "high_price"]].round(4)
     )
-
     return agg.sort_values(["card_name", "week"]).reset_index(drop=True)
 
 
 def clean_prices() -> pd.DataFrame:
-    df = _load_price_history()
-    print(f"[cleaner] Raw rows (buckets): {len(df)}")
+    conn = _get_conn()
+    df = _load_raw(conn)
+    conn.close()
 
-    df = _derive_week(df)
-    df = _aggregate_to_weekly(df)
-
+    print(f"[cleaner] Raw rows (daily, best SKU): {len(df)}")
+    df = _to_weekly(df)
     print(f"[cleaner] After weekly aggregation: {df.shape[0]} rows")
     print(f"[cleaner] Cards: {df['card_name'].nunique()} | Weeks: {df['week'].nunique()}")
     print(f"[cleaner] Week range: {df['week'].min()} to {df['week'].max()}")
-
-    null_counts = df.isnull().sum()
-    if null_counts.any():
-        print(f"[cleaner] Nulls:\n{null_counts[null_counts > 0]}")
-
     return df
 
 
 def save_clean_prices() -> pd.DataFrame:
-    PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     df = clean_prices()
+
+    # Write to SQLite
+    conn = _get_conn()
+    _init_prices_weekly(conn)
+    conn.execute("DELETE FROM prices_weekly")
+    df.to_sql("prices_weekly", conn, if_exists="append", index=False)
+    conn.commit()
+    conn.close()
+
+    # Write CSV for backward compatibility
+    PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     out = PROCESSED_DIR / "prices_clean.csv"
     df.to_csv(out, index=False)
-    print(f"[cleaner] Saved {out.name} — shape: {df.shape}")
+    print(f"[cleaner] Saved prices_weekly -> DB + {out.name} — shape: {df.shape}")
     return df
 
 
