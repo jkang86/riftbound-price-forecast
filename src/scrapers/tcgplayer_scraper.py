@@ -43,19 +43,28 @@ VARIANT_PRIORITY = ["Normal", "Foil"]
 
 def _load_cards() -> list[dict]:
     stats_dir = RAW_DIR / "riftboundstats"
-    # Match YYYY-MM-DD_cards.json only — exclude deck_cards, legend_cards etc.
+    # Prefer cards_full_v2 (full 529-card catalog), then any cards_full, then YYYY-MM-DD_cards.json
     import re as _re
-    candidates = sorted(
-        [p for p in stats_dir.glob("*_cards.json")
-         if _re.match(r"^\d{4}-\d{2}-\d{2}_cards\.json$", p.name)],
-        reverse=True,
-    )
-    if not candidates:
-        raise FileNotFoundError(f"No YYYY-MM-DD_cards.json found in {stats_dir}")
-    path = candidates[0]
+    v2 = sorted(stats_dir.glob("*_cards_full_v2.json"), reverse=True)
+    if v2:
+        path = v2[0]
+    else:
+        full = sorted(stats_dir.glob("*_cards_full.json"), reverse=True)
+        if full:
+            path = full[0]
+        else:
+            candidates = sorted(
+                [p for p in stats_dir.glob("*_cards.json")
+                 if _re.match(r"^\d{4}-\d{2}-\d{2}_cards\.json$", p.name)],
+                reverse=True,
+            )
+            if not candidates:
+                raise FileNotFoundError(f"No cards JSON found in {stats_dir}")
+            path = candidates[0]
     print(f"[tcgplayer] Loading cards from {path.name}")
     with open(path, encoding="utf-8") as f:
-        return json.load(f)
+        raw = json.load(f)
+    return [c for c in raw if isinstance(c, dict)]
 
 
 def fetch_price_history(product_id: int | str, cookie: str, range_: str = "quarter") -> list[dict]:
