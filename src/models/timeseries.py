@@ -123,8 +123,8 @@ def train_arima(
     if not card_metrics:
         raise RuntimeError("[ARIMA] No products could be fitted.")
 
-    avg_rmse = float(np.mean([m["rmse"] for m in card_metrics]))
-    avg_mae  = float(np.mean([m["mae"]  for m in card_metrics]))
+    avg_rmse = float(np.median([m["rmse"] for m in card_metrics]))
+    avg_mae  = float(np.median([m["mae"]  for m in card_metrics]))
 
     # R² computed globally across all test predictions
     pred_df = pd.concat(all_preds, ignore_index=True)
@@ -224,8 +224,8 @@ def train_prophet(
     if not card_metrics:
         raise RuntimeError("[Prophet] No products could be fitted.")
 
-    avg_rmse = float(np.mean([m["rmse"] for m in card_metrics]))
-    avg_mae  = float(np.mean([m["mae"]  for m in card_metrics]))
+    avg_rmse = float(np.median([m["rmse"] for m in card_metrics]))
+    avg_mae  = float(np.median([m["mae"]  for m in card_metrics]))
 
     pred_df = pd.concat(all_preds, ignore_index=True)
     test_preds = pred_df[pred_df["week"].isin(test_weeks)]

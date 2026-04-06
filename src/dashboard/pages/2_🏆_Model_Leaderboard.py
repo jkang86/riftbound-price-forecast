@@ -46,5 +46,6 @@ st.download_button(
 
 st.caption(
     "Test period: last 3 weeks of available data. "
-    "All metrics use per-card averaged RMSE/MAE for a fair apples-to-apples comparison across model types."
+    "RMSE and MAE are median per-card values — Showcase cards ($100–$2000+) are present in the dataset "
+    "and would inflate a mean-based metric by 20–30×."
 )

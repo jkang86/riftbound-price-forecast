@@ -125,8 +125,8 @@ def compute_metrics_per_card(
             "mae":  float(np.mean(np.abs(g["_true"] - g["_pred"]))),
         })
     )
-    avg_rmse = float(card_stats["rmse"].mean())
-    avg_mae  = float(card_stats["mae"].mean())
+    avg_rmse = float(card_stats["rmse"].median())
+    avg_mae  = float(card_stats["mae"].median())
     r2       = float(r2_score(df["_true"], df["_pred"]))
 
     print(f"[{model_name}] RMSE: {avg_rmse:.4f} | MAE: {avg_mae:.4f} | R\u00b2: {r2:.4f}")
