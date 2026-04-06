@@ -19,7 +19,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 from config import MODEL_PARAMS
 from src.models.utils import (
-    compute_metrics, get_xy, load_features, make_pred_df,
+    compute_metrics_per_card, get_xy, load_features, make_pred_df,
     pred_to_price, time_split,
 )
 
@@ -61,7 +61,7 @@ def _fit_linear(
     y_pred_test  = pred_to_price(y_pred_test_log)
     y_test_orig  = test[__import__('config').TARGET_COL].clip(lower=0).values
 
-    metrics  = compute_metrics(y_test_orig, y_pred_test, name)
+    metrics  = compute_metrics_per_card(test, y_pred_test, name)
     pred_df  = pd.concat([
         make_pred_df(train, y_pred_train, name),
         make_pred_df(test,  y_pred_test,  name),

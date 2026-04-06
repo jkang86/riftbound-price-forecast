@@ -20,7 +20,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 from config import FIGURES_DIR, MODEL_PARAMS, TARGET_COL
 from src.models.utils import (
-    compute_metrics, get_feature_cols, get_xy, load_features,
+    compute_metrics_per_card, get_feature_cols, get_xy, load_features,
     make_pred_df, pred_to_price, time_split,
 )
 
@@ -70,7 +70,7 @@ def train_random_forest(
     y_pred_train = pred_to_price(model.predict(X_train))
     y_pred_test  = pred_to_price(model.predict(X_test))
 
-    metrics = compute_metrics(y_test_orig, y_pred_test, "RandomForest")
+    metrics = compute_metrics_per_card(test, y_pred_test, "RandomForest")
     _save_importance_plot(model.feature_importances_, get_feature_cols(df), "RandomForest")
 
     pred_df = pd.concat([
@@ -142,7 +142,7 @@ def train_xgboost(
     y_pred_train = pred_to_price(model.predict(X_train))
     y_pred_test  = pred_to_price(model.predict(X_test))
 
-    metrics = compute_metrics(y_test_orig, y_pred_test, "XGBoost")
+    metrics = compute_metrics_per_card(test, y_pred_test, "XGBoost")
     _save_importance_plot(model.feature_importances_, get_feature_cols(df), "XGBoost")
 
     pred_df = pd.concat([

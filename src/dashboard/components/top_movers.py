@@ -27,5 +27,6 @@ def render(df: pd.DataFrame, top_n: int = 10) -> None:
         plot_bgcolor="rgba(0,0,0,0)",
         paper_bgcolor="rgba(0,0,0,0)",
         showlegend=False,
+        xaxis=dict(tickformat=".0%"),
     )
     st.plotly_chart(fig, width='stretch')

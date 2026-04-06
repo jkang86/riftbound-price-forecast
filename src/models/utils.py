@@ -103,6 +103,36 @@ def compute_metrics(
     return {"model_name": model_name, "RMSE": round(rmse, 4), "MAE": round(mae, 4), "R2": round(r2, 4)}
 
 
+def compute_metrics_per_card(
+    test_df: pd.DataFrame,
+    y_pred: np.ndarray,
+    model_name: str,
+) -> dict[str, float]:
+    """Per-card averaged RMSE/MAE — matches ARIMA/Prophet methodology.
+
+    Global compute_metrics inflates RMSE for cross-sectional models because
+    a single high-value Showcase card prediction error dominates the squared sum.
+    Averaging per-card metrics gives a fair apples-to-apples comparison.
+    R² is still computed globally (same denominator as time-series models).
+    """
+    df = test_df.reset_index(drop=True).copy()
+    df["_pred"] = np.clip(y_pred, 0, None)
+    df["_true"] = df[TARGET_COL].clip(lower=0)
+
+    card_stats = df.groupby("product_id").apply(
+        lambda g: pd.Series({
+            "rmse": float(np.sqrt(np.mean((g["_true"] - g["_pred"]) ** 2))),
+            "mae":  float(np.mean(np.abs(g["_true"] - g["_pred"]))),
+        })
+    )
+    avg_rmse = float(card_stats["rmse"].mean())
+    avg_mae  = float(card_stats["mae"].mean())
+    r2       = float(r2_score(df["_true"], df["_pred"]))
+
+    print(f"[{model_name}] RMSE: {avg_rmse:.4f} | MAE: {avg_mae:.4f} | R\u00b2: {r2:.4f}")
+    return {"model_name": model_name, "RMSE": round(avg_rmse, 4), "MAE": round(avg_mae, 4), "R2": round(r2, 4)}
+
+
 def pred_to_price(y_pred_log: np.ndarray, log_transform: bool = True) -> np.ndarray:
     if log_transform:
         return np.clip(np.expm1(y_pred_log), 0, None)
