@@ -21,7 +21,6 @@ from config import PROCESSED_DIR, TARGET_COL, MODEL_PARAMS
 
 # Base features always expected in features.csv
 _BASE_FEATURE_COLS: list[str] = [
-    "market_price",
     "rarity_tier",
     "days_since_first_sale",
     "set_release_flag",
@@ -46,7 +45,6 @@ FEATURE_COLS: list[str] = _BASE_FEATURE_COLS
 
 # Price-scale features that benefit from log1p transformation
 LOG_PRICE_COLS: list[str] = [
-    "market_price",
     "price_lag_1w",
     "price_lag_2w",
     "price_rolling_mean_4w",

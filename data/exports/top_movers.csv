@@ -634,7 +634,7 @@ Noxian Guillotine,2025-11-17,4.61,0.1383,Up
 Incinerate,2025-11-17,1.08,0.1368,Up
 Harnessed Dragon,2025-11-17,1.52,0.1343,Up
 Trifarian War Camp,2025-11-17,0.17,0.1333,Up
-Decisive Strike,2025-11-17,1.12,0.1313,Up
+Decisive Strike (Epic),2025-11-17,1.12,0.1313,Up
 Blast of Power,2025-11-17,2.51,0.1306,Up
 Jinx - Loose Cannon (Rare),2025-11-17,0.26,0.1304,Up
 Thousand-Tailed Watcher,2025-11-17,48.14,0.1303,Up
@@ -690,7 +690,7 @@ Garbage Grabber,2025-11-17,0.17,0.0625,Up
 Lee Sin - Blind Monk (Rare),2025-11-17,0.17,0.0625,Up
 Fury Rune (Alternate Art) (Showcase),2025-11-17,24.04,0.0623,Up
 Last Stand,2025-11-17,0.35,0.0606,Up
-Garen - Commander,2025-11-17,2.69,0.0591,Up
+Garen - Commander (Epic),2025-11-17,2.69,0.0591,Up
 Riptide Rex (Common),2025-11-17,0.18,0.0588,Up
 Daring Poro (Common),2025-11-17,0.18,0.0588,Up
 Fortified Position,2025-11-17,0.18,0.0588,Up
@@ -1199,7 +1199,7 @@ Yasuo - Unforgiven (Promo),2025-11-24,7.76,-0.1281,Down
 Fading Memories,2025-11-24,0.2,-0.1304,Down
 Sun Disc,2025-11-24,0.39,-0.1333,Down
 Lux - Crownguard (Epic),2025-11-24,7.92,-0.1335,Down
-Decisive Strike,2025-11-24,0.97,-0.1339,Down
+Decisive Strike (Epic),2025-11-24,0.97,-0.1339,Down
 Miss Fortune - Bounty Hunter (Rare),2025-11-24,0.38,-0.1364,Down
 Magma Wurm,2025-11-24,0.06,-0.1429,Down
 En Garde,2025-11-24,0.18,-0.1429,Down
@@ -1208,7 +1208,7 @@ Stealthy Pursuer (Promo),2025-11-24,1.56,-0.1475,Down
 The Candlelit Sanctum,2025-11-24,0.23,-0.1481,Down
 Noxus Saboteur,2025-11-24,0.17,-0.15,Down
 Blind Fury,2025-11-24,0.28,-0.1515,Down
-Garen - Commander,2025-11-24,2.28,-0.1524,Down
+Garen - Commander (Epic),2025-11-24,2.28,-0.1524,Down
 Captain Farron,2025-11-24,0.16,-0.1579,Down
 Energy Conduit,2025-11-24,0.16,-0.1579,Down
 Ravenbloom Student (Promo),2025-11-24,6.46,-0.1599,Down
@@ -1362,7 +1362,7 @@ Stealthy Pursuer (Common),2025-12-01,0.07,0.1667,Up
 The Harrowing,2025-12-01,0.58,0.16,Up
 Bandle Tree (Uncommon),2025-12-01,0.22,0.1579,Up
 Teemo - Swift Scout (Promo),2025-12-01,8.59,0.1577,Up
-Garen - Commander,2025-12-01,2.63,0.1535,Up
+Garen - Commander (Epic),2025-12-01,2.63,0.1535,Up
 Obelisk of Power,2025-12-01,0.23,0.15,Up
 Teemo - Scout (Promo),2025-12-01,7.42,0.1486,Up
 Yasuo - Windrider (Alternate Art),2025-12-01,12.17,0.1481,Up
@@ -1476,7 +1476,7 @@ Sett - The Boss (Rare),2025-12-01,0.33,0.0,Flat
 Hallowed Tomb,2025-12-01,0.17,0.0,Flat
 Navori Fighting Pit,2025-12-01,0.12,0.0,Flat
 Darius - Hand of Noxus (Signature),2025-12-01,450.98,0.0,Flat
-Decisive Strike,2025-12-01,0.97,0.0,Flat
+Decisive Strike (Epic),2025-12-01,0.97,0.0,Flat
 Ahri - Alluring (Alternate Art),2025-12-01,10.48,-0.001,Down
 Leona - Zealot (Alternate Art),2025-12-01,15.53,-0.0013,Down
 Annie - Stubborn (Rare),2025-12-01,7.07,-0.0028,Down
@@ -1784,7 +1784,7 @@ Cannon Barrage,2025-12-08,0.11,0.1,Up
 Symbol of the Solari,2025-12-08,0.11,0.1,Up
 Tasty Faefolk,2025-12-08,9.16,0.0957,Up
 Sabotage,2025-12-08,5.85,0.0935,Up
-Garen - Commander,2025-12-08,2.87,0.0913,Up
+Garen - Commander (Epic),2025-12-08,2.87,0.0913,Up
 Charm,2025-12-08,0.24,0.0909,Up
 Daring Poro (Common),2025-12-08,0.12,0.0909,Up
 Sett - The Boss (Rare),2025-12-08,0.36,0.0909,Up
@@ -1881,7 +1881,7 @@ Leona - Radiant Dawn (Promo),2025-12-08,12.82,-0.0039,Down
 Kai'Sa - Daughter of the Void (Overnumbered),2025-12-08,182.95,-0.0054,Down
 Volibear - Relentless Storm (Signature),2025-12-08,511.44,-0.0059,Down
 Sett - The Boss (Signature),2025-12-08,634.11,-0.0063,Down
-Decisive Strike,2025-12-08,0.96,-0.0103,Down
+Decisive Strike (Epic),2025-12-08,0.96,-0.0103,Down
 Darius - Hand of Noxus (Promo),2025-12-08,7.32,-0.0121,Down
 Qiyana - Victorious,2025-12-08,9.65,-0.0143,Down
 Viktor - Herald of the Arcane (Overnumbered),2025-12-08,100.68,-0.0156,Down
@@ -2278,7 +2278,7 @@ Defy,2025-12-15,0.8,0.0256,Up
 Kai'Sa - Survivor,2025-12-15,83.49,0.0254,Up
 Yasuo - Unforgiven (Signature),2025-12-15,606.16,0.0218,Up
 Catalyst of Aeons,2025-12-15,0.97,0.0211,Up
-Decisive Strike,2025-12-15,0.98,0.0208,Up
+Decisive Strike (Epic),2025-12-15,0.98,0.0208,Up
 Kadregrin the Infernal,2025-12-15,11.96,0.0205,Up
 Zenith Blade,2025-12-15,24.9,0.0197,Up
 Miss Fortune - Bounty Hunter (Signature),2025-12-15,717.61,0.0166,Up
@@ -2350,7 +2350,7 @@ Darius - Executioner,2025-12-15,5.37,-0.0236,Down
 Lee Sin - Centered,2025-12-15,0.41,-0.0238,Down
 Darius - Hand of Noxus (Overnumbered),2025-12-15,66.56,-0.0239,Down
 Jinx - Rebel (Alternate Art),2025-12-15,6.45,-0.0242,Down
-Garen - Commander,2025-12-15,2.8,-0.0244,Down
+Garen - Commander (Epic),2025-12-15,2.8,-0.0244,Down
 Sett - The Boss (Promo),2025-12-15,9.01,-0.0249,Down
 Jinx - Loose Cannon (Promo),2025-12-15,19.11,-0.025,Down
 Volibear - Imposing (Alternate Art),2025-12-15,7.05,-0.0262,Down
@@ -2828,7 +2828,7 @@ Teemo - Scout (GG EZ),2025-12-22,286.47,-0.0571,Down
 Grand Strategem,2025-12-22,1.26,-0.0597,Down
 Leona - Radiant Dawn (Rare),2025-12-22,0.31,-0.0606,Down
 Ahri - Nine-Tailed Fox (Rare),2025-12-22,0.92,-0.0612,Down
-Decisive Strike,2025-12-22,0.92,-0.0612,Down
+Decisive Strike (Epic),2025-12-22,0.92,-0.0612,Down
 Defy,2025-12-22,0.75,-0.0625,Down
 Garbage Grabber,2025-12-22,0.15,-0.0625,Down
 Sett - The Boss (Rare),2025-12-22,0.3,-0.0625,Down
@@ -2867,7 +2867,7 @@ Void Seeker (Uncommon),2025-12-22,0.3,-0.0909,Down
 Mega-Mech,2025-12-22,0.1,-0.0909,Down
 Energy Conduit,2025-12-22,0.2,-0.0909,Down
 Back-Alley Bar,2025-12-22,0.2,-0.0909,Down
-Garen - Commander,2025-12-22,2.54,-0.0929,Down
+Garen - Commander (Epic),2025-12-22,2.54,-0.0929,Down
 Ahri - Nine-Tailed Fox (Overnumbered),2025-12-22,199.36,-0.0952,Down
 Fury Rune (Alternate Art) (Showcase),2025-12-22,22.68,-0.0975,Down
 Showstopper,2025-12-22,48.25,-0.0983,Down
@@ -3142,7 +3142,7 @@ Kai'Sa - Daughter of the Void (Rare),2025-12-29,0.43,0.0,Flat
 Volibear - Relentless Storm (Rare),2025-12-29,0.26,0.0,Flat
 Stormbringer,2025-12-29,6.24,0.0,Flat
 The Grand Plaza (Uncommon),2025-12-29,0.14,0.0,Flat
-Decisive Strike,2025-12-29,0.92,0.0,Flat
+Decisive Strike (Epic),2025-12-29,0.92,0.0,Flat
 Stormclaw Ursine (Promo),2025-12-29,0.38,0.0,Flat
 Mystic Poro (Common),2025-12-29,0.61,0.0,Flat
 Whiteflame Protector,2025-12-29,59.59,-0.0012,Down
@@ -3176,7 +3176,7 @@ Order Rune (Alternate Art) (Showcase),2025-12-29,17.13,-0.0239,Down
 Blazing Scorcher (Promo),2025-12-29,0.39,-0.025,Down
 Kadregrin the Infernal,2025-12-29,10.89,-0.0251,Down
 Teemo - Swift Scout (Overnumbered),2025-12-29,97.6,-0.0267,Down
-Garen - Commander,2025-12-29,2.47,-0.0276,Down
+Garen - Commander (Epic),2025-12-29,2.47,-0.0276,Down
 Kai'Sa - Daughter of the Void (Overnumbered),2025-12-29,167.02,-0.0277,Down
 Sett - Brawler (Alternate Art),2025-12-29,22.74,-0.029,Down
 Yasuo - Unforgiven (Promo),2025-12-29,20.86,-0.0293,Down
@@ -3511,7 +3511,7 @@ Master Yi - Honed (Epic),2026-01-05,4.51,-0.0044,Down
 Darius - Hand of Noxus (Signature),2026-01-05,467.19,-0.0077,Down
 Darius - Trifarian (Alternate Art),2026-01-05,23.02,-0.0099,Down
 Lee Sin - Centered (Alternate Art),2026-01-05,6.55,-0.0106,Down
-Decisive Strike,2026-01-05,0.91,-0.0109,Down
+Decisive Strike (Epic),2026-01-05,0.91,-0.0109,Down
 Ahri - Nine-Tailed Fox (Overnumbered),2026-01-05,199.87,-0.0114,Down
 Ekko - Recurrent,2026-01-05,0.85,-0.0116,Down
 Master Yi - Wuju Bladesman (Starter),2026-01-05,18.22,-0.0125,Down
@@ -3573,7 +3573,7 @@ Lee Sin - Centered,2026-01-05,0.31,-0.0606,Down
 Vengeance (Uncommon),2026-01-05,0.31,-0.0606,Down
 Teemo - Scout (Alternate Art),2026-01-05,11.31,-0.0614,Down
 Ahri - Inquisitive (Alternate Art),2026-01-05,18.63,-0.0629,Down
-Garen - Commander,2026-01-05,2.31,-0.0648,Down
+Garen - Commander (Epic),2026-01-05,2.31,-0.0648,Down
 Leona - Determined (Alternate Art),2026-01-05,11.24,-0.0649,Down
 Icathian Rain,2026-01-05,30.08,-0.0653,Down
 Thermo Beam,2026-01-05,0.28,-0.0667,Down
@@ -3846,7 +3846,7 @@ Bandle Tree (Uncommon),2026-01-12,0.16,0.0667,Up
 Trifarian War Camp,2026-01-12,0.16,0.0667,Up
 Leona - Radiant Dawn (Promo),2026-01-12,24.61,0.0594,Up
 Wraith of Echoes,2026-01-12,0.18,0.0588,Up
-Garen - Commander,2026-01-12,2.43,0.0519,Up
+Garen - Commander (Epic),2026-01-12,2.43,0.0519,Up
 Ravenbloom Student (Uncommon),2026-01-12,0.22,0.0476,Up
 Darius - Hand of Noxus (Rare),2026-01-12,0.24,0.0435,Up
 Challenge (Promo),2026-01-12,0.76,0.0411,Up
@@ -3910,7 +3910,7 @@ Order Rune (Promo),2026-01-12,10.77,-0.0315,Down
 Unchecked Power,2026-01-12,12.25,-0.0316,Down
 Miss Fortune - Bounty Hunter (Overnumbered),2026-01-12,112.34,-0.0319,Down
 Immortal Phoenix,2026-01-12,9.46,-0.0327,Down
-Decisive Strike,2026-01-12,0.88,-0.033,Down
+Decisive Strike (Epic),2026-01-12,0.88,-0.033,Down
 Volibear - Relentless Storm (Overnumbered),2026-01-12,69.3,-0.0367,Down
 Annie - Fiery (Epic),2026-01-12,1.27,-0.0379,Down
 Viktor - Leader (Alternate Art),2026-01-12,8.31,-0.0393,Down
@@ -4480,7 +4480,7 @@ Wielder of Water (Promo),2026-01-19,0.39,-0.0488,Down
 Kai'Sa - Daughter of the Void (Overnumbered),2026-01-19,196.11,-0.0496,Down
 Maddened Marauder,2026-01-19,0.19,-0.05,Down
 Bullet Time,2026-01-19,15.88,-0.0502,Down
-Garen - Commander,2026-01-19,2.3,-0.0535,Down
+Garen - Commander (Epic),2026-01-19,2.3,-0.0535,Down
 Karma - Channeler,2026-01-19,0.35,-0.0541,Down
 Lux - Illuminated (Rare),2026-01-19,1.52,-0.0559,Down
 Darius - Hand of Noxus (Overnumbered),2026-01-19,46.35,-0.0583,Down
@@ -4580,7 +4580,7 @@ Peak Guardian,2026-01-19,0.12,-0.1429,Down
 Void Gate,2026-01-19,0.12,-0.1429,Down
 Teemo - Swift Scout (Promo),2026-01-19,17.79,-0.1443,Down
 Carnivorous Snapvine,2026-01-19,0.58,-0.1471,Down
-Decisive Strike,2026-01-19,0.75,-0.1477,Down
+Decisive Strike (Epic),2026-01-19,0.75,-0.1477,Down
 Blitzcrank - Impassive (Promo),2026-01-19,3.22,-0.1481,Down
 Flash,2026-01-19,36.57,-0.1489,Down
 Draven - Showboat,2026-01-19,0.79,-0.1505,Down
@@ -4800,7 +4800,7 @@ Lee Sin - Blind Monk (Promo),2026-01-26,7.41,0.0095,Up
 Ravenbloom Student (Promo),2026-01-26,1.41,0.0071,Up
 Dazzling Aurora,2026-01-26,42.14,0.0069,Up
 Yasuo - Unforgiven (Signature),2026-01-26,634.05,0.0054,Up
-Garen - Commander,2026-01-26,2.31,0.0043,Up
+Garen - Commander (Epic),2026-01-26,2.31,0.0043,Up
 Viktor - Innovator (Alternate Art),2026-01-26,7.81,0.0026,Up
 Viktor - Herald of the Arcane (Overnumbered),2026-01-26,111.53,0.0022,Up
 Leona - Radiant Dawn (Signature),2026-01-26,618.03,0.0021,Up
@@ -4876,7 +4876,7 @@ Jinx - Rebel (Epic),2026-01-26,4.44,-0.022,Down
 Firestorm,2026-01-26,0.42,-0.0233,Down
 Teemo - Scout (GG EZ),2026-01-26,622.06,-0.0241,Down
 Yasuo - Unforgiven (Promo),2026-01-26,18.1,-0.0264,Down
-Decisive Strike,2026-01-26,0.73,-0.0267,Down
+Decisive Strike (Epic),2026-01-26,0.73,-0.0267,Down
 Tryndamere - Barbarian (Promo),2026-01-26,0.71,-0.0274,Down
 Void Seeker (Promo),2026-01-26,1.4,-0.0278,Down
 Karma - Channeler,2026-01-26,0.34,-0.0286,Down
@@ -5296,10 +5296,10 @@ Kadregrin the Infernal,2026-02-02,7.23,-0.0069,Down
 Fury Rune (Alternate Art) (Showcase),2026-02-02,16.62,-0.0072,Down
 Garen - Rugged (Rare),2026-02-02,1.36,-0.0073,Down
 Leona - Determined (Alternate Art),2026-02-02,7.81,-0.0076,Down
-Garen - Commander,2026-02-02,2.29,-0.0087,Down
+Garen - Commander (Epic),2026-02-02,2.29,-0.0087,Down
 Darius - Trifarian,2026-02-02,5.57,-0.0107,Down
 Seal of Unity,2026-02-02,21.32,-0.0107,Down
-Decisive Strike,2026-02-02,0.72,-0.0137,Down
+Decisive Strike (Epic),2026-02-02,0.72,-0.0137,Down
 Baited Hook,2026-02-02,37.09,-0.0144,Down
 Bullet Time,2026-02-02,14.05,-0.0154,Down
 Ahri - Nine-Tailed Fox (Rare),2026-02-02,1.21,-0.0163,Down
@@ -5735,7 +5735,7 @@ Catalyst of Aeons,2026-02-09,0.37,-0.0263,Down
 Chaos Rune (Alternate Art) (Showcase),2026-02-09,25.55,-0.0263,Down
 Super Mega Death Rocket!,2026-02-09,14.84,-0.0269,Down
 Dragon's Rage,2026-02-09,4.23,-0.0276,Down
-Decisive Strike,2026-02-09,0.7,-0.0278,Down
+Decisive Strike (Epic),2026-02-09,0.7,-0.0278,Down
 Lee Sin - Centered (Alternate Art),2026-02-09,4.3,-0.0293,Down
 Fury Rune (Promo),2026-02-09,13.82,-0.0302,Down
 Seal of Rage,2026-02-09,17.78,-0.0316,Down
@@ -5786,7 +5786,7 @@ Divine Judgment,2026-02-09,7.65,-0.0636,Down
 Leona - Zealot,2026-02-09,4.04,-0.0648,Down
 Shen - Kinkou,2026-02-09,0.72,-0.0649,Down
 Final Spark (Epic),2026-02-09,2.59,-0.065,Down
-Garen - Commander,2026-02-09,2.14,-0.0655,Down
+Garen - Commander (Epic),2026-02-09,2.14,-0.0655,Down
 Recruit the Vanguard,2026-02-09,6.66,-0.0659,Down
 Garen - Rugged (Rare),2026-02-09,1.27,-0.0662,Down
 Cleave,2026-02-09,0.14,-0.0667,Down
@@ -6138,7 +6138,7 @@ Lee Sin - Blind Monk (Signature),2026-02-16,755.38,0.0183,Up
 Leona - Radiant Dawn (Signature),2026-02-16,652.55,0.0164,Up
 Machine Evangel,2026-02-16,1.37,0.0148,Up
 Divine Judgment,2026-02-16,7.73,0.0105,Up
-Garen - Commander,2026-02-16,2.16,0.0093,Up
+Garen - Commander (Epic),2026-02-16,2.16,0.0093,Up
 Darius - Hand of Noxus (Promo),2026-02-16,10.42,0.0077,Up
 Lee Sin - Ascetic (Epic),2026-02-16,1.33,0.0076,Up
 Volibear - Relentless Storm (Overnumbered),2026-02-16,93.47,0.0074,Up
@@ -6229,7 +6229,7 @@ Pouty Poro (Promo),2026-02-16,0.9,-0.0526,Down
 Darius - Executioner,2026-02-16,2.32,-0.0531,Down
 Startipped Peak,2026-02-16,0.17,-0.0556,Down
 Leona - Zealot (Alternate Art),2026-02-16,8.27,-0.057,Down
-Decisive Strike,2026-02-16,0.66,-0.0571,Down
+Decisive Strike (Epic),2026-02-16,0.66,-0.0571,Down
 Shakedown,2026-02-16,0.32,-0.0588,Down
 Lecturing Yordle,2026-02-16,0.16,-0.0588,Down
 Daring Poro (Promo),2026-02-16,0.63,-0.0597,Down
@@ -6624,7 +6624,7 @@ Counter Strike,2026-02-23,11.17,0.1092,Up
 Mystic Reversal,2026-02-23,4.53,0.1076,Up
 Kraken Hunter,2026-02-23,0.31,0.1071,Up
 Teemo - Strategist,2026-02-23,3.43,0.1065,Up
-Decisive Strike,2026-02-23,0.73,0.1061,Up
+Decisive Strike (Epic),2026-02-23,0.73,0.1061,Up
 Volibear - Imposing (Alternate Art),2026-02-23,4.49,0.1059,Up
 Firestorm,2026-02-23,0.42,0.1053,Up
 Final Spark (Epic),2026-02-23,2.46,0.1031,Up
@@ -6708,7 +6708,7 @@ Volibear - Relentless Storm (Signature),2026-02-23,599.08,0.021,Up
 The Dreaming Tree,2026-02-23,0.5,0.0204,Up
 Ornn - Blacksmith,2026-02-23,3.05,0.0201,Up
 Flash,2026-02-23,55.95,0.0186,Up
-Garen - Commander,2026-02-23,2.2,0.0185,Up
+Garen - Commander (Epic),2026-02-23,2.2,0.0185,Up
 Lux - Crownguard (Epic),2026-02-23,6.61,0.0169,Up
 Rabadon's Deathcrown,2026-02-23,1.26,0.0161,Up
 Blitzcrank - Impassive (Promo),2026-02-23,6.49,0.0156,Up
@@ -6921,7 +6921,7 @@ Against the Odds,2026-02-23,0.1,-0.1667,Down
 Gearhead,2026-02-23,0.05,-0.1667,Down
 Dragon's Rage,2026-02-23,3.12,-0.1702,Down
 Danger Zone,2026-02-23,1.15,-0.1727,Down
-Boneshiver,2026-02-23,21.36,-0.1734,Down
+Boneshiver (Epic),2026-02-23,21.36,-0.1734,Down
 Spirit Wheel,2026-02-23,0.19,-0.1739,Down
 Emperor's Divide,2026-02-23,0.19,-0.1739,Down
 Guardian Angel,2026-02-23,3.59,-0.1785,Down
@@ -7075,7 +7075,7 @@ The Grand Plaza (Uncommon),2026-03-02,0.15,0.5,Up
 Shen - Kinkou,2026-03-02,1.07,0.4861,Up
 Treasure Hoard,2026-03-02,0.16,0.4545,Up
 Plundering Poro,2026-03-02,0.13,0.4444,Up
-Boneshiver,2026-03-02,30.27,0.4171,Up
+Boneshiver (Epic),2026-03-02,30.27,0.4171,Up
 Smoke Screen,2026-03-02,0.17,0.4167,Up
 The Arena's Greatest,2026-03-02,0.31,0.4091,Up
 Lee Sin - Ascetic (Epic),2026-03-02,1.78,0.4016,Up
@@ -7262,7 +7262,7 @@ Cull the Weak,2026-03-02,0.2,0.0526,Up
 Volibear - Imposing (Alternate Art),2026-03-02,4.72,0.0512,Up
 Scrapheap,2026-03-02,0.21,0.05,Up
 Gentlemen's Duel,2026-03-02,0.42,0.05,Up
-Garen - Commander,2026-03-02,2.31,0.05,Up
+Garen - Commander (Epic),2026-03-02,2.31,0.05,Up
 Invert Timelines,2026-03-02,26.57,0.0498,Up
 Mageseeker Warden,2026-03-02,0.22,0.0476,Up
 Kato the Arm,2026-03-02,0.22,0.0476,Up
@@ -7370,7 +7370,7 @@ Teemo - Swift Scout (Signature),2026-03-02,767.72,0.0,Flat
 Viktor - Herald of the Arcane (Signature),2026-03-02,708.58,0.0,Flat
 Miss Fortune - Bounty Hunter (Signature),2026-03-02,860.99,0.0,Flat
 Vanguard Attendant,2026-03-02,0.29,0.0,Flat
-Decisive Strike,2026-03-02,0.73,0.0,Flat
+Decisive Strike (Epic),2026-03-02,0.73,0.0,Flat
 Pakaa Cub (Promo),2026-03-02,0.27,0.0,Flat
 Irelia - Blade Dancer,2026-03-02,0.17,0.0,Flat
 Rumble - Mechanized Menace,2026-03-02,0.1,0.0,Flat
@@ -8043,7 +8043,7 @@ The Candlelit Sanctum,2026-03-09,0.24,0.0435,Up
 Zaun Warrens,2026-03-09,0.24,0.0435,Up
 Rell - Magnetic,2026-03-09,0.24,0.0435,Up
 Pouty Poro (Promo),2026-03-09,0.74,0.0423,Up
-Decisive Strike,2026-03-09,0.76,0.0411,Up
+Decisive Strike (Epic),2026-03-09,0.76,0.0411,Up
 Stacked Deck (Uncommon),2026-03-09,8.18,0.0407,Up
 Master Yi - Meditative (Rare),2026-03-09,1.82,0.04,Up
 Aspirant's Climb (Promo),2026-03-09,19.83,0.0371,Up
@@ -8213,7 +8213,7 @@ Vilemaw's Lair,2026-03-09,0.31,-0.0313,Down
 Ahri - Alluring (Launch Exclusive),2026-03-09,158.66,-0.0324,Down
 Calm Rune (Promo),2026-03-09,7.45,-0.0325,Down
 Jinx - Demolitionist (Alternate Art),2026-03-09,4.39,-0.033,Down
-Garen - Commander,2026-03-09,2.23,-0.0346,Down
+Garen - Commander (Epic),2026-03-09,2.23,-0.0346,Down
 Chaos Rune (Promo),2026-03-09,16.74,-0.0352,Down
 Shakedown,2026-03-09,0.27,-0.0357,Down
 Invert Timelines,2026-03-09,25.6,-0.0365,Down
@@ -8444,7 +8444,7 @@ Forgotten Monument,2026-03-09,0.06,-0.25,Down
 Chaos Rune (Common),2026-03-09,0.09,-0.25,Down
 Ornn - Forge God (Alternate Art),2026-03-09,3.84,-0.2529,Down
 Draven - Vanquisher,2026-03-09,0.44,-0.2542,Down
-Boneshiver,2026-03-09,22.57,-0.2544,Down
+Boneshiver (Epic),2026-03-09,22.57,-0.2544,Down
 Jayce - Man of Progress,2026-03-09,0.38,-0.2549,Down
 Blade of the Ruined King,2026-03-09,3.04,-0.2567,Down
 Harnessed Dragon,2026-03-09,2.59,-0.2579,Down
@@ -8693,7 +8693,7 @@ Chaos Rune (Common),2026-03-16,0.2,0.1111,Up
 Mystic Poro (Common),2026-03-16,0.1,0.1111,Up
 Lux - Crownguard (Promo),2026-03-16,30.45,0.1105,Up
 Svellsongur,2026-03-16,19.45,0.1064,Up
-Decisive Strike,2026-03-16,0.84,0.1053,Up
+Decisive Strike (Epic),2026-03-16,0.84,0.1053,Up
 Siphon Power,2026-03-16,4.5,0.1029,Up
 Progress Day,2026-03-16,0.66,0.1,Up
 Lee Sin - Blind Monk (Rare),2026-03-16,0.22,0.1,Up
@@ -8953,7 +8953,7 @@ Retreat,2026-03-16,1.6,-0.0244,Down
 Stalwart Poro (Promo),2026-03-16,0.8,-0.0244,Down
 Vengeance (Promo),2026-03-16,0.38,-0.0256,Down
 Fiora - Worthy,2026-03-16,0.72,-0.027,Down
-Boneshiver,2026-03-16,21.95,-0.0275,Down
+Boneshiver (Epic),2026-03-16,21.95,-0.0275,Down
 Seal of Insight,2026-03-16,21.08,-0.0277,Down
 Ahri - Inquisitive,2026-03-16,9.06,-0.0279,Down
 Volibear - Relentless Storm (Overnumbered),2026-03-16,70.11,-0.028,Down
@@ -9000,7 +9000,7 @@ The Grand Plaza (Promo),2026-03-16,14.9,-0.0479,Down
 Teemo - Swift Scout (Overnumbered),2026-03-16,91.88,-0.0481,Down
 Showstopper,2026-03-16,17.99,-0.0487,Down
 Wind Wall,2026-03-16,3.49,-0.049,Down
-Garen - Commander,2026-03-16,2.12,-0.0493,Down
+Garen - Commander (Epic),2026-03-16,2.12,-0.0493,Down
 Blood Money,2026-03-16,0.19,-0.05,Down
 Volibear - Relentless Storm (Promo),2026-03-16,11.48,-0.0512,Down
 Premonition,2026-03-16,5.19,-0.0512,Down
@@ -9283,3 +9283,1534 @@ Mind Rune (Promo),2026-03-16,5.69,-0.4518,Down
 Desert's Call,2026-03-16,0.08,-0.4667,Down
 Annie - Fiery (Promo),2026-03-16,11.03,-0.5154,Down
 Gem Jammer (Promo),2026-03-16,0.85,-0.5198,Down
+Karthus - Eternal,2026-03-23,3.84,3.3146,Up
+Blade of the Ruined King,2026-03-23,9.24,1.8171,Up
+Kai'Sa - Evolutionary (Alternate Art),2026-03-23,7.14,1.0284,Up
+Ancient Henge,2026-03-23,4.24,1.019,Up
+Ekko - Recurrent,2026-03-23,1.6,0.7978,Up
+Seal of Insight,2026-03-23,35.38,0.6784,Up
+Sprite Call,2026-03-23,0.13,0.625,Up
+Corina Veraza,2026-03-23,4.01,0.5725,Up
+Fury Rune (Common),2026-03-23,0.22,0.5714,Up
+Soulgorger,2026-03-23,0.61,0.5641,Up
+Petty Officer,2026-03-23,0.03,0.5,Up
+Rally the Troops,2026-03-23,0.22,0.4667,Up
+Body Rune (Common),2026-03-23,0.19,0.4615,Up
+Assembly Rig,2026-03-23,0.16,0.4545,Up
+Raging Firebrand,2026-03-23,0.26,0.4444,Up
+Baited Hook,2026-03-23,70.42,0.4413,Up
+Against the Odds,2026-03-23,0.1,0.4286,Up
+Blood Rush,2026-03-23,0.1,0.4286,Up
+Challenge (Promo),2026-03-23,1.29,0.4176,Up
+Albus Ferros,2026-03-23,0.17,0.4167,Up
+Rumble - Scrapper,2026-03-23,1.15,0.4024,Up
+Karma - Channeler,2026-03-23,0.35,0.4,Up
+Black Market Broker,2026-03-23,0.07,0.4,Up
+Wizened Elder,2026-03-23,0.18,0.3846,Up
+Seal of Insight (Overnumbered),2026-03-23,80.0,0.375,Up
+Temporal Portal,2026-03-23,0.11,0.375,Up
+Fiora - Grand Duelist,2026-03-23,0.15,0.3636,Up
+Seal of Unity (Overnumbered),2026-03-23,95.68,0.3589,Up
+Shipyard Skulker,2026-03-23,0.04,0.3333,Up
+Power Nexus,2026-03-23,0.12,0.3333,Up
+Fizz - Trickster,2026-03-23,0.88,0.3333,Up
+Emperor's Dais,2026-03-23,0.12,0.3333,Up
+The Papertree,2026-03-23,0.12,0.3333,Up
+Rek'Sai - Swarm Queen,2026-03-23,0.29,0.3182,Up
+Noxian Drummer,2026-03-23,0.21,0.3125,Up
+Commander Ledros,2026-03-23,0.34,0.3077,Up
+Glasc Mixologist,2026-03-23,0.17,0.3077,Up
+Seal of Strength,2026-03-23,27.1,0.2998,Up
+Spirit Wheel,2026-03-23,0.22,0.2941,Up
+Seal of Strength (Overnumbered),2026-03-23,67.53,0.291,Up
+Flurry of Blades,2026-03-23,0.09,0.2857,Up
+Mistfall,2026-03-23,0.18,0.2857,Up
+Unchecked Power,2026-03-23,23.77,0.28,Up
+Sneaky Deckhand,2026-03-23,0.23,0.2778,Up
+Warmog's Armor,2026-03-23,0.14,0.2727,Up
+Cull,2026-03-23,0.14,0.2727,Up
+Mind Rune (Promo),2026-03-23,7.23,0.2707,Up
+Kadregrin the Infernal,2026-03-23,13.38,0.2682,Up
+Dazzling Aurora,2026-03-23,99.39,0.2592,Up
+Seal of Focus,2026-03-23,35.5,0.2553,Up
+Playful Phantom,2026-03-23,0.05,0.25,Up
+Cruel Patron,2026-03-23,0.1,0.25,Up
+Royal Guard,2026-03-23,0.05,0.25,Up
+Detonate,2026-03-23,0.1,0.25,Up
+Eye of the Herald (Common),2026-03-23,0.1,0.25,Up
+Seat of Power,2026-03-23,0.1,0.25,Up
+Shurelya's Requiem,2026-03-23,0.72,0.2414,Up
+King's Edict,2026-03-23,0.31,0.24,Up
+Soraka - Wanderer,2026-03-23,0.31,0.24,Up
+Dunebreaker,2026-03-23,2.71,0.2374,Up
+Tryndamere - Barbarian (Rare),2026-03-23,0.32,0.2308,Up
+Tianna Crownguard,2026-03-23,5.13,0.2302,Up
+Herald of Scales,2026-03-23,0.27,0.2273,Up
+Lux - Illuminated (Rare),2026-03-23,1.69,0.2246,Up
+Stealthy Pursuer (Common),2026-03-23,0.11,0.2222,Up
+Marching Orders,2026-03-23,0.22,0.2222,Up
+En Garde,2026-03-23,0.17,0.2143,Up
+Draven - Glorious Executioner,2026-03-23,0.17,0.2143,Up
+Teemo - Scout (Rare),2026-03-23,0.58,0.2083,Up
+Meditation,2026-03-23,0.12,0.2,Up
+Chaos Rune (Common),2026-03-23,0.24,0.2,Up
+Yasuo - Unforgiven (Rare),2026-03-23,0.3,0.2,Up
+Discipline (Promo),2026-03-23,1.56,0.2,Up
+Ezreal - Dashing,2026-03-23,0.24,0.2,Up
+Emperor's Divide,2026-03-23,0.18,0.2,Up
+Tasty Faefolk,2026-03-23,1.16,0.1959,Up
+Sett - The Boss (Rare),2026-03-23,0.37,0.1935,Up
+Shen - Kinkou,2026-03-23,1.37,0.1913,Up
+Ahri - Alluring (Alternate Art),2026-03-23,9.18,0.1907,Up
+Void Gate,2026-03-23,0.25,0.1905,Up
+Noxian Guillotine,2026-03-23,1.9,0.1875,Up
+Draven - Showboat,2026-03-23,0.64,0.1852,Up
+Annie - Fiery (Epic),2026-03-23,3.29,0.1835,Up
+Hall of Legends,2026-03-23,0.13,0.1818,Up
+Possession,2026-03-23,6.44,0.1817,Up
+Pakaa Cub (Promo),2026-03-23,0.33,0.1786,Up
+Rebuke,2026-03-23,0.4,0.1765,Up
+Gemcraft Seer,2026-03-23,0.14,0.1667,Up
+Bard - Mercurial,2026-03-23,0.21,0.1667,Up
+Eager Drakehound,2026-03-23,0.07,0.1667,Up
+Battering Ram,2026-03-23,0.21,0.1667,Up
+Trinity Force,2026-03-23,0.36,0.1613,Up
+Kayn - Unleashed,2026-03-23,0.51,0.1591,Up
+Unlicensed Armory,2026-03-23,0.22,0.1579,Up
+Vanguard Captain (Common),2026-03-23,0.22,0.1579,Up
+Azir - Ascendant (Alternate Art),2026-03-23,1.32,0.1579,Up
+Confront,2026-03-23,0.15,0.1538,Up
+Reckoner's Arena,2026-03-23,0.15,0.1538,Up
+Recruit (271) // Buff,2026-03-23,0.15,0.1538,Up
+Aspirant's Climb (Promo),2026-03-23,25.47,0.153,Up
+Ornn - Forge God (Alternate Art),2026-03-23,3.3,0.1498,Up
+Master Yi - Honed (Epic),2026-03-23,4.15,0.1496,Up
+Calm Rune (Alternate Art) (Showcase),2026-03-23,10.95,0.149,Up
+Ahri - Inquisitive,2026-03-23,10.4,0.1479,Up
+Shakedown,2026-03-23,0.39,0.1471,Up
+Tibbers (Epic),2026-03-23,1.59,0.1439,Up
+Blazing Scorcher (Common),2026-03-23,0.08,0.1429,Up
+Decisive Strike (Epic),2026-03-23,0.96,0.1429,Up
+Boots of Swiftness,2026-03-23,0.24,0.1429,Up
+Last Breath,2026-03-23,4.58,0.1393,Up
+Garen - Commander (Epic),2026-03-23,2.41,0.1368,Up
+Order Rune (Common),2026-03-23,0.25,0.1364,Up
+Lee Sin - Blind Monk (Rare),2026-03-23,0.25,0.1364,Up
+Svellsongur,2026-03-23,22.0,0.1311,Up
+Seal of Rage,2026-03-23,34.57,0.1305,Up
+Rabadon's Deathcrown,2026-03-23,0.52,0.1304,Up
+Heart of Dark Ice,2026-03-23,0.26,0.1304,Up
+Order Rune (Alternate Art) (Showcase),2026-03-23,10.46,0.1284,Up
+Jinx - Demolitionist,2026-03-23,0.27,0.125,Up
+Udyr - Wildman,2026-03-23,0.27,0.125,Up
+Altar of Memories,2026-03-23,0.18,0.125,Up
+Prize of Progress,2026-03-23,0.09,0.125,Up
+Darius - Executioner,2026-03-23,2.11,0.1223,Up
+Jax - Unmatched (Alternate Art),2026-03-23,3.23,0.1215,Up
+Stormclaw Ursine (Promo),2026-03-23,0.28,0.12,Up
+Miss Fortune - Buccaneer (Promo),2026-03-23,168.83,0.1184,Up
+Zaunite Bouncer,2026-03-23,0.19,0.1176,Up
+Maddened Marauder,2026-03-23,0.19,0.1176,Up
+Calm Rune (Promo),2026-03-23,6.54,0.116,Up
+Master Yi - Wuju Bladesman,2026-03-23,36.29,0.1149,Up
+Darius - Hand of Noxus (Promo),2026-03-23,15.76,0.113,Up
+Sky Splitter,2026-03-23,0.1,0.1111,Up
+Solari Shrine,2026-03-23,0.2,0.1111,Up
+Wildclaw Shaman,2026-03-23,0.1,0.1111,Up
+Fight or Flight,2026-03-23,0.2,0.1111,Up
+Breakneck Mech,2026-03-23,0.1,0.1111,Up
+Minefield,2026-03-23,0.1,0.1111,Up
+Ahri - Nine-Tailed Fox (Promo),2026-03-23,64.4,0.1103,Up
+Annie - Stubborn (Rare),2026-03-23,5.98,0.1054,Up
+Find Your Center,2026-03-23,0.21,0.1053,Up
+B.F. Sword,2026-03-23,0.21,0.1053,Up
+Rell - Magnetic,2026-03-23,0.21,0.1053,Up
+Rumble - Hotheaded,2026-03-23,0.21,0.1053,Up
+Miss Fortune - Captain (Alternate Art),2026-03-23,19.07,0.1049,Up
+Rhasa the Sunderer,2026-03-23,3.28,0.1044,Up
+Teemo - Scout (Alternate Art),2026-03-23,10.32,0.1014,Up
+Trifarian Gloryseeker,2026-03-23,0.11,0.1,Up
+Monastery of Hirana,2026-03-23,0.22,0.1,Up
+Ravenbloom Student (Promo),2026-03-23,0.77,0.1,Up
+Buhru Captain,2026-03-23,0.11,0.1,Up
+Renata Glasc - Industrialist,2026-03-23,0.22,0.1,Up
+Hextech Anomaly,2026-03-23,0.22,0.1,Up
+Calm Rune (R02b),2026-03-23,29.25,0.0976,Up
+Yasuo - Windrider (Alternate Art),2026-03-23,5.95,0.0917,Up
+Ravenbloom Student (Uncommon),2026-03-23,0.24,0.0909,Up
+Wraith of Echoes,2026-03-23,0.24,0.0909,Up
+Gust,2026-03-23,0.12,0.0909,Up
+Called Shot,2026-03-23,0.12,0.0909,Up
+Undertitan,2026-03-23,0.24,0.0909,Up
+Teemo - Strategist (Alternate Art),2026-03-23,6.67,0.0899,Up
+Hidden Blade,2026-03-23,1.22,0.0893,Up
+Sona - Harmonious,2026-03-23,3.06,0.089,Up
+Gentlemen's Duel,2026-03-23,0.62,0.0877,Up
+Yone - Blademaster (Rare),2026-03-23,0.25,0.087,Up
+Obelisk of Power,2026-03-23,0.51,0.0851,Up
+Vayne - Hunter,2026-03-23,0.78,0.0833,Up
+Pit Rookie,2026-03-23,0.13,0.0833,Up
+Cithria of Cloudfield,2026-03-23,0.13,0.0833,Up
+Whirlwind,2026-03-23,0.13,0.0833,Up
+Hexdrinker,2026-03-23,0.13,0.0833,Up
+Viktor - Leader (Alternate Art),2026-03-23,6.52,0.0813,Up
+Vi - Destructive (Promo),2026-03-23,86.37,0.0806,Up
+Final Spark (Epic),2026-03-23,2.69,0.0803,Up
+Skyfall of Areion,2026-03-23,11.37,0.0787,Up
+Windsinger,2026-03-23,0.14,0.0769,Up
+Sivir - Ambitious,2026-03-23,0.7,0.0769,Up
+Show of Strength,2026-03-23,0.14,0.0769,Up
+Volibear - Imposing (Alternate Art),2026-03-23,4.77,0.0767,Up
+Viktor - Leader (Epic),2026-03-23,6.07,0.0762,Up
+Leona - Radiant Dawn (Rare),2026-03-23,0.29,0.0741,Up
+Lee Sin - Centered (Alternate Art),2026-03-23,2.78,0.0734,Up
+Rune Prison,2026-03-23,0.15,0.0714,Up
+Jae Medarda,2026-03-23,0.15,0.0714,Up
+Boneshiver (Epic),2026-03-23,23.49,0.0702,Up
+Hostile Takeover,2026-03-23,2.68,0.0677,Up
+Poro Herder,2026-03-23,0.16,0.0667,Up
+Lux - Crownguard (Promo),2026-03-23,32.46,0.066,Up
+Consult the Past (Promo),2026-03-23,0.65,0.0656,Up
+Adaptatron,2026-03-23,0.49,0.0652,Up
+Mystic Reversal,2026-03-23,4.42,0.0651,Up
+Lee Sin - Ascetic (Alternate Art),2026-03-23,4.81,0.0642,Up
+Garen - Might of Demacia (Starter),2026-03-23,2.01,0.0635,Up
+Ahri - Inquisitive (Alternate Art),2026-03-23,15.12,0.0633,Up
+Miss Fortune - Bounty Hunter (Rare),2026-03-23,0.35,0.0606,Up
+Bullet Time,2026-03-23,17.21,0.0604,Up
+Sprite Mother,2026-03-23,0.73,0.058,Up
+Miss Fortune - Buccaneer (Alternate Art),2026-03-23,5.32,0.0577,Up
+Sett - Kingpin (Alternate Art),2026-03-23,2.05,0.0567,Up
+Heimerdinger - Inventor (Promo),2026-03-23,18.17,0.0546,Up
+Spectral Matron,2026-03-23,0.39,0.0541,Up
+Guerilla Warfare,2026-03-23,6.64,0.054,Up
+Leona - Zealot (Alternate Art),2026-03-23,9.35,0.0529,Up
+Fox-Fire,2026-03-23,7.81,0.0526,Up
+Lee Sin - Blind Monk (Promo),2026-03-23,10.36,0.0518,Up
+Yasuo - Remorseful,2026-03-23,0.41,0.0513,Up
+Miss Fortune - Bounty Hunter (Signature),2026-03-23,1005.06,0.0507,Up
+Challenge (Common),2026-03-23,0.21,0.05,Up
+Wallop,2026-03-23,0.21,0.05,Up
+Jinx - Rebel (Promo),2026-03-23,16.5,0.049,Up
+Leona - Radiant Dawn (Overnumbered),2026-03-23,82.97,0.0485,Up
+Mind Rune (Common),2026-03-23,0.22,0.0476,Up
+Solari Chief,2026-03-23,0.22,0.0476,Up
+Reaver's Row,2026-03-23,0.22,0.0476,Up
+Janna - Savior,2026-03-23,0.44,0.0476,Up
+Chaos Rune (R05b),2026-03-23,31.73,0.0465,Up
+Catalyst of Aeons,2026-03-23,0.7,0.0448,Up
+Mind Rune (Alternate Art) (Showcase),2026-03-23,8.23,0.0444,Up
+Seal of Unity,2026-03-23,44.99,0.0439,Up
+Miss Fortune - Bounty Hunter (Promo),2026-03-23,17.67,0.0437,Up
+Whiteflame Protector,2026-03-23,15.23,0.0432,Up
+Spirit's Refuge,2026-03-23,0.25,0.0417,Up
+Windswept Hillock,2026-03-23,0.25,0.0417,Up
+Firestorm,2026-03-23,0.52,0.04,Up
+Chaos Rune (Alternate Art) (Showcase),2026-03-23,12.66,0.0394,Up
+Calm Rune (Alternate Art) (Showcase),2026-03-23,9.53,0.0393,Up
+Miss Fortune - Bounty Hunter (Overnumbered),2026-03-23,126.93,0.0391,Up
+Vex - Cheerless,2026-03-23,1.34,0.0388,Up
+Jinx - Rebel (Alternate Art),2026-03-23,6.8,0.0382,Up
+Carnivorous Snapvine,2026-03-23,0.6,0.0345,Up
+Tideturner,2026-03-23,1.2,0.0345,Up
+Lee Sin - Ascetic (Promo),2026-03-23,9.37,0.0342,Up
+Ahri - Alluring,2026-03-23,0.91,0.0341,Up
+Master Yi - Honed (Promo),2026-03-23,15.26,0.0332,Up
+Highlander (Epic),2026-03-23,1.27,0.0325,Up
+Lucian - Merciless,2026-03-23,0.33,0.0313,Up
+Vi - Destructive (Rare),2026-03-23,1.37,0.0301,Up
+Blitzcrank - Impassive (Rare),2026-03-23,0.7,0.0294,Up
+Thousand-Tailed Watcher,2026-03-23,28.33,0.0279,Up
+Vanguard Captain (Promo),2026-03-23,0.37,0.0278,Up
+Yasuo - Unforgiven (Signature),2026-03-23,759.04,0.0273,Up
+On the Hunt,2026-03-23,1.17,0.0263,Up
+Sett - The Boss (Overnumbered),2026-03-23,81.49,0.0237,Up
+Xin Zhao - Vigilant,2026-03-23,0.45,0.0227,Up
+Incinerate,2026-03-23,1.85,0.0221,Up
+Seal of Rage (Overnumbered),2026-03-23,72.16,0.0212,Up
+Fiora - Peerless (Alternate Art),2026-03-23,1.97,0.0207,Up
+Ornn - Blacksmith,2026-03-23,1.06,0.0192,Up
+Harnessed Dragon,2026-03-23,1.82,0.0168,Up
+Volibear - Relentless Storm (Promo),2026-03-23,11.67,0.0166,Up
+Progress Day,2026-03-23,0.67,0.0152,Up
+Warwick - Hunter (Promo),2026-03-23,19.42,0.0152,Up
+Leona - Determined,2026-03-23,0.69,0.0147,Up
+Bard - Mercurial (Overnumbered),2026-03-23,45.74,0.0124,Up
+Caitlyn - Patrolling (Promo),2026-03-23,27.13,0.0112,Up
+Lee Sin - Blind Monk (Signature),2026-03-23,807.68,0.0105,Up
+Leona - Radiant Dawn (Signature),2026-03-23,711.78,0.0098,Up
+Leona - Zealot,2026-03-23,3.12,0.0097,Up
+Darius - Hand of Noxus (Signature),2026-03-23,619.99,0.0097,Up
+Blitzcrank - Impassive (Promo),2026-03-23,4.53,0.0089,Up
+Seal of Discord,2026-03-23,65.08,0.0077,Up
+Viktor - Leader (Promo),2026-03-23,58.96,0.0077,Up
+Rek'Sai - Swarm Queen (Alternate Art),2026-03-23,1.37,0.0074,Up
+Ezreal - Dashing (Alternate Art),2026-03-23,1.47,0.0068,Up
+Deadbloom Predator,2026-03-23,44.8,0.0065,Up
+Recruit the Vanguard,2026-03-23,4.82,0.0063,Up
+Kai'Sa - Survivor,2026-03-23,88.73,0.0056,Up
+Teemo - Swift Scout (Promo),2026-03-23,21.5,0.0056,Up
+Brynhir Thundersong,2026-03-23,8.88,0.0045,Up
+Seal of Focus (Overnumbered),2026-03-23,71.25,0.0038,Up
+Qiyana - Victorious,2026-03-23,3.07,0.0033,Up
+Body Rune (R04b),2026-03-23,18.65,0.0027,Up
+Master Yi - Wuju Bladesman (Starter),2026-03-23,14.13,0.0021,Up
+Sett - The Boss (Promo),2026-03-23,15.24,0.0007,Up
+Teemo - Strategist (Overnumbered),2026-03-23,59.07,0.0003,Up
+Chemtech Enforcer,2026-03-23,0.05,0.0,Flat
+Noxus Hopeful,2026-03-23,0.27,0.0,Flat
+Noxus Saboteur,2026-03-23,0.11,0.0,Flat
+Solari Shieldbearer,2026-03-23,0.12,0.0,Flat
+Eclipse Herald,2026-03-23,0.16,0.0,Flat
+Last Stand,2026-03-23,0.32,0.0,Flat
+Jeweled Colossus,2026-03-23,0.04,0.0,Flat
+Mega-Mech,2026-03-23,0.06,0.0,Flat
+Blastcone Fae,2026-03-23,0.22,0.0,Flat
+Garbage Grabber,2026-03-23,0.19,0.0,Flat
+Crackshot Corsair,2026-03-23,0.05,0.0,Flat
+Dune Drake,2026-03-23,0.07,0.0,Flat
+First Mate,2026-03-23,0.18,0.0,Flat
+Pakaa Cub (Common),2026-03-23,0.05,0.0,Flat
+Lee Sin - Centered,2026-03-23,0.22,0.0,Flat
+Volibear - Imposing,2026-03-23,0.55,0.0,Flat
+Cemetery Attendant,2026-03-23,0.08,0.0,Flat
+Morbid Return,2026-03-23,0.09,0.0,Flat
+Sai Scout,2026-03-23,0.03,0.0,Flat
+Undercover Agent,2026-03-23,0.05,0.0,Flat
+Pack of Wonders,2026-03-23,0.22,0.0,Flat
+Miss Fortune - Buccaneer (Rare),2026-03-23,0.31,0.0,Flat
+Call to Glory,2026-03-23,0.22,0.0,Flat
+Vanguard Sergeant,2026-03-23,0.04,0.0,Flat
+Grove of the God-Willow,2026-03-23,0.28,0.0,Flat
+The Candlelit Sanctum,2026-03-23,0.24,0.0,Flat
+The Dreaming Tree,2026-03-23,1.0,0.0,Flat
+The Grand Plaza (Uncommon),2026-03-23,0.14,0.0,Flat
+Kai'Sa - Daughter of the Void (Signature),2026-03-23,2327.96,0.0,Flat
+Jinx - Loose Cannon (Signature),2026-03-23,960.52,0.0,Flat
+Ahri - Nine-Tailed Fox (Signature),2026-03-23,1925.94,0.0,Flat
+Teemo - Swift Scout (Signature),2026-03-23,880.64,0.0,Flat
+Viktor - Herald of the Arcane (Signature),2026-03-23,778.85,0.0,Flat
+Sett - The Boss (Signature),2026-03-23,841.62,0.0,Flat
+Vanguard Attendant,2026-03-23,0.3,0.0,Flat
+Blazing Scorcher (Promo),2026-03-23,0.28,0.0,Flat
+Stealthy Pursuer (Promo),2026-03-23,0.21,0.0,Flat
+Wielder of Water (Promo),2026-03-23,0.26,0.0,Flat
+Mystic Poro (Common),2026-03-23,0.3,0.0,Flat
+Doran's Shield (Common),2026-03-23,0.08,0.0,Flat
+Feral Strength,2026-03-23,0.06,0.0,Flat
+Fortified Position (Oversized),2026-03-23,4.14,0.0,Flat
+Startipped Peak (Oversized),2026-03-23,5.84,0.0,Flat
+Trifarian War Camp (Oversized),2026-03-23,3.82,0.0,Flat
+Void Gate (Oversized),2026-03-23,2.68,0.0,Flat
+Doran's Ring (Common),2026-03-23,0.09,0.0,Flat
+Ahri - Inquisitive (Signature),2026-03-23,2731.73,0.0,Flat
+Rek'sai - Void Burrower,2026-03-23,0.14,0.0,Flat
+Jax - Grandmaster At Arms,2026-03-23,0.12,0.0,Flat
+Irelia - Fervent (Signature),2026-03-23,1656.02,0.0,Flat
+Sett - Brawler (Signature),2026-03-23,664.94,0.0,Flat
+Treasure Hunter (Common),2026-03-23,0.12,0.0,Flat
+Unsung Hero (Uncommon),2026-03-23,0.13,0.0,Flat
+Dauntless Vanguard,2026-03-23,0.07,0.0,Flat
+Strike Down,2026-03-23,0.11,0.0,Flat
+Loyal Pup,2026-03-23,0.05,0.0,Flat
+Gem Jammer (Common),2026-03-23,0.06,0.0,Flat
+Ravenbloom Conservatory,2026-03-23,0.11,0.0,Flat
+Yordle Explorer,2026-03-23,0.05,0.0,Flat
+Ornn's Forge,2026-03-23,0.1,0.0,Flat
+Bonds of Strength,2026-03-23,0.07,0.0,Flat
+Guardian of the Passage,2026-03-23,0.05,0.0,Flat
+Legion Quartermaster,2026-03-23,0.1,0.0,Flat
+Card Sharp,2026-03-23,0.34,0.0,Flat
+Edge of Night,2026-03-23,0.27,0.0,Flat
+Aphelios - Exalted (Signature),2026-03-23,653.04,0.0,Flat
+Perched Grimwyrm,2026-03-23,0.09,0.0,Flat
+Sudden Storm,2026-03-23,0.13,0.0,Flat
+Fae Porter,2026-03-23,0.04,0.0,Flat
+Desert's Call,2026-03-23,0.08,0.0,Flat
+Temptation,2026-03-23,0.08,0.0,Flat
+Ancient Warmonger,2026-03-23,0.06,0.0,Flat
+Harpoon Squad (Uncommon),2026-03-23,0.11,0.0,Flat
+Guards!,2026-03-23,0.07,0.0,Flat
+Cloth Armor (Common),2026-03-23,0.08,0.0,Flat
+Sandshifter,2026-03-23,0.07,0.0,Flat
+Gearhead,2026-03-23,0.03,0.0,Flat
+Wages of Pain,2026-03-23,0.15,0.0,Flat
+Zaun Punk,2026-03-23,0.07,0.0,Flat
+Forge of the Fluft,2026-03-23,0.09,0.0,Flat
+Forgotten Monument,2026-03-23,0.07,0.0,Flat
+Veiled Temple,2026-03-23,0.11,0.0,Flat
+Laurent Bladekeeper,2026-03-23,0.04,0.0,Flat
+Sea Monkey (Common),2026-03-23,0.05,0.0,Flat
+Teemo - Strategist (Signature),2026-03-23,749.9,0.0,Flat
+Heimerdinger - Inventor (Promo),2026-03-23,274.46,0.0,Flat
+Kai'Sa - Daughter of the Void (Metal),2026-03-23,1999.0,0.0,Flat
+Volibear - Relentless Storm (Metal),2026-03-23,1400.0,0.0,Flat
+Darius - Hand of Noxus (Metal),2026-03-23,1000.0,0.0,Flat
+Ahri - Nine-Tailed Fox (Metal),2026-03-23,4999.99,0.0,Flat
+Lee Sin - Blind Monk (Metal),2026-03-23,1299.99,0.0,Flat
+Teemo - Swift Scout (Metal),2026-03-23,1.0,0.0,Flat
+Master Yi - Wuju Bladesman (Metal),2026-03-23,1935.0,0.0,Flat
+Garen - Might of Demacia (Metal),2026-03-23,1349.99,0.0,Flat
+Body Rune (Common),2026-03-23,0.07,0.0,Flat
+Calm Rune (Common),2026-03-23,0.08,0.0,Flat
+Fury Rune (Common),2026-03-23,0.07,0.0,Flat
+Harpoon Squad (Promo),2026-03-23,0.62,0.0,Flat
+Jinx - Rebel (Promo),2026-03-23,74.5,-0.0001,Down
+Highlander (Promo),2026-03-23,5.94,-0.0017,Down
+Lux - Illuminated (Promo),2026-03-23,6.33,-0.0031,Down
+Bandle Tree (Promo),2026-03-23,15.93,-0.0038,Down
+Volibear - Furious (Alternate Art),2026-03-23,5.13,-0.0039,Down
+Darius - Hand of Noxus (Overnumbered),2026-03-23,59.25,-0.005,Down
+Jax - Unrelenting,2026-03-23,2.0,-0.005,Down
+Soraka - Wanderer (Signature),2026-03-23,819.24,-0.0055,Down
+Volibear - Relentless Storm (Signature),2026-03-23,698.18,-0.0067,Down
+Darius - Executioner (Alternate Art),2026-03-23,4.28,-0.007,Down
+Vayne - Hunter (Signature),2026-03-23,1217.01,-0.007,Down
+Irelia - Fervent (Alternate Art),2026-03-23,11.95,-0.0083,Down
+Siphon Power,2026-03-23,4.46,-0.0089,Down
+Teemo - Swift Scout (Alternate Art),2026-03-23,204.58,-0.0095,Down
+Master Yi - Meditative (Promo),2026-03-23,7.2,-0.0096,Down
+Yasuo - Windrider,2026-03-23,3.99,-0.0099,Down
+Mind Rune (Alternate Art) (Showcase),2026-03-23,9.86,-0.01,Down
+Time Warp,2026-03-23,82.99,-0.0101,Down
+Rek'sai - Void Burrower (Overnumbered),2026-03-23,83.36,-0.0115,Down
+Yasuo - Unforgiven (Overnumbered),2026-03-23,78.54,-0.0123,Down
+Volibear - Relentless Storm (Overnumbered),2026-03-23,69.21,-0.0128,Down
+Leona - Radiant Dawn (Promo),2026-03-23,14.67,-0.0128,Down
+Irelia - Fervent,2026-03-23,8.44,-0.0129,Down
+Garen - Might of Demacia,2026-03-23,19.18,-0.0129,Down
+Chaos Rune (Alternate Art) (Showcase),2026-03-23,14.13,-0.0133,Down
+Ahri - Inquisitive (Overnumbered),2026-03-23,402.01,-0.0138,Down
+Azir - Emperor of the Sands (Overnumbered),2026-03-23,99.53,-0.0138,Down
+Mind Rune (R03b),2026-03-23,20.0,-0.0138,Down
+Bard - Mercurial (Signature),2026-03-23,574.52,-0.0144,Down
+Viktor - Herald of the Arcane (Overnumbered),2026-03-23,129.29,-0.0152,Down
+Jinx - Loose Cannon (Overnumbered),2026-03-23,98.35,-0.0157,Down
+Teemo - Scout (GG EZ),2026-03-23,683.22,-0.0161,Down
+Order Rune (R06b),2026-03-23,22.52,-0.0166,Down
+Bellows Breath,2026-03-23,1.17,-0.0168,Down
+Irelia - Graceful (Alternate Art),2026-03-23,1.73,-0.017,Down
+Order Rune (Promo),2026-03-23,5.18,-0.0171,Down
+Jax - Unrelenting (Alternate Art),2026-03-23,2.21,-0.0178,Down
+The Grand Plaza (Promo),2026-03-23,14.63,-0.0181,Down
+Kai'Sa - Daughter of the Void (Overnumbered),2026-03-23,196.6,-0.0186,Down
+Jinx - Demolitionist (Alternate Art),2026-03-23,4.72,-0.0187,Down
+Garen - Commander (Promo),2026-03-23,6.84,-0.0187,Down
+Anivia - Primal,2026-03-23,0.52,-0.0189,Down
+Rek'Sai - Breacher,2026-03-23,1.95,-0.0201,Down
+Yasuo - Windrider (Overnumbered),2026-03-23,47.9,-0.0202,Down
+Ahri - Nine-Tailed Fox (Overnumbered),2026-03-23,225.3,-0.0222,Down
+Yasuo - Windrider (Signature),2026-03-23,574.36,-0.0223,Down
+Yone - Blademaster (Signature),2026-03-23,577.95,-0.0238,Down
+Divine Judgment,2026-03-23,8.15,-0.024,Down
+Jayce - Man of Progress,2026-03-23,0.4,-0.0244,Down
+Seal of Discord (Overnumbered),2026-03-23,149.39,-0.0254,Down
+Teemo - Swift Scout (Rare),2026-03-23,0.38,-0.0256,Down
+Kai'Sa - Daughter of the Void (Promo),2026-03-23,27.33,-0.026,Down
+Fury Rune (Alternate Art) (Showcase),2026-03-23,9.51,-0.0266,Down
+Zenith Blade,2026-03-23,16.47,-0.0266,Down
+Last Rites,2026-03-23,23.14,-0.0273,Down
+Kai'Sa - Survivor (Alternate Art),2026-03-23,98.56,-0.0293,Down
+Falling Star,2026-03-23,9.74,-0.0299,Down
+Ahri - Alluring (Launch Exclusive),2026-03-23,147.28,-0.0314,Down
+Block,2026-03-23,0.29,-0.0333,Down
+Lee Sin - Blind Monk (Overnumbered),2026-03-23,82.3,-0.0352,Down
+Teemo - Strategist,2026-03-23,3.52,-0.0356,Down
+Promising Future,2026-03-23,0.27,-0.0357,Down
+Aspirant's Climb (Uncommon),2026-03-23,0.27,-0.0357,Down
+Blast of Power,2026-03-23,4.88,-0.0375,Down
+Zhonya's Hourglass,2026-03-23,14.94,-0.038,Down
+Yasuo - Unforgiven (Promo),2026-03-23,15.45,-0.0386,Down
+Darius - Executioner (Signature),2026-03-23,432.37,-0.0397,Down
+Kraken Hunter,2026-03-23,0.24,-0.04,Down
+Sterak's Gage,2026-03-23,0.24,-0.04,Down
+Rumble - Mechanized Menace (Overnumbered),2026-03-23,49.71,-0.0405,Down
+Vayne - Hunter (Overnumbered),2026-03-23,97.05,-0.0408,Down
+Jinx - Loose Cannon (Promo),2026-03-23,15.78,-0.0413,Down
+Garen - Rugged (Rare),2026-03-23,1.39,-0.0414,Down
+Volibear - Furious,2026-03-23,2.74,-0.042,Down
+Draven - Vanquisher (Alternate Art),2026-03-23,3.82,-0.0426,Down
+Teemo - Swift Scout (Overnumbered),2026-03-23,87.94,-0.0429,Down
+Calm Rune (Common),2026-03-23,0.22,-0.0435,Down
+Convergent Mutation,2026-03-23,0.22,-0.0435,Down
+Sett - Brawler (Alternate Art),2026-03-23,40.35,-0.0438,Down
+Eye of the Herald (Promo),2026-03-23,0.87,-0.044,Down
+Final Spark (Promo),2026-03-23,15.24,-0.0445,Down
+Lux - Lady of Luminosity,2026-03-23,40.35,-0.0477,Down
+Body Rune (Alternate Art) (Showcase),2026-03-23,6.32,-0.0482,Down
+Renata Glasc - Chem-Baroness (Overnumbered),2026-03-23,59.12,-0.0494,Down
+Portal Rescue,2026-03-23,0.19,-0.05,Down
+Targon's Peak,2026-03-23,0.19,-0.05,Down
+Singularity,2026-03-23,3.4,-0.0503,Down
+Unyielding Spirit,2026-03-23,0.94,-0.0505,Down
+Order Rune (Alternate Art) (Showcase),2026-03-23,7.6,-0.0512,Down
+Stellacorn Herder (Uncommon),2026-03-23,0.73,-0.0519,Down
+Garen - Rugged (Promo),2026-03-23,11.21,-0.0524,Down
+Decisive Strike (Promo),2026-03-23,3.25,-0.0525,Down
+Bandle Tree (Uncommon),2026-03-23,0.18,-0.0526,Down
+Vengeance (Promo),2026-03-23,0.36,-0.0526,Down
+Kog'Maw - Caustic,2026-03-23,0.35,-0.0541,Down
+Master Yi - Meditative (Rare),2026-03-23,1.75,-0.0541,Down
+Annie - Dark Child (Starter),2026-03-23,17.22,-0.0549,Down
+Reinforce,2026-03-23,0.17,-0.0556,Down
+Lux - Lady of Luminosity (Starter),2026-03-23,23.03,-0.0561,Down
+Warwick - Hunter (Rare),2026-03-23,0.67,-0.0563,Down
+Treasure Hunter (Promo),2026-03-23,0.99,-0.0571,Down
+Karma - Channeler (Signature),2026-03-23,456.06,-0.0583,Down
+Switcheroo,2026-03-23,0.32,-0.0588,Down
+Renata Glasc - Industrialist (Alternate Art),2026-03-23,1.58,-0.0595,Down
+Twisted Fate - Gambler,2026-03-23,0.31,-0.0606,Down
+Yone - Blademaster (Overnumbered),2026-03-23,68.32,-0.061,Down
+Void Rush,2026-03-23,7.13,-0.0618,Down
+Stormbringer,2026-03-23,10.44,-0.062,Down
+Peak Guardian,2026-03-23,0.15,-0.0625,Down
+Fiora - Peerless,2026-03-23,0.15,-0.0625,Down
+Not So Fast,2026-03-23,1.31,-0.0643,Down
+Draven - Glorious Executioner (Overnumbered),2026-03-23,123.82,-0.0647,Down
+Fiora - Worthy (Alternate Art),2026-03-23,4.25,-0.0659,Down
+Doran's Shield (Promo),2026-03-23,0.85,-0.0659,Down
+Fury Rune (R01b),2026-03-23,22.95,-0.0663,Down
+Captain Farron,2026-03-23,0.14,-0.0667,Down
+Falling Comet,2026-03-23,0.14,-0.0667,Down
+Cannon Barrage,2026-03-23,0.14,-0.0667,Down
+Vilemaw's Lair,2026-03-23,0.28,-0.0667,Down
+Simian Ancestor,2026-03-23,0.14,-0.0667,Down
+Frostcoat Cub (Promo),2026-03-23,0.42,-0.0667,Down
+Miss Fortune - Captain,2026-03-23,9.93,-0.0676,Down
+Soraka - Wanderer (Overnumbered),2026-03-23,71.98,-0.0687,Down
+Ahri - Nine-Tailed Fox (Rare),2026-03-23,1.49,-0.0688,Down
+Irelia - Fervent (Overnumbered),2026-03-23,209.89,-0.069,Down
+Laurent Duelist (Promo),2026-03-23,0.8,-0.0698,Down
+Sivir - Ambitious (Alternate Art),2026-03-23,1.73,-0.0699,Down
+Pirate's Haven,2026-03-23,0.13,-0.0714,Down
+Vengeance (Uncommon),2026-03-23,0.26,-0.0714,Down
+Body Rune (Alternate Art) (Showcase),2026-03-23,6.94,-0.0722,Down
+Super Mega Death Rocket!,2026-03-23,15.78,-0.0729,Down
+Darius - Executioner (Overnumbered),2026-03-23,38.86,-0.0732,Down
+Dr. Mundo - Expert,2026-03-23,1.01,-0.0734,Down
+Navori Scout (Promo),2026-03-23,1.26,-0.0735,Down
+Void Seeker (Uncommon),2026-03-23,0.25,-0.0741,Down
+Charm,2026-03-23,0.37,-0.075,Down
+Clockwork Keeper,2026-03-23,0.12,-0.0769,Down
+Darius - Hand of Noxus (Rare),2026-03-23,0.24,-0.0769,Down
+Viktor - Herald of the Arcane (Rare),2026-03-23,0.24,-0.0769,Down
+Apprentice Smith,2026-03-23,0.12,-0.0769,Down
+Mech // Buff,2026-03-23,0.12,-0.0769,Down
+Annie - Fiery (Promo),2026-03-23,10.18,-0.0771,Down
+Fiora - Victorious,2026-03-23,6.76,-0.079,Down
+Tibbers (Promo),2026-03-23,11.13,-0.0794,Down
+Kinkou Monk,2026-03-23,0.23,-0.08,Down
+Facebreaker,2026-03-23,0.23,-0.08,Down
+Icathian Rain,2026-03-23,9.3,-0.0801,Down
+Relentless Pursuit,2026-03-23,3.1,-0.0801,Down
+Retreat,2026-03-23,1.47,-0.0813,Down
+Get Excited!,2026-03-23,0.11,-0.0833,Down
+Scrapyard Champion,2026-03-23,0.11,-0.0833,Down
+Viktor - Innovator,2026-03-23,0.22,-0.0833,Down
+Arena Bar,2026-03-23,0.11,-0.0833,Down
+Long Sword,2026-03-23,0.22,-0.0833,Down
+Rumble - Mechanized Menace,2026-03-23,0.11,-0.0833,Down
+Treasure Hoard,2026-03-23,0.11,-0.0833,Down
+Chemtech Cask,2026-03-23,0.11,-0.0833,Down
+Petricite Monument,2026-03-23,0.11,-0.0833,Down
+Fury Rune (Alternate Art) (Showcase),2026-03-23,6.54,-0.084,Down
+Karma - Channeler (Overnumbered),2026-03-23,41.13,-0.0848,Down
+Flash,2026-03-23,41.97,-0.0864,Down
+Thermo Beam,2026-03-23,0.63,-0.087,Down
+Deathgrip,2026-03-23,0.21,-0.087,Down
+Leona - Determined (Alternate Art),2026-03-23,6.27,-0.0873,Down
+Fury Rune (Promo),2026-03-23,6.34,-0.0878,Down
+Zephyr Sage,2026-03-23,0.31,-0.0882,Down
+Darius - Trifarian,2026-03-23,3.38,-0.0889,Down
+Kai'Sa - Daughter of the Void (Rare),2026-03-23,0.41,-0.0889,Down
+Hard Bargain,2026-03-23,0.41,-0.0889,Down
+Lucian - Gunslinger (Alternate Art),2026-03-23,1.92,-0.09,Down
+Stalwart Poro (Common),2026-03-23,0.1,-0.0909,Down
+Stupefy,2026-03-23,0.2,-0.0909,Down
+Lucian - Purifier,2026-03-23,0.1,-0.0909,Down
+Void Hatchling,2026-03-23,0.1,-0.0909,Down
+Punch First,2026-03-23,0.1,-0.0909,Down
+Factory Recall,2026-03-23,0.1,-0.0909,Down
+Nocturne - Horrifying,2026-03-23,3.95,-0.092,Down
+Stacked Deck (Uncommon),2026-03-23,6.44,-0.093,Down
+Downwell,2026-03-23,6.57,-0.095,Down
+Boneshiver (Promo),2026-03-23,122.19,-0.095,Down
+Arise!,2026-03-23,15.03,-0.0951,Down
+Overt Operation,2026-03-23,0.19,-0.0952,Down
+Dragon's Rage,2026-03-23,3.42,-0.0952,Down
+Zaun Warrens,2026-03-23,0.19,-0.0952,Down
+Viktor - Leader (Promo),2026-03-23,11.42,-0.0958,Down
+Body Rune (Promo),2026-03-23,5.84,-0.096,Down
+Lucian - Purifier (Overnumbered),2026-03-23,58.89,-0.0961,Down
+Sett - Brawler,2026-03-23,38.58,-0.0982,Down
+Treasure Trove,2026-03-23,0.27,-0.1,Down
+Symbol of the Solari,2026-03-23,0.09,-0.1,Down
+Volibear - Relentless Storm (Rare),2026-03-23,0.27,-0.1,Down
+Irelia - Graceful,2026-03-23,0.18,-0.1,Down
+Production Surge (Uncommon),2026-03-23,0.09,-0.1,Down
+Recurve Bow,2026-03-23,0.09,-0.1,Down
+Tryndamere - Barbarian (Promo),2026-03-23,1.23,-0.1022,Down
+Sabotage,2026-03-23,10.54,-0.103,Down
+Scrapheap,2026-03-23,0.26,-0.1034,Down
+Ezreal - Prodigal Explorer,2026-03-23,0.17,-0.1053,Down
+Sun Disc,2026-03-23,0.25,-0.1071,Down
+The Syren,2026-03-23,0.25,-0.1071,Down
+Lee Sin - Ascetic (Epic),2026-03-23,1.32,-0.1081,Down
+Defiant Dance,2026-03-23,29.19,-0.1095,Down
+Darius - Trifarian (Alternate Art),2026-03-23,11.48,-0.1108,Down
+Lux - Crownguard (Epic),2026-03-23,11.96,-0.1108,Down
+Aphelios - Exalted (Overnumbered),2026-03-23,87.75,-0.111,Down
+Magma Wurm,2026-03-23,0.08,-0.1111,Down
+Fading Memories,2026-03-23,0.16,-0.1111,Down
+Back to Back,2026-03-23,0.08,-0.1111,Down
+Irelia - Blade Dancer,2026-03-23,0.16,-0.1111,Down
+Veteran Poro,2026-03-23,0.08,-0.1111,Down
+Ornn - Fire Below the Mountain (Overnumbered),2026-03-23,68.16,-0.1119,Down
+Grand Strategem,2026-03-23,0.79,-0.1124,Down
+Stellacorn Herder (Promo),2026-03-23,4.39,-0.1131,Down
+Unsung Hero (Promo),2026-03-23,0.84,-0.1158,Down
+Taric - Protector,2026-03-23,0.3,-0.1176,Down
+Smoke Screen,2026-03-23,0.15,-0.1176,Down
+Azir - Emperor of the Sands,2026-03-23,0.15,-0.1176,Down
+Viktor - Herald of the Arcane (Promo),2026-03-23,12.96,-0.1184,Down
+Fiora - Grand Duelist (Overnumbered),2026-03-23,106.04,-0.1191,Down
+Rek'Sai - Breacher (Alternate Art),2026-03-23,3.69,-0.1193,Down
+Viktor - Innovator (Alternate Art),2026-03-23,4.38,-0.1205,Down
+Azir - Sovereign (Alternate Art),2026-03-23,4.23,-0.1224,Down
+Lecturing Yordle,2026-03-23,0.21,-0.125,Down
+Vanguard Helm,2026-03-23,0.14,-0.125,Down
+Sett - Kingpin,2026-03-23,0.49,-0.125,Down
+The Arena's Greatest,2026-03-23,0.28,-0.125,Down
+Jaull-Fish,2026-03-23,0.07,-0.125,Down
+Marai Spire,2026-03-23,0.07,-0.125,Down
+Premonition,2026-03-23,4.54,-0.1252,Down
+Piercing Light,2026-03-23,0.54,-0.129,Down
+Ezreal - Prodigy,2026-03-23,27.4,-0.1313,Down
+Fae Dragon (Promo),2026-03-23,0.79,-0.1319,Down
+Yone - Blademaster (Promo),2026-03-23,0.46,-0.1321,Down
+Ava Achiever,2026-03-23,0.26,-0.1333,Down
+Back-Alley Bar,2026-03-23,0.13,-0.1333,Down
+Lucian - Gunslinger,2026-03-23,1.04,-0.1333,Down
+Heimerdinger - Inventor (Rare),2026-03-23,0.44,-0.1373,Down
+Party Favors,2026-03-23,0.25,-0.1379,Down
+Immortal Phoenix,2026-03-23,28.01,-0.1403,Down
+Flame Chompers,2026-03-23,0.06,-0.1429,Down
+Raging Soul,2026-03-23,0.12,-0.1429,Down
+Mobilize,2026-03-23,0.12,-0.1429,Down
+Stormclaw Ursine (Common),2026-03-23,0.06,-0.1429,Down
+Royal Entourage,2026-03-23,0.06,-0.1429,Down
+Disarming Rake,2026-03-23,0.06,-0.1429,Down
+Fae Dragon (Uncommon),2026-03-23,0.12,-0.1429,Down
+Sett - Brawler (Overnumbered),2026-03-23,94.84,-0.143,Down
+Jax - Grandmaster At Arms (Overnumbered),2026-03-23,69.1,-0.1435,Down
+Ferrous Forerunner,2026-03-23,0.65,-0.1447,Down
+Ezreal - Prodigal Explorer (Overnumbered),2026-03-23,118.21,-0.1448,Down
+The Harrowing,2026-03-23,0.35,-0.1463,Down
+Annie - Dark Child,2026-03-23,32.39,-0.1465,Down
+Akshan - Mischievous,2026-03-23,1.1,-0.1473,Down
+Void Seeker (Promo),2026-03-23,0.69,-0.1481,Down
+Poro Snax,2026-03-23,0.17,-0.15,Down
+Renata Glasc - Mastermind,2026-03-23,1.24,-0.1507,Down
+Azir - Sovereign,2026-03-23,2.91,-0.1516,Down
+Jinx - Rebel (Epic),2026-03-23,6.26,-0.1518,Down
+Gem Jammer (Promo),2026-03-23,0.72,-0.1529,Down
+Blood Money,2026-03-23,0.16,-0.1579,Down
+Showstopper,2026-03-23,15.14,-0.1584,Down
+Trifarian War Camp,2026-03-23,0.26,-0.1613,Down
+Vanguard Armory,2026-03-23,0.26,-0.1613,Down
+Stalwart Poro (Promo),2026-03-23,0.67,-0.1625,Down
+Lucian - Merciless (Alternate Art),2026-03-23,6.83,-0.163,Down
+Brazen Buccaneer,2026-03-23,0.05,-0.1667,Down
+Disintegrate,2026-03-23,0.1,-0.1667,Down
+Blind Fury,2026-03-23,0.2,-0.1667,Down
+Mask of Foresight,2026-03-23,0.2,-0.1667,Down
+Mageseeker Warden,2026-03-23,0.25,-0.1667,Down
+Spoils of War,2026-03-23,0.15,-0.1667,Down
+Primal Strength,2026-03-23,0.5,-0.1667,Down
+Ember Monk,2026-03-23,0.1,-0.1667,Down
+Plundering Poro,2026-03-23,0.1,-0.1667,Down
+Fiora - Worthy,2026-03-23,0.6,-0.1667,Down
+Frostcoat Cub (Common),2026-03-23,0.05,-0.1667,Down
+Sivir - Mercenary,2026-03-23,0.2,-0.1667,Down
+Ribbon Dancer,2026-03-23,0.05,-0.1667,Down
+Combat Chef,2026-03-23,0.05,-0.1667,Down
+Sand Soldier // Buff,2026-03-23,0.15,-0.1667,Down
+Counter Strike,2026-03-23,8.99,-0.1707,Down
+Daring Poro (Promo),2026-03-23,0.29,-0.1714,Down
+Wind Wall,2026-03-23,2.89,-0.1719,Down
+Pickpocket,2026-03-23,0.19,-0.1739,Down
+Chaos Rune (Promo),2026-03-23,12.59,-0.176,Down
+Arcane Shift,2026-03-23,3.77,-0.1769,Down
+Danger Zone,2026-03-23,0.65,-0.1772,Down
+Teemo - Scout (Promo),2026-03-23,3.27,-0.1784,Down
+Irelia - Blade Dancer (Overnumbered),2026-03-23,144.87,-0.1811,Down
+Sunlit Guardian,2026-03-23,0.09,-0.1818,Down
+Salvage,2026-03-23,6.21,-0.1818,Down
+Altar to Unity,2026-03-23,0.09,-0.1818,Down
+Mind Rune (Common),2026-03-23,0.09,-0.1818,Down
+Rengar - Pouncing,2026-03-23,0.31,-0.1842,Down
+Sivir - Battle Mistress (Overnumbered),2026-03-23,52.92,-0.1858,Down
+Riptide Rex (Common),2026-03-23,0.13,-0.1875,Down
+Hallowed Tomb,2026-03-23,0.13,-0.1875,Down
+Navori Fighting Pit,2026-03-23,0.13,-0.1875,Down
+Defy,2026-03-23,1.99,-0.1878,Down
+Yasuo - Remorseful (Alternate Art),2026-03-23,3.42,-0.1896,Down
+Sivir - Mercenary (Alternate Art),2026-03-23,1.36,-0.1953,Down
+Imperial Decree,2026-03-23,2.75,-0.1959,Down
+Pouty Poro (Promo),2026-03-23,0.53,-0.197,Down
+Mushroom Pouch,2026-03-23,0.08,-0.2,Down
+Malzahar - Fanatic,2026-03-23,0.4,-0.2,Down
+Mystic Poro (Common),2026-03-23,0.08,-0.2,Down
+Acceptable Losses,2026-03-23,0.24,-0.2,Down
+Fortified Position,2026-03-23,0.12,-0.2,Down
+Riptide Rex (Promo),2026-03-23,0.32,-0.2,Down
+Thwonk!,2026-03-23,0.08,-0.2,Down
+Sentinel Adept,2026-03-23,0.04,-0.2,Down
+Navori Scout (Common),2026-03-23,0.04,-0.2,Down
+Dropboarder,2026-03-23,0.12,-0.2,Down
+Rockfall Path,2026-03-23,0.08,-0.2,Down
+Order Rune (Common),2026-03-23,0.08,-0.2,Down
+Mindsplitter,2026-03-23,6.72,-0.201,Down
+Doran's Ring (Promo),2026-03-23,0.86,-0.2037,Down
+Annie - Stubborn (Promo),2026-03-23,28.96,-0.2055,Down
+Production Surge (Promo),2026-03-23,0.69,-0.2069,Down
+Ride The Wind,2026-03-23,0.57,-0.2083,Down
+Sigil of the Storm,2026-03-23,0.19,-0.2083,Down
+Draven - Vanquisher,2026-03-23,0.26,-0.2121,Down
+Stacked Deck (Promo),2026-03-23,6.83,-0.2122,Down
+Guardian Angel,2026-03-23,1.89,-0.2125,Down
+World Atlas,2026-03-23,0.22,-0.2143,Down
+Sunken Temple,2026-03-23,0.11,-0.2143,Down
+Sea Monkey (Promo),2026-03-23,0.98,-0.216,Down
+Traveling Merchant,2026-03-23,0.18,-0.2174,Down
+Jax - Unmatched,2026-03-23,0.18,-0.2174,Down
+Ruin Runner,2026-03-23,0.25,-0.2188,Down
+Machine Evangel,2026-03-23,0.78,-0.22,Down
+Azir - Ascendant,2026-03-23,0.21,-0.2222,Down
+Bushwhack,2026-03-23,0.07,-0.2222,Down
+Chaos Rune (Common),2026-03-23,0.07,-0.2222,Down
+Invert Timelines,2026-03-23,25.76,-0.2241,Down
+Forgefire Cape,2026-03-23,0.41,-0.2264,Down
+Gold // Buff,2026-03-23,0.17,-0.2273,Down
+Discipline (Uncommon),2026-03-23,0.8,-0.2308,Down
+Beast Below,2026-03-23,0.1,-0.2308,Down
+Sivir - Battle Mistress,2026-03-23,0.13,-0.2353,Down
+Rocket Barrage,2026-03-23,0.13,-0.2353,Down
+Startipped Peak,2026-03-23,0.16,-0.2381,Down
+Kato the Arm,2026-03-23,0.16,-0.2381,Down
+Riposte,2026-03-23,2.44,-0.2492,Down
+Iron Ballista,2026-03-23,0.18,-0.25,Down
+Consult the Past (Common),2026-03-23,0.15,-0.25,Down
+Pit Crew,2026-03-23,0.09,-0.25,Down
+Mountain Drake,2026-03-23,0.09,-0.25,Down
+Cull the Weak,2026-03-23,0.24,-0.25,Down
+Aspiring Engineer,2026-03-23,0.03,-0.25,Down
+Armed Assailant,2026-03-23,0.03,-0.25,Down
+Corrupt Enforcer,2026-03-23,0.03,-0.25,Down
+Master Bingwen,2026-03-23,0.03,-0.25,Down
+Eminent Benefactor,2026-03-23,0.03,-0.25,Down
+Draven - Audacious (Alternate Art),2026-03-23,9.34,-0.2576,Down
+Drag Under,2026-03-23,0.17,-0.2609,Down
+Hextech Ray,2026-03-23,0.14,-0.2632,Down
+Energy Conduit,2026-03-23,0.14,-0.2632,Down
+Caitlyn - Patrolling (Rare),2026-03-23,0.34,-0.2766,Down
+Stand United,2026-03-23,0.05,-0.2857,Down
+Orb of Regret,2026-03-23,0.05,-0.2857,Down
+Bilgewater Bully,2026-03-23,0.05,-0.2857,Down
+Forge of the Future,2026-03-23,0.05,-0.2857,Down
+Forecaster,2026-03-23,0.05,-0.2857,Down
+Frigid Touch,2026-03-23,0.05,-0.2857,Down
+Trusty Ramhound,2026-03-23,0.05,-0.2857,Down
+Renata Glasc - Chem-Baroness,2026-03-23,0.12,-0.2941,Down
+Faithful Manufactor,2026-03-23,0.14,-0.3,Down
+Lonely Poro,2026-03-23,0.07,-0.3,Down
+Here to Help,2026-03-23,0.23,-0.303,Down
+Needlessly Large Yordle,2026-03-23,0.16,-0.3043,Down
+Jinx - Loose Cannon (Rare),2026-03-23,0.23,-0.3235,Down
+Dangerous Duo,2026-03-23,0.06,-0.3333,Down
+Ravenborn Tome,2026-03-23,0.14,-0.3333,Down
+Eager Apprentice,2026-03-23,0.06,-0.3333,Down
+Void Drone,2026-03-23,0.06,-0.3333,Down
+Ornn - Fire Below the Mountain,2026-03-23,0.13,-0.35,Down
+Spinning Axe,2026-03-23,6.01,-0.3524,Down
+Watchful Sentry,2026-03-23,0.11,-0.3529,Down
+Aphelios - Exalted,2026-03-23,0.34,-0.3704,Down
+Legion Rearguard,2026-03-23,0.05,-0.375,Down
+Bubble Bot,2026-03-23,0.05,-0.375,Down
+Overzealous Fan,2026-03-23,0.08,-0.3846,Down
+Honest Broker,2026-03-23,0.08,-0.3846,Down
+Kai'Sa - Evolutionary,2026-03-23,0.38,-0.3871,Down
+Draven - Audacious,2026-03-23,5.57,-0.3879,Down
+Wielder of Water (Common),2026-03-23,0.06,-0.4,Down
+Daring Poro (Common),2026-03-23,0.06,-0.4,Down
+Direwing,2026-03-23,0.06,-0.4,Down
+Cloth Armor (Promo),2026-03-23,0.89,-0.4027,Down
+Pouty Poro (Common),2026-03-23,0.07,-0.4167,Down
+Soaring Scout,2026-03-23,0.08,-0.4286,Down
+Cleave,2026-03-23,0.12,-0.4545,Down
+Laurent Duelist (Common),2026-03-23,0.02,-0.5,Down
+Pit Crew,2026-03-30,0.17,0.8889,Up
+Daring Poro (Common),2026-03-30,0.11,0.8333,Up
+Disarming Rake,2026-03-30,0.11,0.8333,Up
+Clockwork Keeper,2026-03-30,0.21,0.75,Up
+Pouty Poro (Common),2026-03-30,0.12,0.7143,Up
+Kai'Sa - Evolutionary,2026-03-30,0.64,0.6842,Up
+Petty Officer,2026-03-30,0.05,0.6667,Up
+Ekko - Recurrent,2026-03-30,2.57,0.6062,Up
+Carnivorous Snapvine,2026-03-30,0.94,0.5667,Up
+Caitlyn - Patrolling (Rare),2026-03-30,0.52,0.5294,Up
+Eager Apprentice,2026-03-30,0.09,0.5,Up
+Jeweled Colossus,2026-03-30,0.06,0.5,Up
+Jax - Grandmaster At Arms,2026-03-30,0.18,0.5,Up
+Miss Fortune - Bounty Hunter (Rare),2026-03-30,0.52,0.4857,Up
+Sunlit Guardian,2026-03-30,0.13,0.4444,Up
+Morbid Return,2026-03-30,0.13,0.4444,Up
+Obelisk of Power,2026-03-30,0.73,0.4314,Up
+Hextech Ray,2026-03-30,0.2,0.4286,Up
+Lonely Poro,2026-03-30,0.1,0.4286,Up
+Bushwhack,2026-03-30,0.1,0.4286,Up
+Draven - Audacious,2026-03-30,7.92,0.4219,Up
+Viktor - Innovator,2026-03-30,0.31,0.4091,Up
+Sun Disc,2026-03-30,0.35,0.4,Up
+Stalwart Poro (Common),2026-03-30,0.14,0.4,Up
+Pakaa Cub (Common),2026-03-30,0.07,0.4,Up
+Ribbon Dancer,2026-03-30,0.07,0.4,Up
+Frigid Touch,2026-03-30,0.07,0.4,Up
+Sea Monkey (Common),2026-03-30,0.07,0.4,Up
+Dr. Mundo - Expert,2026-03-30,1.41,0.396,Up
+Commander Ledros,2026-03-30,0.47,0.3824,Up
+Soaring Scout,2026-03-30,0.11,0.375,Up
+Blitzcrank - Impassive (Rare),2026-03-30,0.95,0.3571,Up
+Faithful Manufactor,2026-03-30,0.19,0.3571,Up
+Rek'sai - Void Burrower,2026-03-30,0.19,0.3571,Up
+Miss Fortune - Buccaneer (Rare),2026-03-30,0.42,0.3548,Up
+Gust,2026-03-30,0.16,0.3333,Up
+Darius - Hand of Noxus (Rare),2026-03-30,0.32,0.3333,Up
+Viktor - Herald of the Arcane (Rare),2026-03-30,0.32,0.3333,Up
+Irelia - Graceful,2026-03-30,0.24,0.3333,Up
+Corrupt Enforcer,2026-03-30,0.04,0.3333,Up
+Flash,2026-03-30,55.84,0.3305,Up
+Sona - Harmonious,2026-03-30,4.05,0.3235,Up
+Riptide Rex (Common),2026-03-30,0.17,0.3077,Up
+Vanguard Armory,2026-03-30,0.34,0.3077,Up
+Blood Rush,2026-03-30,0.13,0.3,Up
+Falling Comet,2026-03-30,0.18,0.2857,Up
+Kog'Maw - Caustic,2026-03-30,0.45,0.2857,Up
+Azir - Ascendant,2026-03-30,0.27,0.2857,Up
+Sandshifter,2026-03-30,0.09,0.2857,Up
+Forgotten Monument,2026-03-30,0.09,0.2857,Up
+Fury Rune (Common),2026-03-30,0.09,0.2857,Up
+Machine Evangel,2026-03-30,1.0,0.2821,Up
+Noxus Saboteur,2026-03-30,0.14,0.2727,Up
+Watchful Sentry,2026-03-30,0.14,0.2727,Up
+Yasuo - Remorseful (Alternate Art),2026-03-30,4.35,0.2719,Up
+Ahri - Alluring,2026-03-30,1.15,0.2637,Up
+Pickpocket,2026-03-30,0.24,0.2632,Up
+Leona - Zealot,2026-03-30,3.94,0.2628,Up
+Rengar - Pouncing,2026-03-30,0.39,0.2581,Up
+Karma - Channeler,2026-03-30,0.44,0.2571,Up
+Unyielding Spirit,2026-03-30,1.18,0.2553,Up
+Magma Wurm,2026-03-30,0.1,0.25,Up
+Blind Fury,2026-03-30,0.25,0.25,Up
+Eclipse Herald,2026-03-30,0.2,0.25,Up
+Vanguard Sergeant,2026-03-30,0.05,0.25,Up
+Doran's Shield (Common),2026-03-30,0.1,0.25,Up
+Overzealous Fan,2026-03-30,0.1,0.25,Up
+Honest Broker,2026-03-30,0.1,0.25,Up
+Daring Poro (Promo),2026-03-30,0.36,0.2414,Up
+Progress Day,2026-03-30,0.83,0.2388,Up
+Teemo - Swift Scout (Rare),2026-03-30,0.47,0.2368,Up
+Kadregrin the Infernal,2026-03-30,16.48,0.2317,Up
+Back-Alley Bar,2026-03-30,0.16,0.2308,Up
+Draven - Vanquisher,2026-03-30,0.32,0.2308,Up
+Rabadon's Deathcrown,2026-03-30,0.64,0.2308,Up
+Karthus - Eternal,2026-03-30,4.71,0.2266,Up
+Flurry of Blades,2026-03-30,0.11,0.2222,Up
+Kai'Sa - Evolutionary (Alternate Art),2026-03-30,8.71,0.2199,Up
+Jinx - Loose Cannon (Promo),2026-03-30,19.21,0.2174,Up
+Grand Strategem,2026-03-30,0.96,0.2152,Up
+Captain Farron,2026-03-30,0.17,0.2143,Up
+Blitzcrank - Impassive (Promo),2026-03-30,5.49,0.2119,Up
+Retreat,2026-03-30,1.78,0.2109,Up
+Annie - Fiery (Epic),2026-03-30,3.97,0.2067,Up
+Miss Fortune - Bounty Hunter (Promo),2026-03-30,21.3,0.2054,Up
+Brazen Buccaneer,2026-03-30,0.06,0.2,Up
+Chemtech Enforcer,2026-03-30,0.06,0.2,Up
+Legion Rearguard,2026-03-30,0.06,0.2,Up
+Sky Splitter,2026-03-30,0.12,0.2,Up
+Stand United,2026-03-30,0.06,0.2,Up
+Solari Shrine,2026-03-30,0.24,0.2,Up
+Taric - Protector,2026-03-30,0.36,0.2,Up
+Malzahar - Fanatic,2026-03-30,0.48,0.2,Up
+Bilgewater Bully,2026-03-30,0.06,0.2,Up
+Crackshot Corsair,2026-03-30,0.06,0.2,Up
+Forge of the Future,2026-03-30,0.06,0.2,Up
+Punch First,2026-03-30,0.12,0.2,Up
+Trusty Ramhound,2026-03-30,0.06,0.2,Up
+Order Rune (Alternate Art) (Showcase),2026-03-30,9.09,0.1961,Up
+Draven - Showboat,2026-03-30,0.76,0.1875,Up
+Miss Fortune - Bounty Hunter (Overnumbered),2026-03-30,150.73,0.1875,Up
+Jinx - Demolitionist,2026-03-30,0.32,0.1852,Up
+Udyr - Wildman,2026-03-30,0.32,0.1852,Up
+Vi - Destructive (Rare),2026-03-30,1.62,0.1825,Up
+Darius - Executioner (Alternate Art),2026-03-30,5.04,0.1776,Up
+Order Rune (Promo),2026-03-30,6.08,0.1737,Up
+Tibbers (Epic),2026-03-30,1.86,0.1698,Up
+Master Yi - Wuju Bladesman,2026-03-30,42.36,0.1673,Up
+Dangerous Duo,2026-03-30,0.07,0.1667,Up
+Wielder of Water (Common),2026-03-30,0.07,0.1667,Up
+Mega-Mech,2026-03-30,0.07,0.1667,Up
+Kraken Hunter,2026-03-30,0.28,0.1667,Up
+Annie - Stubborn (Rare),2026-03-30,6.96,0.1639,Up
+Party Favors,2026-03-30,0.29,0.16,Up
+Yasuo - Windrider,2026-03-30,4.61,0.1554,Up
+Hallowed Tomb,2026-03-30,0.15,0.1538,Up
+Rocket Barrage,2026-03-30,0.15,0.1538,Up
+Treasure Trove,2026-03-30,0.31,0.1481,Up
+Jinx - Demolitionist (Alternate Art),2026-03-30,5.41,0.1462,Up
+Teemo - Scout (Alternate Art),2026-03-30,11.82,0.1453,Up
+Ahri - Alluring (Alternate Art),2026-03-30,10.5,0.1438,Up
+Challenge (Common),2026-03-30,0.24,0.1429,Up
+Dune Drake,2026-03-30,0.08,0.1429,Up
+Stealthy Pursuer (Promo),2026-03-30,0.24,0.1429,Up
+Jaull-Fish,2026-03-30,0.08,0.1429,Up
+Black Market Broker,2026-03-30,0.08,0.1429,Up
+Cull,2026-03-30,0.16,0.1429,Up
+Deathgrip,2026-03-30,0.24,0.1429,Up
+Marai Spire,2026-03-30,0.08,0.1429,Up
+Jinx - Rebel (Promo),2026-03-30,18.8,0.1394,Up
+Discipline (Uncommon),2026-03-30,0.91,0.1375,Up
+Lee Sin - Centered,2026-03-30,0.25,0.1364,Up
+Call to Glory,2026-03-30,0.25,0.1364,Up
+Seal of Unity (Overnumbered),2026-03-30,108.51,0.1341,Up
+Rune Prison,2026-03-30,0.17,0.1333,Up
+Consult the Past (Common),2026-03-30,0.17,0.1333,Up
+Lee Sin - Centered (Alternate Art),2026-03-30,3.15,0.1331,Up
+Miss Fortune - Buccaneer (Alternate Art),2026-03-30,6.01,0.1297,Up
+Leona - Zealot (Alternate Art),2026-03-30,10.53,0.1262,Up
+Poro Herder,2026-03-30,0.18,0.125,Up
+Mushroom Pouch,2026-03-30,0.09,0.125,Up
+Cemetery Attendant,2026-03-30,0.09,0.125,Up
+Back to Back,2026-03-30,0.09,0.125,Up
+Startipped Peak,2026-03-30,0.18,0.125,Up
+The Candlelit Sanctum,2026-03-30,0.27,0.125,Up
+Order Rune (Common),2026-03-30,0.09,0.125,Up
+Teemo - Strategist (Alternate Art),2026-03-30,7.5,0.1244,Up
+Ezreal - Dashing (Alternate Art),2026-03-30,1.65,0.1224,Up
+Yasuo - Remorseful,2026-03-30,0.46,0.122,Up
+Forgefire Cape,2026-03-30,0.46,0.122,Up
+En Garde,2026-03-30,0.19,0.1176,Up
+Gold // Buff,2026-03-30,0.19,0.1176,Up
+Anivia - Primal,2026-03-30,0.58,0.1154,Up
+Seal of Strength (Overnumbered),2026-03-30,75.31,0.1152,Up
+Noxus Hopeful,2026-03-30,0.3,0.1111,Up
+First Mate,2026-03-30,0.2,0.1111,Up
+Mistfall,2026-03-30,0.2,0.1111,Up
+Symbol of the Solari,2026-03-30,0.1,0.1111,Up
+Doran's Ring (Common),2026-03-30,0.1,0.1111,Up
+Altar of Memories,2026-03-30,0.2,0.1111,Up
+Production Surge (Uncommon),2026-03-30,0.1,0.1111,Up
+Super Mega Death Rocket!,2026-03-30,17.51,0.1096,Up
+Fox-Fire,2026-03-30,8.65,0.1076,Up
+Darius - Trifarian,2026-03-30,3.74,0.1065,Up
+Overt Operation,2026-03-30,0.21,0.1053,Up
+Calm Rune (Promo),2026-03-30,7.22,0.104,Up
+Shakedown,2026-03-30,0.43,0.1026,Up
+Wildclaw Shaman,2026-03-30,0.11,0.1,Up
+Ember Monk,2026-03-30,0.11,0.1,Up
+Jinx - Rebel (Alternate Art),2026-03-30,7.48,0.1,Up
+Lucian - Purifier,2026-03-30,0.11,0.1,Up
+Breakneck Mech,2026-03-30,0.11,0.1,Up
+Legion Quartermaster,2026-03-30,0.11,0.1,Up
+Sivir - Mercenary (Alternate Art),2026-03-30,1.49,0.0956,Up
+Rell - Magnetic,2026-03-30,0.23,0.0952,Up
+Bard - Mercurial,2026-03-30,0.23,0.0952,Up
+Tasty Faefolk,2026-03-30,1.27,0.0948,Up
+Last Stand,2026-03-30,0.35,0.0937,Up
+Consult the Past (Promo),2026-03-30,0.71,0.0923,Up
+Aspirant's Climb (Promo),2026-03-30,27.81,0.0919,Up
+Scrapyard Champion,2026-03-30,0.12,0.0909,Up
+Long Sword,2026-03-30,0.24,0.0909,Up
+Harpoon Squad (Uncommon),2026-03-30,0.12,0.0909,Up
+Ahri - Inquisitive,2026-03-30,11.34,0.0904,Up
+Sett - Kingpin (Alternate Art),2026-03-30,2.23,0.0878,Up
+Jinx - Loose Cannon (Rare),2026-03-30,0.25,0.087,Up
+Sivir - Ambitious (Alternate Art),2026-03-30,1.88,0.0867,Up
+Teemo - Strategist,2026-03-30,3.82,0.0852,Up
+Meditation,2026-03-30,0.13,0.0833,Up
+Fortified Position,2026-03-30,0.13,0.0833,Up
+Renata Glasc - Chem-Baroness,2026-03-30,0.13,0.0833,Up
+Treasure Hunter (Common),2026-03-30,0.13,0.0833,Up
+Dropboarder,2026-03-30,0.13,0.0833,Up
+Garen - Commander (Epic),2026-03-30,2.61,0.083,Up
+Zenith Blade,2026-03-30,17.82,0.082,Up
+Sett - Kingpin,2026-03-30,0.53,0.0816,Up
+Mageseeker Warden,2026-03-30,0.27,0.08,Up
+Sivir - Battle Mistress,2026-03-30,0.14,0.0769,Up
+Ornn - Fire Below the Mountain,2026-03-30,0.14,0.0769,Up
+Sudden Storm,2026-03-30,0.14,0.0769,Up
+Heart of Dark Ice,2026-03-30,0.28,0.0769,Up
+Qiyana - Victorious,2026-03-30,3.3,0.0749,Up
+Promising Future,2026-03-30,0.29,0.0741,Up
+Volibear - Relentless Storm (Rare),2026-03-30,0.29,0.0741,Up
+Caitlyn - Patrolling (Promo),2026-03-30,29.12,0.0734,Up
+Kai'Sa - Daughter of the Void (Overnumbered),2026-03-30,210.76,0.072,Up
+Gemcraft Seer,2026-03-30,0.15,0.0714,Up
+Incinerate,2026-03-30,1.98,0.0703,Up
+Jinx - Loose Cannon (Overnumbered),2026-03-30,104.99,0.0675,Up
+Confront,2026-03-30,0.16,0.0667,Up
+Spoils of War,2026-03-30,0.16,0.0667,Up
+Fiora - Worthy,2026-03-30,0.64,0.0667,Up
+Sand Soldier // Buff,2026-03-30,0.16,0.0667,Up
+Body Rune (Alternate Art) (Showcase),2026-03-30,7.39,0.0648,Up
+Kato the Arm,2026-03-30,0.17,0.0625,Up
+Needlessly Large Yordle,2026-03-30,0.17,0.0625,Up
+Danger Zone,2026-03-30,0.69,0.0615,Up
+Seal of Rage (Overnumbered),2026-03-30,76.56,0.061,Up
+Lux - Crownguard (Promo),2026-03-30,34.39,0.0595,Up
+Albus Ferros,2026-03-30,0.18,0.0588,Up
+Shen - Kinkou,2026-03-30,1.45,0.0584,Up
+Discipline (Promo),2026-03-30,1.65,0.0577,Up
+Wizened Elder,2026-03-30,0.19,0.0556,Up
+Vi - Destructive (Promo),2026-03-30,91.02,0.0538,Up
+Spectral Matron,2026-03-30,0.41,0.0513,Up
+Fight or Flight,2026-03-30,0.21,0.05,Up
+Highlander (Epic),2026-03-30,1.33,0.0472,Up
+Ferrous Forerunner,2026-03-30,0.68,0.0462,Up
+Teemo - Scout (Promo),2026-03-30,3.42,0.0459,Up
+Blastcone Fae,2026-03-30,0.23,0.0455,Up
+Convergent Mutation,2026-03-30,0.23,0.0455,Up
+Relentless Pursuit,2026-03-30,3.24,0.0452,Up
+Xin Zhao - Vigilant,2026-03-30,0.47,0.0444,Up
+Kinkou Monk,2026-03-30,0.24,0.0435,Up
+Defiant Dance,2026-03-30,30.44,0.0428,Up
+Thousand-Tailed Watcher,2026-03-30,29.54,0.0427,Up
+Wraith of Echoes,2026-03-30,0.25,0.0417,Up
+Acceptable Losses,2026-03-30,0.25,0.0417,Up
+Cull the Weak,2026-03-30,0.25,0.0417,Up
+Stellacorn Herder (Promo),2026-03-30,4.56,0.0387,Up
+Ava Achiever,2026-03-30,0.27,0.0385,Up
+Heimerdinger - Inventor (Promo),2026-03-30,18.86,0.038,Up
+Seal of Focus (Overnumbered),2026-03-30,73.94,0.0378,Up
+Final Spark (Epic),2026-03-30,2.79,0.0372,Up
+Yasuo - Windrider (Alternate Art),2026-03-30,6.17,0.037,Up
+Leona - Radiant Dawn (Overnumbered),2026-03-30,85.91,0.0354,Up
+Salvage,2026-03-30,6.42,0.0338,Up
+Fiora - Worthy (Alternate Art),2026-03-30,4.39,0.0329,Up
+Zephyr Sage,2026-03-30,0.32,0.0323,Up
+Thermo Beam,2026-03-30,0.65,0.0317,Up
+Riptide Rex (Promo),2026-03-30,0.33,0.0313,Up
+Switcheroo,2026-03-30,0.33,0.0313,Up
+Fiora - Peerless (Alternate Art),2026-03-30,2.03,0.0305,Up
+Lucian - Merciless,2026-03-30,0.34,0.0303,Up
+Heimerdinger - Inventor (Promo),2026-03-30,282.74,0.0302,Up
+Ahri - Inquisitive (Alternate Art),2026-03-30,15.57,0.0298,Up
+Aphelios - Exalted,2026-03-30,0.35,0.0294,Up
+Volibear - Furious (Alternate Art),2026-03-30,5.28,0.0292,Up
+Lee Sin - Ascetic (Alternate Art),2026-03-30,4.95,0.0291,Up
+Void Seeker (Promo),2026-03-30,0.71,0.029,Up
+Sabotage,2026-03-30,10.83,0.0275,Up
+Volibear - Relentless Storm (Overnumbered),2026-03-30,71.1,0.0273,Up
+Darius - Hand of Noxus (Promo),2026-03-30,16.19,0.0273,Up
+Lux - Crownguard (Epic),2026-03-30,12.27,0.0259,Up
+Showstopper,2026-03-30,15.52,0.0251,Up
+Garen - Might of Demacia (Starter),2026-03-30,2.06,0.0249,Up
+Master Yi - Honed (Promo),2026-03-30,15.64,0.0249,Up
+Singularity,2026-03-30,3.48,0.0235,Up
+Viktor - Leader (Alternate Art),2026-03-30,6.67,0.023,Up
+Fiora - Victorious,2026-03-30,6.9,0.0207,Up
+Sett - The Boss (Overnumbered),2026-03-30,83.15,0.0204,Up
+Divine Judgment,2026-03-30,8.31,0.0196,Up
+Viktor - Herald of the Arcane (Overnumbered),2026-03-30,131.81,0.0195,Up
+Darius - Trifarian (Alternate Art),2026-03-30,11.69,0.0183,Up
+Lux - Illuminated (Rare),2026-03-30,1.72,0.0178,Up
+Jinx - Rebel (Epic),2026-03-30,6.37,0.0176,Up
+Fury Rune (Alternate Art) (Showcase),2026-03-30,6.65,0.0168,Up
+Gentlemen's Duel,2026-03-30,0.63,0.0161,Up
+Viktor - Innovator (Alternate Art),2026-03-30,4.45,0.016,Up
+Kai'Sa - Daughter of the Void (Signature),2026-03-30,2360.0,0.0138,Up
+Teemo - Swift Scout (Overnumbered),2026-03-30,89.15,0.0138,Up
+Bard - Mercurial (Overnumbered),2026-03-30,46.37,0.0138,Up
+Draven - Audacious (Alternate Art),2026-03-30,9.46,0.0128,Up
+Mind Rune (Alternate Art) (Showcase),2026-03-30,9.98,0.0122,Up
+Invert Timelines,2026-03-30,26.07,0.012,Up
+Bullet Time,2026-03-30,17.4,0.011,Up
+Decisive Strike (Epic),2026-03-30,0.97,0.0104,Up
+Viktor - Leader (Epic),2026-03-30,6.13,0.0099,Up
+Lucian - Gunslinger,2026-03-30,1.05,0.0096,Up
+Seal of Unity,2026-03-30,45.41,0.0093,Up
+Ahri - Nine-Tailed Fox (Promo),2026-03-30,65.0,0.0093,Up
+Sett - Brawler (Alternate Art),2026-03-30,40.71,0.0089,Up
+Miss Fortune - Buccaneer (Promo),2026-03-30,170.26,0.0085,Up
+Lee Sin - Blind Monk (Promo),2026-03-30,10.44,0.0077,Up
+Corina Veraza,2026-03-30,4.04,0.0075,Up
+Zhonya's Hourglass,2026-03-30,15.04,0.0067,Up
+Rek'Sai - Breacher (Alternate Art),2026-03-30,3.71,0.0054,Up
+Mind Rune (Alternate Art) (Showcase),2026-03-30,8.26,0.0036,Up
+Annie - Dark Child (Starter),2026-03-30,17.28,0.0035,Up
+Miss Fortune - Captain (Alternate Art),2026-03-30,19.08,0.0005,Up
+Blazing Scorcher (Common),2026-03-30,0.08,0.0,Flat
+Cleave,2026-03-30,0.12,0.0,Flat
+Flame Chompers,2026-03-30,0.06,0.0,Flat
+Ravenborn Tome,2026-03-30,0.14,0.0,Flat
+Calm Rune (Alternate Art) (Showcase),2026-03-30,10.95,0.0,Flat
+Charm,2026-03-30,0.37,0.0,Flat
+Playful Phantom,2026-03-30,0.05,0.0,Flat
+Orb of Regret,2026-03-30,0.05,0.0,Flat
+Smoke Screen,2026-03-30,0.15,0.0,Flat
+Stupefy,2026-03-30,0.2,0.0,Flat
+Energy Conduit,2026-03-30,0.14,0.0,Flat
+Garbage Grabber,2026-03-30,0.19,0.0,Flat
+Mobilize,2026-03-30,0.12,0.0,Flat
+Pit Rookie,2026-03-30,0.13,0.0,Flat
+Stormclaw Ursine (Common),2026-03-30,0.06,0.0,Flat
+Cithria of Cloudfield,2026-03-30,0.13,0.0,Flat
+Mountain Drake,2026-03-30,0.09,0.0,Flat
+Wallop,2026-03-30,0.21,0.0,Flat
+Volibear - Imposing (Alternate Art),2026-03-30,4.77,0.0,Flat
+Mystic Poro (Common),2026-03-30,0.08,0.0,Flat
+Sai Scout,2026-03-30,0.03,0.0,Flat
+Sneaky Deckhand,2026-03-30,0.23,0.0,Flat
+Stealthy Pursuer (Common),2026-03-30,0.11,0.0,Flat
+Undercover Agent,2026-03-30,0.05,0.0,Flat
+Fading Memories,2026-03-30,0.16,0.0,Flat
+Pack of Wonders,2026-03-30,0.22,0.0,Flat
+Scrapheap,2026-03-30,0.26,0.0,Flat
+The Syren,2026-03-30,0.25,0.0,Flat
+Traveling Merchant,2026-03-30,0.18,0.0,Flat
+Twisted Fate - Gambler,2026-03-30,0.31,0.0,Flat
+Vanguard Captain (Common),2026-03-30,0.22,0.0,Flat
+Facebreaker,2026-03-30,0.23,0.0,Flat
+Peak Guardian,2026-03-30,0.15,0.0,Flat
+Vanguard Helm,2026-03-30,0.14,0.0,Flat
+Altar to Unity,2026-03-30,0.09,0.0,Flat
+Bandle Tree (Uncommon),2026-03-30,0.18,0.0,Flat
+Reckoner's Arena,2026-03-30,0.15,0.0,Flat
+The Grand Plaza (Uncommon),2026-03-30,0.14,0.0,Flat
+Zaun Warrens,2026-03-30,0.19,0.0,Flat
+Volibear - Relentless Storm (Signature),2026-03-30,698.18,0.0,Flat
+Jinx - Loose Cannon (Signature),2026-03-30,960.52,0.0,Flat
+Darius - Hand of Noxus (Signature),2026-03-30,619.99,0.0,Flat
+Ahri - Nine-Tailed Fox (Signature),2026-03-30,1925.94,0.0,Flat
+Lee Sin - Blind Monk (Signature),2026-03-30,807.68,0.0,Flat
+Yasuo - Unforgiven (Signature),2026-03-30,759.04,0.0,Flat
+Leona - Radiant Dawn (Signature),2026-03-30,711.78,0.0,Flat
+Teemo - Swift Scout (Signature),2026-03-30,880.64,0.0,Flat
+Viktor - Herald of the Arcane (Signature),2026-03-30,778.85,0.0,Flat
+Miss Fortune - Bounty Hunter (Signature),2026-03-30,1005.06,0.0,Flat
+Sett - The Boss (Signature),2026-03-30,841.62,0.0,Flat
+Vanguard Attendant,2026-03-30,0.3,0.0,Flat
+Pakaa Cub (Promo),2026-03-30,0.33,0.0,Flat
+Blazing Scorcher (Promo),2026-03-30,0.28,0.0,Flat
+Wielder of Water (Promo),2026-03-30,0.26,0.0,Flat
+Mystic Poro (Common),2026-03-30,0.3,0.0,Flat
+Irelia - Blade Dancer,2026-03-30,0.16,0.0,Flat
+Feral Strength,2026-03-30,0.06,0.0,Flat
+Fortified Position (Oversized),2026-03-30,4.14,0.0,Flat
+Startipped Peak (Oversized),2026-03-30,5.84,0.0,Flat
+Trifarian War Camp (Oversized),2026-03-30,3.82,0.0,Flat
+Void Gate (Oversized),2026-03-30,2.68,0.0,Flat
+Here to Help,2026-03-30,0.23,0.0,Flat
+Rumble - Mechanized Menace,2026-03-30,0.11,0.0,Flat
+Vayne - Hunter (Signature),2026-03-30,1217.01,0.0,Flat
+Called Shot,2026-03-30,0.12,0.0,Flat
+B.F. Sword,2026-03-30,0.21,0.0,Flat
+Loyal Pup,2026-03-30,0.05,0.0,Flat
+Power Nexus,2026-03-30,0.12,0.0,Flat
+Gem Jammer (Common),2026-03-30,0.06,0.0,Flat
+Ravenbloom Conservatory,2026-03-30,0.11,0.0,Flat
+Frostcoat Cub (Common),2026-03-30,0.05,0.0,Flat
+Bubble Bot,2026-03-30,0.05,0.0,Flat
+Yordle Explorer,2026-03-30,0.05,0.0,Flat
+Undertitan,2026-03-30,0.24,0.0,Flat
+Jae Medarda,2026-03-30,0.15,0.0,Flat
+Aspiring Engineer,2026-03-30,0.03,0.0,Flat
+Ornn's Forge,2026-03-30,0.1,0.0,Flat
+Rek'Sai - Breacher,2026-03-30,1.95,0.0,Flat
+Drag Under,2026-03-30,0.17,0.0,Flat
+Royal Guard,2026-03-30,0.05,0.0,Flat
+Bonds of Strength,2026-03-30,0.07,0.0,Flat
+Apprentice Smith,2026-03-30,0.12,0.0,Flat
+Card Sharp,2026-03-30,0.34,0.0,Flat
+Fiora - Peerless,2026-03-30,0.15,0.0,Flat
+Sivir - Mercenary,2026-03-30,0.2,0.0,Flat
+Soraka - Wanderer (Signature),2026-03-30,819.24,0.0,Flat
+Armed Assailant,2026-03-30,0.03,0.0,Flat
+Sentinel Adept,2026-03-30,0.04,0.0,Flat
+Perched Grimwyrm,2026-03-30,0.09,0.0,Flat
+Recurve Bow,2026-03-30,0.09,0.0,Flat
+Fae Porter,2026-03-30,0.04,0.0,Flat
+Master Bingwen,2026-03-30,0.03,0.0,Flat
+Navori Scout (Common),2026-03-30,0.04,0.0,Flat
+Temptation,2026-03-30,0.08,0.0,Flat
+Ancient Warmonger,2026-03-30,0.06,0.0,Flat
+Factory Recall,2026-03-30,0.1,0.0,Flat
+Simian Ancestor,2026-03-30,0.14,0.0,Flat
+Eminent Benefactor,2026-03-30,0.03,0.0,Flat
+Guards!,2026-03-30,0.07,0.0,Flat
+Laurent Duelist (Common),2026-03-30,0.02,0.0,Flat
+Forecaster,2026-03-30,0.05,0.0,Flat
+Gearhead,2026-03-30,0.03,0.0,Flat
+Zaun Punk,2026-03-30,0.07,0.0,Flat
+Blood Money,2026-03-30,0.16,0.0,Flat
+Emperor's Dais,2026-03-30,0.12,0.0,Flat
+Forge of the Fluft,2026-03-30,0.09,0.0,Flat
+Seat of Power,2026-03-30,0.1,0.0,Flat
+Sunken Temple,2026-03-30,0.11,0.0,Flat
+Laurent Bladekeeper,2026-03-30,0.04,0.0,Flat
+Kai'Sa - Daughter of the Void (Metal),2026-03-30,1999.0,0.0,Flat
+Volibear - Relentless Storm (Metal),2026-03-30,1400.0,0.0,Flat
+Darius - Hand of Noxus (Metal),2026-03-30,999.95,-0.0,Flat
+Ahri - Nine-Tailed Fox (Metal),2026-03-30,4999.99,0.0,Flat
+Lee Sin - Blind Monk (Metal),2026-03-30,1299.99,0.0,Flat
+Teemo - Swift Scout (Metal),2026-03-30,1.0,0.0,Flat
+Master Yi - Wuju Bladesman (Metal),2026-03-30,1935.0,0.0,Flat
+Garen - Might of Demacia (Metal),2026-03-30,1349.99,0.0,Flat
+Mind Rune (Common),2026-03-30,0.09,0.0,Flat
+Teemo - Strategist (Overnumbered),2026-03-30,59.04,-0.0005,Down
+The Grand Plaza (Promo),2026-03-30,14.62,-0.0007,Down
+Master Yi - Wuju Bladesman (Starter),2026-03-30,14.11,-0.0014,Down
+Irelia - Fervent (Signature),2026-03-30,1653.22,-0.0017,Down
+Karma - Channeler (Overnumbered),2026-03-30,41.04,-0.0022,Down
+Leona - Radiant Dawn (Promo),2026-03-30,14.62,-0.0034,Down
+Lux - Lady of Luminosity (Starter),2026-03-30,22.95,-0.0035,Down
+Chaos Rune (R05b),2026-03-30,31.61,-0.0038,Down
+Tianna Crownguard,2026-03-30,5.11,-0.0039,Down
+Jinx - Rebel (Promo),2026-03-30,74.17,-0.0044,Down
+Volibear - Relentless Storm (Promo),2026-03-30,11.61,-0.0051,Down
+Ahri - Inquisitive (Signature),2026-03-30,2717.05,-0.0054,Down
+Yasuo - Unforgiven (Overnumbered),2026-03-30,78.02,-0.0066,Down
+Lee Sin - Ascetic (Epic),2026-03-30,1.31,-0.0076,Down
+Sett - The Boss (Promo),2026-03-30,15.12,-0.0079,Down
+Siphon Power,2026-03-30,4.42,-0.009,Down
+Noxian Guillotine,2026-03-30,1.88,-0.0105,Down
+Viktor - Leader (Promo),2026-03-30,11.3,-0.0105,Down
+Yone - Blademaster (Signature),2026-03-30,571.9,-0.0105,Down
+Seal of Discord,2026-03-30,64.37,-0.0109,Down
+Viktor - Leader (Promo),2026-03-30,58.25,-0.012,Down
+Lee Sin - Blind Monk (Overnumbered),2026-03-30,81.19,-0.0135,Down
+Lucian - Purifier (Overnumbered),2026-03-30,58.06,-0.0141,Down
+Seal of Insight,2026-03-30,34.87,-0.0144,Down
+Warwick - Hunter (Rare),2026-03-30,0.66,-0.0149,Down
+Seal of Insight (Overnumbered),2026-03-30,78.74,-0.0158,Down
+Sett - Brawler (Signature),2026-03-30,654.19,-0.0162,Down
+Tideturner,2026-03-30,1.18,-0.0167,Down
+Master Yi - Meditative (Rare),2026-03-30,1.72,-0.0171,Down
+Yasuo - Windrider (Overnumbered),2026-03-30,47.08,-0.0171,Down
+Teemo - Scout (Rare),2026-03-30,0.57,-0.0172,Down
+Warwick - Hunter (Promo),2026-03-30,19.08,-0.0175,Down
+Jax - Grandmaster At Arms (Overnumbered),2026-03-30,67.86,-0.0179,Down
+Annie - Dark Child,2026-03-30,31.81,-0.0179,Down
+Darius - Executioner (Overnumbered),2026-03-30,38.16,-0.018,Down
+Sivir - Battle Mistress (Overnumbered),2026-03-30,51.95,-0.0183,Down
+Recruit the Vanguard,2026-03-30,4.73,-0.0187,Down
+Rek'sai - Void Burrower (Overnumbered),2026-03-30,81.8,-0.0187,Down
+Yone - Blademaster (Overnumbered),2026-03-30,67.04,-0.0187,Down
+Skyfall of Areion,2026-03-30,11.15,-0.0193,Down
+Ahri - Nine-Tailed Fox (Overnumbered),2026-03-30,220.86,-0.0197,Down
+Treasure Hunter (Promo),2026-03-30,0.97,-0.0202,Down
+Chaos Rune (Alternate Art) (Showcase),2026-03-30,13.84,-0.0205,Down
+Bard - Mercurial (Signature),2026-03-30,562.4,-0.0211,Down
+Garen - Rugged (Rare),2026-03-30,1.36,-0.0216,Down
+Vayne - Hunter (Overnumbered),2026-03-30,94.89,-0.0223,Down
+Soraka - Wanderer (Overnumbered),2026-03-30,70.26,-0.0239,Down
+Kai'Sa - Daughter of the Void (Rare),2026-03-30,0.4,-0.0244,Down
+Rebuke,2026-03-30,0.39,-0.025,Down
+Karma - Channeler (Signature),2026-03-30,444.61,-0.0251,Down
+Ezreal - Prodigy,2026-03-30,26.71,-0.0252,Down
+Immortal Phoenix,2026-03-30,27.3,-0.0253,Down
+Kai'Sa - Survivor,2026-03-30,86.43,-0.0259,Down
+Darius - Executioner (Signature),2026-03-30,421.01,-0.0263,Down
+Mind Rune (R03b),2026-03-30,19.46,-0.027,Down
+Vengeance (Promo),2026-03-30,0.35,-0.0278,Down
+Miss Fortune - Captain,2026-03-30,9.65,-0.0282,Down
+Leona - Determined,2026-03-30,0.67,-0.029,Down
+Blast of Power,2026-03-30,4.73,-0.0307,Down
+Master Yi - Honed (Epic),2026-03-30,4.02,-0.0313,Down
+Garen - Commander (Promo),2026-03-30,6.62,-0.0322,Down
+Guerilla Warfare,2026-03-30,6.42,-0.0331,Down
+Decisive Strike (Promo),2026-03-30,3.14,-0.0338,Down
+Mystic Reversal,2026-03-30,4.27,-0.0339,Down
+Teemo - Swift Scout (Alternate Art),2026-03-30,197.43,-0.0349,Down
+The Arena's Greatest,2026-03-30,0.27,-0.0357,Down
+Vilemaw's Lair,2026-03-30,0.27,-0.0357,Down
+Stormclaw Ursine (Promo),2026-03-30,0.27,-0.0357,Down
+Chaos Rune (Alternate Art) (Showcase),2026-03-30,12.19,-0.0371,Down
+Pouty Poro (Promo),2026-03-30,0.51,-0.0377,Down
+Ravenbloom Student (Promo),2026-03-30,0.74,-0.039,Down
+Darius - Hand of Noxus (Overnumbered),2026-03-30,56.93,-0.0392,Down
+Time Warp,2026-03-30,79.73,-0.0393,Down
+Void Seeker (Uncommon),2026-03-30,0.24,-0.04,Down
+Spirit's Refuge,2026-03-30,0.24,-0.04,Down
+Viktor - Herald of the Arcane (Promo),2026-03-30,12.44,-0.0401,Down
+Ahri - Nine-Tailed Fox (Rare),2026-03-30,1.43,-0.0403,Down
+Unchecked Power,2026-03-30,22.79,-0.0412,Down
+Ravenbloom Student (Uncommon),2026-03-30,0.23,-0.0417,Down
+Ezreal - Dashing,2026-03-30,0.23,-0.0417,Down
+Annie - Stubborn (Promo),2026-03-30,27.75,-0.0418,Down
+Rumble - Mechanized Menace (Overnumbered),2026-03-30,47.61,-0.0422,Down
+Seal of Rage,2026-03-30,33.1,-0.0425,Down
+Heimerdinger - Inventor (Rare),2026-03-30,0.42,-0.0455,Down
+Teemo - Scout (GG EZ),2026-03-30,651.79,-0.046,Down
+Deadbloom Predator,2026-03-30,42.63,-0.0484,Down
+Renata Glasc - Mastermind,2026-03-30,1.18,-0.0484,Down
+Fury Rune (Promo),2026-03-30,6.03,-0.0489,Down
+Calm Rune (Alternate Art) (Showcase),2026-03-30,9.06,-0.0493,Down
+Mask of Foresight,2026-03-30,0.19,-0.05,Down
+Jayce - Man of Progress,2026-03-30,0.38,-0.05,Down
+Ahri - Inquisitive (Overnumbered),2026-03-30,381.29,-0.0515,Down
+Order Rune (Alternate Art) (Showcase),2026-03-30,9.92,-0.0516,Down
+Portal Rescue,2026-03-30,0.18,-0.0526,Down
+Maddened Marauder,2026-03-30,0.18,-0.0526,Down
+Sigil of the Storm,2026-03-30,0.18,-0.0526,Down
+Targon's Peak,2026-03-30,0.18,-0.0526,Down
+Whiteflame Protector,2026-03-30,14.41,-0.0538,Down
+Sett - Brawler,2026-03-30,36.5,-0.0539,Down
+Sett - Brawler (Overnumbered),2026-03-30,89.73,-0.0539,Down
+Calm Rune (R02b),2026-03-30,27.65,-0.0547,Down
+Azir - Emperor of the Sands (Overnumbered),2026-03-30,94.03,-0.0553,Down
+Lux - Lady of Luminosity,2026-03-30,38.06,-0.0568,Down
+The Harrowing,2026-03-30,0.33,-0.0571,Down
+Firestorm,2026-03-30,0.49,-0.0577,Down
+Mind Rune (Promo),2026-03-30,6.81,-0.0581,Down
+Unsung Hero (Promo),2026-03-30,0.79,-0.0595,Down
+Tibbers (Promo),2026-03-30,10.45,-0.0611,Down
+Adaptatron,2026-03-30,0.46,-0.0612,Down
+Irelia - Blade Dancer (Overnumbered),2026-03-30,135.94,-0.0616,Down
+Stacked Deck (Uncommon),2026-03-30,6.04,-0.0621,Down
+Seal of Discord (Overnumbered),2026-03-30,140.02,-0.0627,Down
+Lucian - Merciless (Alternate Art),2026-03-30,6.4,-0.063,Down
+Mindsplitter,2026-03-30,6.29,-0.064,Down
+Vayne - Hunter,2026-03-30,0.73,-0.0641,Down
+Dragon's Rage,2026-03-30,3.2,-0.0643,Down
+Aphelios - Exalted (Signature),2026-03-30,611.03,-0.0643,Down
+Body Rune (Alternate Art) (Showcase),2026-03-30,5.91,-0.0649,Down
+Azir - Sovereign,2026-03-30,2.72,-0.0653,Down
+Fury Rune (R01b),2026-03-30,21.45,-0.0654,Down
+Kai'Sa - Daughter of the Void (Promo),2026-03-30,25.51,-0.0666,Down
+Yasuo - Unforgiven (Rare),2026-03-30,0.28,-0.0667,Down
+Azir - Emperor of the Sands,2026-03-30,0.14,-0.0667,Down
+Irelia - Fervent (Alternate Art),2026-03-30,11.15,-0.0669,Down
+Arise!,2026-03-30,14.01,-0.0679,Down
+Fiora - Grand Duelist (Overnumbered),2026-03-30,98.77,-0.0686,Down
+Leona - Radiant Dawn (Rare),2026-03-30,0.27,-0.069,Down
+Rek'Sai - Swarm Queen,2026-03-30,0.27,-0.069,Down
+Yasuo - Windrider (Signature),2026-03-30,534.54,-0.0693,Down
+Stormbringer,2026-03-30,9.7,-0.0709,Down
+Renata Glasc - Chem-Baroness (Overnumbered),2026-03-30,54.93,-0.0709,Down
+Cannon Barrage,2026-03-30,0.13,-0.0714,Down
+Warmog's Armor,2026-03-30,0.13,-0.0714,Down
+Windsinger,2026-03-30,0.13,-0.0714,Down
+Master Yi - Meditative (Promo),2026-03-30,6.67,-0.0736,Down
+Dazzling Aurora,2026-03-30,92.02,-0.0742,Down
+Laurent Duelist (Promo),2026-03-30,0.74,-0.075,Down
+Lee Sin - Ascetic (Promo),2026-03-30,8.65,-0.0768,Down
+Vengeance (Uncommon),2026-03-30,0.24,-0.0769,Down
+Navori Fighting Pit,2026-03-30,0.12,-0.0769,Down
+Unsung Hero (Uncommon),2026-03-30,0.12,-0.0769,Down
+Hall of Legends,2026-03-30,0.12,-0.0769,Down
+Teemo - Swift Scout (Promo),2026-03-30,19.84,-0.0772,Down
+Lee Sin - Blind Monk (Rare),2026-03-30,0.23,-0.08,Down
+Yasuo - Unforgiven (Promo),2026-03-30,14.21,-0.0803,Down
+Sett - The Boss (Rare),2026-03-30,0.34,-0.0811,Down
+Vanguard Captain (Promo),2026-03-30,0.34,-0.0811,Down
+Akshan - Mischievous,2026-03-30,1.01,-0.0818,Down
+Falling Star,2026-03-30,8.94,-0.0821,Down
+Boots of Swiftness,2026-03-30,0.22,-0.0833,Down
+Fae Dragon (Uncommon),2026-03-30,0.11,-0.0833,Down
+Kai'Sa - Survivor (Alternate Art),2026-03-30,90.14,-0.0854,Down
+Icathian Rain,2026-03-30,8.5,-0.086,Down
+Jax - Unrelenting (Alternate Art),2026-03-30,2.02,-0.086,Down
+Possession,2026-03-30,5.88,-0.087,Down
+Yone - Blademaster (Promo),2026-03-30,0.42,-0.087,Down
+Draven - Glorious Executioner (Overnumbered),2026-03-30,113.04,-0.0871,Down
+Lux - Illuminated (Promo),2026-03-30,5.77,-0.0885,Down
+Dunebreaker,2026-03-30,2.47,-0.0886,Down
+Aphelios - Exalted (Overnumbered),2026-03-30,79.97,-0.0887,Down
+Teemo - Strategist (Signature),2026-03-30,682.14,-0.0904,Down
+Get Excited!,2026-03-30,0.1,-0.0909,Down
+Unlicensed Armory,2026-03-30,0.2,-0.0909,Down
+Arena Bar,2026-03-30,0.1,-0.0909,Down
+Monastery of Hirana,2026-03-30,0.2,-0.0909,Down
+Treasure Hoard,2026-03-30,0.1,-0.0909,Down
+Azir - Ascendant (Alternate Art),2026-03-30,1.2,-0.0909,Down
+Rally the Troops,2026-03-30,0.2,-0.0909,Down
+Veiled Temple,2026-03-30,0.1,-0.0909,Down
+Petricite Monument,2026-03-30,0.1,-0.0909,Down
+Tryndamere - Barbarian (Rare),2026-03-30,0.29,-0.0938,Down
+Irelia - Fervent (Overnumbered),2026-03-30,190.18,-0.0939,Down
+Doran's Shield (Promo),2026-03-30,0.77,-0.0941,Down
+Volibear - Furious,2026-03-30,2.48,-0.0949,Down
+Lecturing Yordle,2026-03-30,0.19,-0.0952,Down
+Battering Ram,2026-03-30,0.19,-0.0952,Down
+Body Rune (Promo),2026-03-30,5.28,-0.0959,Down
+Jax - Unmatched (Alternate Art),2026-03-30,2.92,-0.096,Down
+Garen - Rugged (Promo),2026-03-30,10.13,-0.0963,Down
+King's Edict,2026-03-30,0.28,-0.0968,Down
+Leona - Determined (Alternate Art),2026-03-30,5.66,-0.0973,Down
+Baited Hook,2026-03-30,63.53,-0.0978,Down
+Kayn - Unleashed,2026-03-30,0.46,-0.098,Down
+Seal of Focus,2026-03-30,31.98,-0.0992,Down
+Annie - Fiery (Promo),2026-03-30,9.16,-0.1002,Down
+Bellows Breath,2026-03-30,1.05,-0.1026,Down
+Fury Rune (Alternate Art) (Showcase),2026-03-30,8.53,-0.103,Down
+Block,2026-03-30,0.26,-0.1034,Down
+Nocturne - Horrifying,2026-03-30,3.54,-0.1038,Down
+Stalwart Poro (Promo),2026-03-30,0.6,-0.1045,Down
+Premonition,2026-03-30,4.06,-0.1057,Down
+Tryndamere - Barbarian (Promo),2026-03-30,1.1,-0.1057,Down
+Garen - Might of Demacia,2026-03-30,17.12,-0.1074,Down
+Volibear - Imposing,2026-03-30,0.49,-0.1091,Down
+Iron Ballista,2026-03-30,0.16,-0.1111,Down
+Jax - Unmatched,2026-03-30,0.16,-0.1111,Down
+Emperor's Divide,2026-03-30,0.16,-0.1111,Down
+Cloth Armor (Promo),2026-03-30,0.79,-0.1124,Down
+Darius - Executioner,2026-03-30,1.87,-0.1137,Down
+Sivir - Ambitious,2026-03-30,0.62,-0.1143,Down
+Trifarian War Camp,2026-03-30,0.23,-0.1154,Down
+Reinforce,2026-03-30,0.15,-0.1176,Down
+Glasc Mixologist,2026-03-30,0.15,-0.1176,Down
+On the Hunt,2026-03-30,1.03,-0.1197,Down
+Lucian - Gunslinger (Alternate Art),2026-03-30,1.69,-0.1198,Down
+Windswept Hillock,2026-03-30,0.22,-0.12,Down
+Ruin Runner,2026-03-30,0.22,-0.12,Down
+Ride The Wind,2026-03-30,0.5,-0.1228,Down
+Stellacorn Herder (Uncommon),2026-03-30,0.64,-0.1233,Down
+Highlander (Promo),2026-03-30,5.2,-0.1246,Down
+Thwonk!,2026-03-30,0.07,-0.125,Down
+Rockfall Path,2026-03-30,0.07,-0.125,Down
+Calm Rune (Common),2026-03-30,0.07,-0.125,Down
+Guardian Angel,2026-03-30,1.65,-0.127,Down
+Wind Wall,2026-03-30,2.52,-0.128,Down
+Catalyst of Aeons,2026-03-30,0.61,-0.1286,Down
+Harnessed Dragon,2026-03-30,1.58,-0.1319,Down
+Recruit (271) // Buff,2026-03-30,0.13,-0.1333,Down
+Defy,2026-03-30,1.72,-0.1357,Down
+Solari Chief,2026-03-30,0.19,-0.1364,Down
+Renata Glasc - Industrialist,2026-03-30,0.19,-0.1364,Down
+Counter Strike,2026-03-30,7.76,-0.1368,Down
+Eye of the Herald (Promo),2026-03-30,0.75,-0.1379,Down
+Azir - Sovereign (Alternate Art),2026-03-30,3.64,-0.1395,Down
+Doran's Ring (Promo),2026-03-30,0.74,-0.1395,Down
+Primal Strength,2026-03-30,0.43,-0.14,Down
+Rhasa the Sunderer,2026-03-30,2.82,-0.1402,Down
+Body Rune (R04b),2026-03-30,16.01,-0.1416,Down
+Last Breath,2026-03-30,3.93,-0.1419,Down
+Grove of the God-Willow,2026-03-30,0.24,-0.1429,Down
+Eager Drakehound,2026-03-30,0.06,-0.1429,Down
+Rumble - Hotheaded,2026-03-30,0.18,-0.1429,Down
+Show of Strength,2026-03-30,0.12,-0.1429,Down
+Body Rune (Common),2026-03-30,0.06,-0.1429,Down
+Frostcoat Cub (Promo),2026-03-30,0.36,-0.1429,Down
+Seal of Strength,2026-03-30,23.09,-0.148,Down
+Aspirant's Climb (Uncommon),2026-03-30,0.23,-0.1481,Down
+Edge of Night,2026-03-30,0.23,-0.1481,Down
+Ornn - Blacksmith,2026-03-30,0.9,-0.1509,Down
+Boneshiver (Promo),2026-03-30,103.72,-0.1512,Down
+Raging Firebrand,2026-03-30,0.22,-0.1538,Down
+Sprite Call,2026-03-30,0.11,-0.1538,Down
+Pirate's Haven,2026-03-30,0.11,-0.1538,Down
+Whirlwind,2026-03-30,0.11,-0.1538,Down
+Vex - Cheerless,2026-03-30,1.13,-0.1567,Down
+Janna - Savior,2026-03-30,0.37,-0.1591,Down
+Production Surge (Promo),2026-03-30,0.58,-0.1594,Down
+Brynhir Thundersong,2026-03-30,7.46,-0.1599,Down
+Yone - Blademaster (Rare),2026-03-30,0.21,-0.16,Down
+Sprite Mother,2026-03-30,0.61,-0.1644,Down
+Raging Soul,2026-03-30,0.1,-0.1667,Down
+Solari Shieldbearer,2026-03-30,0.1,-0.1667,Down
+Chaos Rune (Common),2026-03-30,0.2,-0.1667,Down
+Sterak's Gage,2026-03-30,0.2,-0.1667,Down
+Void Drone,2026-03-30,0.05,-0.1667,Down
+Royal Entourage,2026-03-30,0.05,-0.1667,Down
+Direwing,2026-03-30,0.05,-0.1667,Down
+Mech // Buff,2026-03-30,0.1,-0.1667,Down
+Ornn - Fire Below the Mountain (Overnumbered),2026-03-30,56.75,-0.1674,Down
+Stacked Deck (Promo),2026-03-30,5.66,-0.1713,Down
+Ahri - Alluring (Launch Exclusive),2026-03-30,121.93,-0.1721,Down
+Draven - Vanquisher (Alternate Art),2026-03-30,3.15,-0.1754,Down
+Poro Snax,2026-03-30,0.14,-0.1765,Down
+Irelia - Graceful (Alternate Art),2026-03-30,1.42,-0.1792,Down
+Spinning Axe,2026-03-30,4.93,-0.1797,Down
+Soulgorger,2026-03-30,0.5,-0.1803,Down
+Calm Rune (Common),2026-03-30,0.18,-0.1818,Down
+Trifarian Gloryseeker,2026-03-30,0.09,-0.1818,Down
+Reaver's Row,2026-03-30,0.18,-0.1818,Down
+Buhru Captain,2026-03-30,0.09,-0.1818,Down
+Marching Orders,2026-03-30,0.18,-0.1818,Down
+Temporal Portal,2026-03-30,0.09,-0.1818,Down
+Final Spark (Promo),2026-03-30,12.47,-0.1818,Down
+Svellsongur,2026-03-30,17.97,-0.1832,Down
+Last Rites,2026-03-30,18.89,-0.1837,Down
+Piercing Light,2026-03-30,0.44,-0.1852,Down
+Find Your Center,2026-03-30,0.17,-0.1905,Down
+Order Rune (R06b),2026-03-30,18.2,-0.1918,Down
+Soraka - Wanderer,2026-03-30,0.25,-0.1935,Down
+Harpoon Squad (Promo),2026-03-30,0.5,-0.1935,Down
+Riposte,2026-03-30,1.96,-0.1967,Down
+Disintegrate,2026-03-30,0.08,-0.2,Down
+Cruel Patron,2026-03-30,0.08,-0.2,Down
+Void Gate,2026-03-30,0.2,-0.2,Down
+Guardian of the Passage,2026-03-30,0.04,-0.2,Down
+Detonate,2026-03-30,0.08,-0.2,Down
+Beast Below,2026-03-30,0.08,-0.2,Down
+Combat Chef,2026-03-30,0.04,-0.2,Down
+Jax - Unrelenting,2026-03-30,1.59,-0.205,Down
+Not So Fast,2026-03-30,1.04,-0.2061,Down
+Gem Jammer (Promo),2026-03-30,0.57,-0.2083,Down
+Renata Glasc - Industrialist (Alternate Art),2026-03-30,1.25,-0.2089,Down
+Body Rune (Common),2026-03-30,0.15,-0.2105,Down
+Zaunite Bouncer,2026-03-30,0.15,-0.2105,Down
+Navori Scout (Promo),2026-03-30,0.99,-0.2143,Down
+Rek'Sai - Swarm Queen (Alternate Art),2026-03-30,1.07,-0.219,Down
+Hidden Blade,2026-03-30,0.95,-0.2213,Down
+Irelia - Fervent,2026-03-30,6.57,-0.2216,Down
+Herald of Scales,2026-03-30,0.21,-0.2222,Down
+Trinity Force,2026-03-30,0.28,-0.2222,Down
+Shurelya's Requiem,2026-03-30,0.56,-0.2222,Down
+Fae Dragon (Promo),2026-03-30,0.61,-0.2278,Down
+Hexdrinker,2026-03-30,0.1,-0.2308,Down
+Ancient Henge,2026-03-30,3.25,-0.2335,Down
+Noxian Drummer,2026-03-30,0.16,-0.2381,Down
+Ezreal - Prodigal Explorer (Overnumbered),2026-03-30,90.07,-0.2381,Down
+Arcane Shift,2026-03-30,2.87,-0.2387,Down
+Rumble - Scrapper,2026-03-30,0.87,-0.2435,Down
+Imperial Decree,2026-03-30,2.08,-0.2436,Down
+Ornn - Forge God (Alternate Art),2026-03-30,2.48,-0.2485,Down
+Boneshiver (Epic),2026-03-30,17.64,-0.249,Down
+Shipyard Skulker,2026-03-30,0.03,-0.25,Down
+Assembly Rig,2026-03-30,0.12,-0.25,Down
+Desert's Call,2026-03-30,0.06,-0.25,Down
+Cloth Armor (Common),2026-03-30,0.06,-0.25,Down
+The Papertree,2026-03-30,0.09,-0.25,Down
+Chaos Rune (Promo),2026-03-30,9.42,-0.2518,Down
+Fizz - Trickster,2026-03-30,0.65,-0.2614,Down
+Sea Monkey (Promo),2026-03-30,0.72,-0.2653,Down
+Fiora - Grand Duelist,2026-03-30,0.11,-0.2667,Down
+Hard Bargain,2026-03-30,0.3,-0.2683,Down
+The Dreaming Tree,2026-03-30,0.73,-0.27,Down
+Mind Rune (Common),2026-03-30,0.16,-0.2727,Down
+World Atlas,2026-03-30,0.16,-0.2727,Down
+Strike Down,2026-03-30,0.08,-0.2727,Down
+Dauntless Vanguard,2026-03-30,0.05,-0.2857,Down
+Chaos Rune (Common),2026-03-30,0.05,-0.2857,Down
+Hostile Takeover,2026-03-30,1.91,-0.2873,Down
+Draven - Glorious Executioner,2026-03-30,0.12,-0.2941,Down
+Ezreal - Prodigal Explorer,2026-03-30,0.12,-0.2941,Down
+Challenge (Promo),2026-03-30,0.91,-0.2946,Down
+Plundering Poro,2026-03-30,0.07,-0.3,Down
+Against the Odds,2026-03-30,0.07,-0.3,Down
+Void Hatchling,2026-03-30,0.07,-0.3,Down
+Eye of the Herald (Common),2026-03-30,0.07,-0.3,Down
+Minefield,2026-03-30,0.07,-0.3,Down
+Hextech Anomaly,2026-03-30,0.15,-0.3182,Down
+Order Rune (Common),2026-03-30,0.17,-0.32,Down
+Wages of Pain,2026-03-30,0.1,-0.3333,Down
+Downwell,2026-03-30,4.22,-0.3577,Down
+Fury Rune (Common),2026-03-30,0.14,-0.3636,Down
+Chemtech Cask,2026-03-30,0.07,-0.3636,Down
+Spirit Wheel,2026-03-30,0.14,-0.3636,Down
+Blade of the Ruined King,2026-03-30,5.85,-0.3669,Down
+Veteran Poro,2026-03-30,0.05,-0.375,Down
+Void Rush,2026-03-30,4.25,-0.4039,Down
+Prize of Progress,2026-03-30,0.05,-0.4444,Down

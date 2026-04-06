@@ -223,7 +223,7 @@ ranked AS (
 SELECT
     r.card_name,
     c.rarity,
-    c.type,
+    c.card_type,
     c.domain,
     r.week,
     r.avg_price,
@@ -294,7 +294,7 @@ SELECT
     ROUND(AVG(CASE WHEN ph.qty_sold > 0
                    THEN ph.market_price END), 4) AS avg_price_active_weeks
 FROM cards c
-JOIN price_history ph ON ph.product_id = c.tcgplayer_product_id
+JOIN price_history ph ON ph.product_id = c.product_id
 GROUP BY c.rarity
 ORDER BY avg_market_price DESC;
 """
