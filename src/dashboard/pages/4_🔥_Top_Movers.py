@@ -55,7 +55,7 @@ display_df = df_top[["card_display", "price", "pct_change_1w", "direction"]].ren
 
 styled = (
     display_df.style
-    .applymap(_color_direction, subset=["Direction"])
+    .map(_color_direction, subset=["Direction"])
     .format({"Price": "${:.2f}", "% Change": "{:+.2%}"})
 )
 st.dataframe(styled, width='stretch', hide_index=True)
