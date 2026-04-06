@@ -13,7 +13,7 @@ A data analytics portfolio project that scrapes card price and tournament data f
 
 ## What This Project Does
 
-1. **Scrapes** card price history from TCGPlayer Infinite API and tournament data from RiftboundStats REST API
+1. **Scrapes** card price history from TCGCSV (a daily TCGPlayer mirror, no auth required) and tournament data from the RiftboundStats REST API
 2. **Stores** raw data in a SQLite database with analytical SQL queries (LAG, RANK, rolling averages, CTEs)
 3. **Engineers** features: rarity tiers, lag prices, rolling means, tournament play rates, set release flags
 4. **Trains** 6 forecasting models: Ridge, Lasso, Random Forest, XGBoost, ARIMA, Prophet
@@ -33,24 +33,24 @@ A data analytics portfolio project that scrapes card price and tournament data f
 
 ---
 
-## Model Results (test set: 3 weeks)
+## Model Results (test set: 3 weeks, 713 cards, 26 weeks of history)
 
 | Model | RMSE | MAE | R² |
 |---|---|---|---|
-| **Prophet** | $2.56 | $2.37 | 0.9976 |
-| **ARIMA** | $2.67 | $2.29 | 0.9952 |
-| Ridge | $13.20 | $2.86 | 0.9981 |
-| Lasso | $28.47 | $5.45 | 0.9911 |
-| XGBoost | $198.38 | $28.68 | 0.5681 |
-| Random Forest | $237.55 | $32.44 | 0.3807 |
+| **ARIMA** | $1.80 | $1.64 | 0.9986 |
+| **Prophet** | $2.89 | $2.74 | 0.9963 |
+| Ridge | $17.91 | $3.34 | 0.9964 |
+| Random Forest | $19.07 | $2.98 | 0.9959 |
+| Lasso | $33.83 | $5.72 | 0.9871 |
+| XGBoost | $37.53 | $5.55 | 0.9841 |
 
-> ARIMA/Prophet operate on the 52 products with ≥6 weeks of history. Tree models are evaluated across all 100 products including high-volatility short-series cards.
+> ARIMA/Prophet operate on per-product time series. Ridge and RF are cross-sectional models trained on lag + rolling + tournament features across all cards simultaneously.
 
 ---
 
 ## Tech Stack
 
-- **Data collection:** `requests`, `BeautifulSoup`, `selenium` (TCGPlayer Infinite API, RiftboundStats REST API)
+- **Data collection:** `requests`, `py7zr` (TCGCSV archive scraper — no auth required; RiftboundStats REST API)
 - **Database:** `sqlite3` — schema, ETL loader, 6 analytical SQL queries
 - **Feature engineering:** `pandas`, `numpy`
 - **Models:** `scikit-learn` (Ridge/Lasso/RF), `xgboost`, `statsmodels` (ARIMA), `prophet`
@@ -95,15 +95,15 @@ The dashboard reads from `data/exports/` — all CSVs are committed, no pipeline
 To re-run the full pipeline:
 
 ```bash
-# Phase 1 — Scrape RiftboundStats
-python run_phase1.py --riftboundstats
+# Phase 1 — Scrape price history (no auth required)
+python src/scrapers/tcgcsv_scraper.py
 
-# Phase 1 — Scrape TCGPlayer (requires TCGPLAYER_COOKIE env var)
-export TCGPLAYER_COOKIE="your_browser_cookie_here"
-python run_phase1.py --tcgindex
+# Phase 2 — Clean + merge into master table
+python -c "from src.processing.cleaner import save_clean_prices; save_clean_prices()"
+python -c "from src.processing.merger import save_master; save_master()"
 
-# Phase 2.5 — Load SQLite database
-python run_db.py
+# Phase 3 — Feature engineering
+python -c "from src.features.engineer import save_features; save_features()"
 
 # Phase 4 — Train all models and export CSVs
 python run_phase4.py
@@ -113,7 +113,7 @@ python run_phase4.py
 
 ## Key Findings
 
-- **Time-series models win** for short-window data: Prophet (RMSE $2.56) and ARIMA (RMSE $2.67) outperform all cross-sectional models by a large margin on a per-card basis
-- **Ridge beats tree models** ($13.20 vs $198–237) — with only 11 weeks of data and a strong autoregressive price signal, regularized linear regression generalizes far better than trees
-- **Top feature: `market_price` itself** (~41–83% importance in RF/XGB) — confirms strong mean-reversion / momentum signal in card prices; contextual features (play rate, rarity) will gain signal with longer price history
-- **Tournament play rate proxy**: card-level play rates are unavailable without deck card composition data; legend/domain-level rates are used as a proxy — re-scraping with deck compositions would improve signal
+- **Time-series models win**: ARIMA (RMSE $1.80) and Prophet (RMSE $2.89) outperform all cross-sectional models — per-card temporal modeling captures individual price dynamics that a shared feature matrix cannot
+- **Ridge and RF are competitive** at $17.91 vs $19.07 RMSE — once `market_price` is excluded as a feature (it's `lag_0w` in disguise), RF learns meaningfully from rolling price features rather than trivially copying the current price
+- **Autoregressive signal dominates**: `price_rolling_mean_4w` (73%) and `price_lag_1w` (25%) account for nearly all RF feature importance — card prices exhibit strong momentum/mean-reversion, consistent with thin secondary market behavior
+- **Tournament features provide marginal signal**: domain-level legend play/top8 rates contribute <0.1% to tree model importance. Card-level deck composition rates would improve this; domain-level is a proxy

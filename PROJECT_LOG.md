@@ -1,6 +1,6 @@
 # Riftbound Price Forecasting — Project Log
 
-_Last updated: 2026-03-23_
+_Last updated: 2026-04-06_
 
 ---
 
@@ -279,3 +279,43 @@ Deploy to Streamlit Community Cloud:
 1. Push repo to GitHub (public)
 2. Connect at share.streamlit.io → main file: `src/dashboard/app.py`
 3. Add live URL badge to README.md
+
+---
+
+## Post-Deploy — Data Refresh + Model Fixes (2026-04-06)
+
+**Status: COMPLETE**
+
+### What Changed
+
+**New price data source: TCGCSV**
+
+Switched from TCGPlayer Infinite API (requires browser session cookie) to [TCGCSV](https://tcgcsv.com) — a public daily mirror of TCGPlayer prices distributed as weekly `.7z` archives. No authentication required. Incremental by design: skips dates already in `prices_raw`.
+
+Written: `src/scrapers/tcgcsv_scraper.py`
+
+**Expanded dataset:**
+- Cards: 100 → 713 (with price history)
+- Weeks: 13 → 26 (Oct 2025 – Apr 2026)
+- Total feature rows: 802 → 10,815
+
+**Fixed tree model feature dominance:**
+
+`market_price` (current week's price) was included in `_BASE_FEATURE_COLS` in `src/models/utils.py`. For tree models it accounted for 97.7% of RF feature importance — effectively `lag_0w` — leaving no signal for tournament, rarity, or temporal features. Removed it; models now use `price_lag_1w`, `price_lag_2w`, `price_rolling_mean_4w` as the price-level signal.
+
+Result: RF importance redistributed to `price_rolling_mean_4w` (73%) + `price_lag_1w` (25%). RF RMSE dropped from $237 to $19 — now competitive with Ridge ($18).
+
+**Fixed `src/database/queries.py` stale column references:**
+- `c.type` → `c.card_type` (TCGCSV schema uses `card_type`)
+- `c.tcgplayer_product_id` → `c.product_id` (TCGCSV schema uses `product_id`)
+
+### Updated Model Results (test set: 3 weeks, 713 cards)
+
+| Model | RMSE | MAE | R² |
+|---|---|---|---|
+| ARIMA | $1.80 | $1.64 | 0.9986 |
+| Prophet | $2.89 | $2.74 | 0.9963 |
+| Ridge | $17.91 | $3.34 | 0.9964 |
+| Random Forest | $19.07 | $2.98 | 0.9959 |
+| Lasso | $33.83 | $5.72 | 0.9871 |
+| XGBoost | $37.53 | $5.55 | 0.9841 |
