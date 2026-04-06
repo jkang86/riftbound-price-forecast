@@ -46,6 +46,5 @@ st.download_button(
 
 st.caption(
     "Test period: last 3 weeks of available data. "
-    "ARIMA and Prophet operate on the 52 products with ≥ 6 weeks of history. "
-    "Ridge/Lasso/RF/XGBoost are evaluated across all 100 products."
+    "All metrics use per-card averaged RMSE/MAE for a fair apples-to-apples comparison across model types."
 )
