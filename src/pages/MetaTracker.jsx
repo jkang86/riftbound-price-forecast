@@ -8,11 +8,12 @@ import { usePageTitle } from '../hooks/usePageTitle'
 import { staggerContainerVariants, cardRevealVariants } from '../lib/motionVariants'
 
 const FACTION_COLORS = {
-  Piltover: 'var(--accent-gold)',
-  Ionia:    'var(--accent-red)',
-  Noxus:    '#C84040',
-  Demacia:  '#5DB7FF',
-  Freljord: '#8FCFFF',
+  Order:  'var(--accent-gold)',
+  Calm:   '#5DB7FF',
+  Body:   '#6dbf8a',
+  Mind:   '#A98BFF',
+  Fury:   'var(--accent-red)',
+  Chaos:  '#C84040',
 }
 
 function DeckRow({ deck, index }) {

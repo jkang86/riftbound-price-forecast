@@ -4,60 +4,61 @@
   "top_decks": [
     {
       "rank": 1,
-      "name": "Piltover Aggro",
-      "faction": "Piltover",
+      "name": "Calm Aggro",
+      "faction": "Calm",
       "win_rate": 62.4,
       "top8_appearances": 14,
-      "key_cards": ["jinx-loose-cannon", "vi-piltover-enforcer", "caitlyn-piltovers-sheriff"]
+      "key_cards": ["664930", "653104", "669256"]
     },
     {
       "rank": 2,
-      "name": "Ionia Control",
-      "faction": "Ionia",
+      "name": "Fury Midrange",
+      "faction": "Fury",
       "win_rate": 58.1,
       "top8_appearances": 11,
-      "key_cards": ["ahri-nine-tailed-fox"]
+      "key_cards": ["664938", "669251"]
     },
     {
       "rank": 3,
-      "name": "Noxus Midrange",
-      "faction": "Noxus",
+      "name": "Mind Control",
+      "faction": "Mind",
       "win_rate": 55.3,
       "top8_appearances": 9,
-      "key_cards": ["darius-hand-of-noxus"]
+      "key_cards": ["664913", "653112"]
     },
     {
       "rank": 4,
-      "name": "Demacia Tempo",
-      "faction": "Demacia",
+      "name": "Order Tempo",
+      "faction": "Order",
       "win_rate": 51.8,
       "top8_appearances": 7,
-      "key_cards": ["garen-might-of-demacia", "lux-lady-of-luminosity"]
+      "key_cards": ["666783", "669268"]
     },
     {
       "rank": 5,
-      "name": "Freljord Stall",
-      "faction": "Freljord",
+      "name": "Chaos Combo",
+      "faction": "Chaos",
       "win_rate": 47.2,
       "top8_appearances": 4,
-      "key_cards": ["ashe-frost-archer"]
+      "key_cards": ["653098", "653110"]
     }
   ],
   "top_played_cards": [
-    { "id": "jinx-loose-cannon",       "name": "Jinx, Loose Cannon",       "inclusion_pct": 78.4, "delta_7d": 4.2,  "faction": "Piltover", "rarity": "Mythic"  },
-    { "id": "ahri-nine-tailed-fox",    "name": "Ahri, Nine-Tailed Fox",    "inclusion_pct": 71.2, "delta_7d": 6.1,  "faction": "Ionia",   "rarity": "Mythic"  },
-    { "id": "darius-hand-of-noxus",    "name": "Darius, Hand of Noxus",    "inclusion_pct": 64.8, "delta_7d": 2.9,  "faction": "Noxus",   "rarity": "Legend"  },
-    { "id": "vi-piltover-enforcer",    "name": "Vi, The Piltover Enforcer","inclusion_pct": 58.3, "delta_7d": 1.8,  "faction": "Piltover", "rarity": "Epic"    },
-    { "id": "garen-might-of-demacia",  "name": "Garen, Might of Demacia",  "inclusion_pct": 49.1, "delta_7d": -1.2, "faction": "Demacia", "rarity": "Legend"  },
-    { "id": "lux-lady-of-luminosity",  "name": "Lux, Lady of Luminosity",  "inclusion_pct": 41.6, "delta_7d": -0.4, "faction": "Demacia", "rarity": "Epic"    },
-    { "id": "caitlyn-piltovers-sheriff","name": "Caitlyn, Piltover's Sheriff","inclusion_pct": 38.2,"delta_7d": 0.9,"faction": "Piltover","rarity": "Rare"    },
-    { "id": "ashe-frost-archer",       "name": "Ashe, Frost Archer",       "inclusion_pct": 29.4, "delta_7d": -3.8, "faction": "Freljord","rarity": "Epic"    }
+    { "id": "664930",  "name": "Irelia - Fervent (Signature)",          "inclusion_pct": 78.4, "delta_7d": -0.2, "faction": "Calm",       "rarity": "Showcase" },
+    { "id": "664913",  "name": "Ahri - Inquisitive (Signature)",        "inclusion_pct": 71.2, "delta_7d": -0.5, "faction": "Mind",       "rarity": "Showcase" },
+    { "id": "664938",  "name": "Vayne - Hunter (Signature)",            "inclusion_pct": 64.8, "delta_7d":  0.0, "faction": "Fury",       "rarity": "Showcase" },
+    { "id": "653098",  "name": "Jinx - Loose Cannon (Signature)",       "inclusion_pct": 58.3, "delta_7d":  0.0, "faction": "Fury;Chaos", "rarity": "Showcase" },
+    { "id": "653116",  "name": "Sett - The Boss (Signature)",           "inclusion_pct": 49.1, "delta_7d":  0.0, "faction": "Body;Order", "rarity": "Showcase" },
+    { "id": "666783",  "name": "Soraka - Wanderer (Signature)",         "inclusion_pct": 41.6, "delta_7d":  0.0, "faction": "Order",      "rarity": "Showcase" },
+    { "id": "653106",  "name": "Yasuo - Unforgiven (Signature)",        "inclusion_pct": 38.2, "delta_7d":  0.0, "faction": "Calm;Chaos", "rarity": "Showcase" },
+    { "id": "653104",  "name": "Lee Sin - Blind Monk (Signature)",      "inclusion_pct": 29.4, "delta_7d":  0.0, "faction": "Calm;Body",  "rarity": "Showcase" }
   ],
   "faction_breakdown": {
-    "Piltover": 38,
-    "Ionia":    24,
-    "Noxus":    18,
-    "Demacia":  14,
-    "Freljord": 6
+    "Order": 104,
+    "Calm":  102,
+    "Body":  102,
+    "Chaos": 100,
+    "Mind":   94,
+    "Fury":   92
   }
 }

@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 
-const RARITIES = ['Mythic', 'Legend', 'Epic', 'Rare', 'Common']
+const RARITIES = ['Showcase', 'Promo', 'Epic', 'Rare', 'Uncommon', 'Common']
 
 function volatilityColor(v, max) {
   const t = Math.min(v / max, 1)

@@ -1,11 +1,12 @@
 import { PieChart, Pie, Cell, Tooltip, ResponsiveContainer } from 'recharts'
 
 const RARITY_COLORS = {
-  Mythic: '#E2012D',
-  Legend: '#C9A84C',
-  Epic:   '#A98BFF',
-  Rare:   '#5DB7FF',
-  Common: '#9aa3ad',
+  Showcase: '#E2012D',
+  Promo:    '#C9A84C',
+  Epic:     '#A98BFF',
+  Rare:     '#5DB7FF',
+  Uncommon: '#6dbf8a',
+  Common:   '#9aa3ad',
 }
 
 function CustomTooltip({ active, payload }) {

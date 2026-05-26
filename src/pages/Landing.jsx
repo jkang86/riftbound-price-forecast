@@ -15,7 +15,7 @@ import { staggerContainerVariants, cardRevealVariants } from '../lib/motionVaria
 import { formatPrice } from '../lib/format'
 import { usePageTitle } from '../hooks/usePageTitle'
 
-const FEATURED_ID = 'jinx-loose-cannon'
+const FEATURED_ID = '669254'
 const TOP_MOVERS_COUNT = 6
 
 /* ── Helpers ─────────────────────────────────────────────────────────── */
@@ -209,8 +209,8 @@ function FeaturedPrediction({ forecastData, featuredCard }) {
               />
             ) : (
               <LowerThird
-                title="JINX, LOOSE CANNON"
-                subtitle="Piltover · Mythic · Prophet RMSE $1.80 · R² 0.9986"
+                title="AHRI - NINE-TAILED FOX"
+                subtitle="Calm;Mind · Promo · Prophet RMSE $0.00 · R² 1.0000"
                 tag="STRONG BUY"
               />
             )}

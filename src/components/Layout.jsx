@@ -4,14 +4,14 @@ import { LiveDot } from './LiveDot'
 import { Footer } from './Footer'
 
 const TICKER_ITEMS = [
-  { name: 'Jinx, Loose Cannon', price: 24.99, delta: 8.2 },
-  { name: 'Garen, Might of Demacia', price: 5.49, delta: -1.9 },
-  { name: 'Vi, The Piltover Enforcer', price: 12.30, delta: 3.1 },
-  { name: 'Lux, Lady of Luminosity', price: 8.75, delta: -0.5 },
-  { name: 'Darius, Hand of Noxus', price: 18.20, delta: 5.7 },
-  { name: 'Ahri, Nine-Tailed Fox', price: 31.50, delta: 12.4 },
-  { name: 'Thresh, The Chain Warden', price: 9.99, delta: -3.2 },
-  { name: 'Caitlyn, Piltover\'s Sheriff', price: 7.25, delta: 1.8 },
+  { name: 'Ahri - Nine-Tailed Fox (Metal)',         price: 4999.99, delta:  0.0 },
+  { name: 'Ahri - Inquisitive (Signature)',          price: 2717.05, delta: -0.5 },
+  { name: "Kai'Sa - Daughter of the Void (Sig)",    price: 2360.00, delta:  1.4 },
+  { name: 'Irelia - Fervent (Signature)',            price: 1653.22, delta: -0.2 },
+  { name: 'Vayne - Hunter (Signature)',              price: 1217.01, delta:  0.0 },
+  { name: 'Jinx - Loose Cannon (Signature)',         price:  960.52, delta:  0.0 },
+  { name: 'Viktor - Herald of the Arcane (Sig)',    price:  778.85, delta:  0.0 },
+  { name: 'Darius - Hand of Noxus (Signature)',     price:  744.55, delta:  0.0 },
 ]
 
 const NAV_LINKS = [

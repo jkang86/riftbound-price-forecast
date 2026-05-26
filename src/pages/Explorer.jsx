@@ -9,8 +9,8 @@ import { useDebounce } from '../hooks/useDebounce'
 import { usePageTitle } from '../hooks/usePageTitle'
 import { staggerContainerVariants, cardRevealVariants } from '../lib/motionVariants'
 
-const FACTIONS = ['Piltover', 'Demacia', 'Noxus', 'Freljord', 'Ionia']
-const RARITIES = ['Mythic', 'Legend', 'Epic', 'Rare', 'Common']
+const FACTIONS = ['Order', 'Calm', 'Body', 'Chaos', 'Mind', 'Fury']
+const RARITIES = ['Showcase', 'Promo', 'Epic', 'Rare', 'Uncommon', 'Common']
 const SIGNALS  = ['STRONG BUY', 'BUY', 'HOLD', 'WATCH', 'SELL']
 
 const SORT_OPTIONS = [
