@@ -1,0 +1,63 @@
+{
+  "updated_at": "2026-05-25T00:00:00Z",
+  "snapshot_week": "2026-05-19 — 2026-05-25",
+  "top_decks": [
+    {
+      "rank": 1,
+      "name": "Piltover Aggro",
+      "faction": "Piltover",
+      "win_rate": 62.4,
+      "top8_appearances": 14,
+      "key_cards": ["jinx-loose-cannon", "vi-piltover-enforcer", "caitlyn-piltovers-sheriff"]
+    },
+    {
+      "rank": 2,
+      "name": "Ionia Control",
+      "faction": "Ionia",
+      "win_rate": 58.1,
+      "top8_appearances": 11,
+      "key_cards": ["ahri-nine-tailed-fox"]
+    },
+    {
+      "rank": 3,
+      "name": "Noxus Midrange",
+      "faction": "Noxus",
+      "win_rate": 55.3,
+      "top8_appearances": 9,
+      "key_cards": ["darius-hand-of-noxus"]
+    },
+    {
+      "rank": 4,
+      "name": "Demacia Tempo",
+      "faction": "Demacia",
+      "win_rate": 51.8,
+      "top8_appearances": 7,
+      "key_cards": ["garen-might-of-demacia", "lux-lady-of-luminosity"]
+    },
+    {
+      "rank": 5,
+      "name": "Freljord Stall",
+      "faction": "Freljord",
+      "win_rate": 47.2,
+      "top8_appearances": 4,
+      "key_cards": ["ashe-frost-archer"]
+    }
+  ],
+  "top_played_cards": [
+    { "id": "jinx-loose-cannon",       "name": "Jinx, Loose Cannon",       "inclusion_pct": 78.4, "delta_7d": 4.2,  "faction": "Piltover", "rarity": "Mythic"  },
+    { "id": "ahri-nine-tailed-fox",    "name": "Ahri, Nine-Tailed Fox",    "inclusion_pct": 71.2, "delta_7d": 6.1,  "faction": "Ionia",   "rarity": "Mythic"  },
+    { "id": "darius-hand-of-noxus",    "name": "Darius, Hand of Noxus",    "inclusion_pct": 64.8, "delta_7d": 2.9,  "faction": "Noxus",   "rarity": "Legend"  },
+    { "id": "vi-piltover-enforcer",    "name": "Vi, The Piltover Enforcer","inclusion_pct": 58.3, "delta_7d": 1.8,  "faction": "Piltover", "rarity": "Epic"    },
+    { "id": "garen-might-of-demacia",  "name": "Garen, Might of Demacia",  "inclusion_pct": 49.1, "delta_7d": -1.2, "faction": "Demacia", "rarity": "Legend"  },
+    { "id": "lux-lady-of-luminosity",  "name": "Lux, Lady of Luminosity",  "inclusion_pct": 41.6, "delta_7d": -0.4, "faction": "Demacia", "rarity": "Epic"    },
+    { "id": "caitlyn-piltovers-sheriff","name": "Caitlyn, Piltover's Sheriff","inclusion_pct": 38.2,"delta_7d": 0.9,"faction": "Piltover","rarity": "Rare"    },
+    { "id": "ashe-frost-archer",       "name": "Ashe, Frost Archer",       "inclusion_pct": 29.4, "delta_7d": -3.8, "faction": "Freljord","rarity": "Epic"    }
+  ],
+  "faction_breakdown": {
+    "Piltover": 38,
+    "Ionia":    24,
+    "Noxus":    18,
+    "Demacia":  14,
+    "Freljord": 6
+  }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riftbound-forecast.vercel.app/sitemap.xml

@@ -1,0 +1,69 @@
+{
+  "updated_at": "2026-05-25T00:00:00Z",
+  "total_cards": 713,
+  "market_cap": 42813.50,
+  "volume_24h": 1284.00,
+  "gainers_count": 182,
+  "losers_count": 94,
+  "volatility_index": 12.4,
+  "top_gainer": {
+    "id": "jinx-loose-cannon",
+    "name": "Jinx, Loose Cannon",
+    "delta_7d_pct": 8.2
+  },
+  "top_loser": {
+    "id": "thresh-chain-warden",
+    "name": "Thresh, The Chain Warden",
+    "delta_7d_pct": -3.2
+  },
+  "rarity_distribution": {
+    "Mythic": 12,
+    "Legend": 48,
+    "Epic": 120,
+    "Rare": 240,
+    "Common": 293
+  },
+  "faction_rarity_volatility": [
+    { "faction": "Piltover",  "rarity": "Mythic", "volatility": 18.4 },
+    { "faction": "Piltover",  "rarity": "Legend", "volatility": 9.2  },
+    { "faction": "Piltover",  "rarity": "Epic",   "volatility": 6.1  },
+    { "faction": "Piltover",  "rarity": "Rare",   "volatility": 3.8  },
+    { "faction": "Piltover",  "rarity": "Common", "volatility": 1.4  },
+    { "faction": "Demacia",   "rarity": "Mythic", "volatility": 11.2 },
+    { "faction": "Demacia",   "rarity": "Legend", "volatility": 7.6  },
+    { "faction": "Demacia",   "rarity": "Epic",   "volatility": 5.3  },
+    { "faction": "Demacia",   "rarity": "Rare",   "volatility": 2.9  },
+    { "faction": "Demacia",   "rarity": "Common", "volatility": 1.1  },
+    { "faction": "Noxus",     "rarity": "Mythic", "volatility": 15.8 },
+    { "faction": "Noxus",     "rarity": "Legend", "volatility": 8.4  },
+    { "faction": "Noxus",     "rarity": "Epic",   "volatility": 5.9  },
+    { "faction": "Noxus",     "rarity": "Rare",   "volatility": 3.2  },
+    { "faction": "Noxus",     "rarity": "Common", "volatility": 1.6  },
+    { "faction": "Freljord",  "rarity": "Mythic", "volatility": 9.6  },
+    { "faction": "Freljord",  "rarity": "Legend", "volatility": 6.1  },
+    { "faction": "Freljord",  "rarity": "Epic",   "volatility": 4.2  },
+    { "faction": "Freljord",  "rarity": "Rare",   "volatility": 2.4  },
+    { "faction": "Freljord",  "rarity": "Common", "volatility": 0.9  },
+    { "faction": "Ionia",     "rarity": "Mythic", "volatility": 13.1 },
+    { "faction": "Ionia",     "rarity": "Legend", "volatility": 7.8  },
+    { "faction": "Ionia",     "rarity": "Epic",   "volatility": 5.0  },
+    { "faction": "Ionia",     "rarity": "Rare",   "volatility": 2.7  },
+    { "faction": "Ionia",     "rarity": "Common", "volatility": 1.2  }
+  ],
+  "market_history": [
+    { "date": "2026-02-23", "market_cap": 38100 },
+    { "date": "2026-03-02", "market_cap": 38850 },
+    { "date": "2026-03-09", "market_cap": 39400 },
+    { "date": "2026-03-16", "market_cap": 39200 },
+    { "date": "2026-03-23", "market_cap": 40100 },
+    { "date": "2026-03-30", "market_cap": 40800 },
+    { "date": "2026-04-06", "market_cap": 41200 },
+    { "date": "2026-04-13", "market_cap": 40600 },
+    { "date": "2026-04-20", "market_cap": 41500 },
+    { "date": "2026-04-27", "market_cap": 42000 },
+    { "date": "2026-05-04", "market_cap": 41800 },
+    { "date": "2026-05-11", "market_cap": 42300 },
+    { "date": "2026-05-18", "market_cap": 42100 },
+    { "date": "2026-05-25", "market_cap": 42813 }
+  ]
+}

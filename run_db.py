@@ -1,4 +1,4 @@
-"""
+﻿"""
 Database runner — Phase 1.5 (post-scrape, pre-cleaning).
 
 Creates the SQLite schema, loads all raw JSON files, then runs the
@@ -15,8 +15,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from src.database.loader import load_all
-from src.database.queries import run_all
+from pipeline.database.loader import load_all
+from pipeline.database.queries import run_all
 from config import DB_PATH
 
 

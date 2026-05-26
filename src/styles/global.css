@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-primary:    #0A0A0A;
+  --bg-surface:    #121212;
+  --bg-elevated:   #1A1A1A;
+  --accent-red:    #E2012D;
+  --accent-gold:   #C9A84C;
+  --text-primary:  #F5F5F5;
+  --text-muted:    rgba(255, 255, 255, 0.65);
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --success:       #4CAF50;
+  --warning:       #FFB020;
+  --danger:        #FF5252;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+}
+
+/* ── Utility Classes ──────────────────────────────────────────────────── */
+
+.font-display { font-family: 'Bebas Neue', sans-serif; letter-spacing: 0.04em; }
+.font-ui      { font-family: 'Rajdhani', sans-serif; }
+.font-mono    { font-family: 'JetBrains Mono', monospace; }
+.eyebrow      {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-size: 11px;
+}
+
+/* ── Skeleton / Loading ───────────────────────────────────────────────── */
+
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--bg-elevated) 0%,
+    rgba(255, 255, 255, 0.04) 50%,
+    var(--bg-elevated) 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1600ms ease-in-out infinite;
+  border-radius: 4px;
+}
+
+/* ── Animation Utilities ──────────────────────────────────────────────── */
+
+.animate-score-reveal  { animation: scoreReveal 600ms cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+.animate-lower-third   { animation: lowerThird 400ms cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+.animate-scan-line     { animation: scanLine 4s linear infinite; }
+.animate-pulse-red     { animation: pulseRed 2s ease-in-out infinite; }
+.animate-ticker        { animation: ticker 40s linear infinite; }
+.animate-ticker:hover  { animation-play-state: paused; }
+.animate-fade-up       { animation: fadeUp 500ms cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+.animate-card-reveal   { opacity: 0; animation: cardReveal 400ms cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+.animate-page-enter    { animation: pageEnter 350ms cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+
+/* ── Keyframes ────────────────────────────────────────────────────────── */
+
+@keyframes scoreReveal {
+  from { transform: translateY(8px) scaleY(0.9); opacity: 0; filter: blur(2px); }
+  to   { transform: translateY(0) scaleY(1); opacity: 1; filter: blur(0); }
+}
+
+@keyframes lowerThird {
+  from { transform: translateY(100%); opacity: 0; }
+  to   { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes scanLine {
+  0%   { transform: translateY(-100%); opacity: 0; }
+  10%  { opacity: 0.6; }
+  90%  { opacity: 0.6; }
+  100% { transform: translateY(100vh); opacity: 0; }
+}
+
+@keyframes pulseRed {
+  0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(226, 1, 45, 0.5); }
+  50%       { opacity: 0.7; box-shadow: 0 0 0 6px rgba(226, 1, 45, 0); }
+}
+
+@keyframes ticker {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes fadeUp {
+  from { transform: translateY(20px); opacity: 0; }
+  to   { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes cardReveal {
+  from { transform: translateY(12px); opacity: 0; }
+  to   { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes pageEnter {
+  from { transform: translateY(6px); opacity: 0; }
+  to   { transform: translateY(0); opacity: 1; }
+}
+
+/* ── Card Hover ───────────────────────────────────────────────────────── */
+
+.market-card {
+  border: 1px solid var(--border-subtle);
+  transition: border-color 200ms ease, box-shadow 200ms ease, transform 200ms ease;
+}
+.market-card:hover {
+  border-color: var(--accent-gold);
+  box-shadow: 0 0 20px rgba(201, 168, 76, 0.12);
+  transform: translateY(-2px);
+}
+
+/* ── Nav Link Underline ───────────────────────────────────────────────── */
+
+.nav-link::after {
+  content: '';
+  display: block;
+  height: 2px;
+  background: var(--accent-red);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 200ms ease;
+}
+.nav-link:hover::after,
+.nav-link[aria-current="page"]::after {
+  transform: scaleX(1);
+}
+
+/* ── Focus Ring ───────────────────────────────────────────────────────── */
+
+:focus-visible {
+  outline: 2px solid var(--accent-gold);
+  outline-offset: 3px;
+}
+
+/* Remove default outline only when focus-visible is supported */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* ── Scrollbar ────────────────────────────────────────────────────────── */
+
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: var(--bg-primary); }
+::-webkit-scrollbar-thumb { background: var(--border-subtle); border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover { background: var(--accent-gold); }
+
+/* ── Reduced Motion ───────────────────────────────────────────────────── */
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  .animate-ticker {
+    animation: none !important;
+    overflow-x: auto;
+  }
+}

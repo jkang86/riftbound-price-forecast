@@ -1,0 +1,63 @@
+name: Weekly Data Update
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"   # Every Monday at 09:00 UTC
+  workflow_dispatch:        # Manual trigger from GitHub Actions UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Required to commit and push back to the repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── Pipeline ──────────────────────────────────────────────────────────
+
+      - name: Phase 1 — Scrape TCGCSV + RiftboundStats
+        run: python run_phase1.py
+
+      - name: Phase 1.5 — Load SQLite schema + raw data
+        run: python run_db.py
+
+      - name: Phase 2a — Clean prices
+        run: python -c "from pipeline.processing.cleaner import save_clean_prices; save_clean_prices()"
+
+      - name: Phase 2b — Merge master
+        run: python -c "from pipeline.processing.merger import save_master; save_master()"
+
+      - name: Phase 3 — Engineer features
+        run: python -c "from pipeline.features.engineer import save_features; save_features()"
+
+      - name: Phase 4 — Train models + export CSVs
+        run: python run_phase4.py
+
+      # ── Commit exports if anything changed ────────────────────────────────
+
+      - name: Check for changes in data/exports/
+        id: diff
+        run: |
+          git diff --quiet data/exports/ || echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push updated exports
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/exports/
+          git commit -m "chore: weekly data update $(date -u '+%Y-%m-%d')"
+          git push

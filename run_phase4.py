@@ -1,4 +1,4 @@
-"""
+﻿"""
 Phase 4 runner — Model Training & Comparison.
 
 Usage:
@@ -21,13 +21,13 @@ def main() -> None:
     parser.add_argument("--ts",     action="store_true")
     args = parser.parse_args()
 
-    from src.models.utils import load_features
+    from pipeline.models.utils import load_features
     df = load_features()
 
     run_all = not (args.linear or args.tree or args.ts)
 
     if run_all:
-        from src.models.compare import run_all as _run
+        from pipeline.models.compare import run_all as _run
         _run()
         return
 
@@ -38,17 +38,17 @@ def main() -> None:
     results, pred_dfs = [], []
 
     if args.linear or run_all:
-        from src.models.linear import train_ridge, train_lasso
+        from pipeline.models.linear import train_ridge, train_lasso
         _, m, p = train_ridge(df);  results.append(m); pred_dfs.append(p)
         _, m, p = train_lasso(df);  results.append(m); pred_dfs.append(p)
 
     if args.tree or run_all:
-        from src.models.tree import train_random_forest, train_xgboost
+        from pipeline.models.tree import train_random_forest, train_xgboost
         _, m, p = train_random_forest(df); results.append(m); pred_dfs.append(p)
         _, m, p = train_xgboost(df);       results.append(m); pred_dfs.append(p)
 
     if args.ts or run_all:
-        from src.models.timeseries import train_arima, train_prophet
+        from pipeline.models.timeseries import train_arima, train_prophet
         _, m, p = train_arima(df);   results.append(m); pred_dfs.append(p)
         _, m, p = train_prophet(df); results.append(m); pred_dfs.append(p)
 

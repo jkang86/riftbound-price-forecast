@@ -1,0 +1,113 @@
+{
+  "updated_at": "2026-05-25T00:00:00Z",
+  "cards": [
+    {
+      "id": "jinx-loose-cannon",
+      "name": "Jinx, Loose Cannon",
+      "faction": "Piltover",
+      "rarity": "Mythic",
+      "current_price": 24.99,
+      "price_7d_ago": 23.10,
+      "delta_7d_pct": 8.2,
+      "signal": "STRONG BUY",
+      "sparkline": [21.5,22.0,22.8,23.1,23.5,24.0,24.5,24.9,23.8,24.1,24.6,24.99,23.9,24.4,24.8,24.99],
+      "tags": ["champion","control"]
+    },
+    {
+      "id": "ahri-nine-tailed-fox",
+      "name": "Ahri, Nine-Tailed Fox",
+      "faction": "Ionia",
+      "rarity": "Mythic",
+      "current_price": 31.50,
+      "price_7d_ago": 28.10,
+      "delta_7d_pct": 12.4,
+      "signal": "STRONG BUY",
+      "sparkline": [26.0,26.8,27.2,27.9,28.1,29.0,29.8,30.2,30.0,30.5,31.0,31.2,30.8,31.1,31.4,31.50],
+      "tags": ["champion","burst"]
+    },
+    {
+      "id": "darius-hand-of-noxus",
+      "name": "Darius, Hand of Noxus",
+      "faction": "Noxus",
+      "rarity": "Legend",
+      "current_price": 18.20,
+      "price_7d_ago": 17.30,
+      "delta_7d_pct": 5.7,
+      "signal": "BUY",
+      "sparkline": [16.5,16.8,17.0,17.3,17.1,17.5,17.8,18.0,17.9,18.1,18.2,18.0,17.8,18.0,18.2,18.20],
+      "tags": ["champion","aggro"]
+    },
+    {
+      "id": "vi-piltover-enforcer",
+      "name": "Vi, The Piltover Enforcer",
+      "faction": "Piltover",
+      "rarity": "Epic",
+      "current_price": 12.30,
+      "price_7d_ago": 11.90,
+      "delta_7d_pct": 3.1,
+      "signal": "BUY",
+      "sparkline": [11.2,11.4,11.6,11.9,11.8,12.0,12.1,12.0,11.9,12.1,12.2,12.3,12.1,12.2,12.3,12.30],
+      "tags": ["champion","midrange"]
+    },
+    {
+      "id": "lux-lady-of-luminosity",
+      "name": "Lux, Lady of Luminosity",
+      "faction": "Demacia",
+      "rarity": "Epic",
+      "current_price": 8.75,
+      "price_7d_ago": 8.82,
+      "delta_7d_pct": -0.5,
+      "signal": "HOLD",
+      "sparkline": [9.1,9.0,8.95,8.82,8.80,8.78,8.76,8.80,8.78,8.75,8.77,8.75,8.76,8.75,8.74,8.75],
+      "tags": ["champion","control"]
+    },
+    {
+      "id": "garen-might-of-demacia",
+      "name": "Garen, Might of Demacia",
+      "faction": "Demacia",
+      "rarity": "Legend",
+      "current_price": 5.49,
+      "price_7d_ago": 5.60,
+      "delta_7d_pct": -1.9,
+      "signal": "HOLD",
+      "sparkline": [5.8,5.7,5.65,5.60,5.55,5.50,5.48,5.49,5.47,5.50,5.52,5.49,5.48,5.49,5.50,5.49],
+      "tags": ["champion","aggro"]
+    },
+    {
+      "id": "caitlyn-piltovers-sheriff",
+      "name": "Caitlyn, Piltover's Sheriff",
+      "faction": "Piltover",
+      "rarity": "Rare",
+      "current_price": 7.25,
+      "price_7d_ago": 7.10,
+      "delta_7d_pct": 1.8,
+      "signal": "HOLD",
+      "sparkline": [6.9,6.95,7.0,7.1,7.08,7.1,7.12,7.15,7.18,7.20,7.22,7.25,7.20,7.22,7.24,7.25],
+      "tags": ["champion","tempo"]
+    },
+    {
+      "id": "thresh-chain-warden",
+      "name": "Thresh, The Chain Warden",
+      "faction": "Noxus",
+      "rarity": "Legend",
+      "current_price": 9.99,
+      "price_7d_ago": 10.32,
+      "delta_7d_pct": -3.2,
+      "signal": "SELL",
+      "sparkline": [10.8,10.7,10.5,10.32,10.2,10.1,10.0,10.1,10.0,9.99,10.0,9.98,9.99,10.0,9.99,9.99],
+      "tags": ["champion","control"]
+    },
+    {
+      "id": "ashe-frost-archer",
+      "name": "Ashe, Frost Archer",
+      "faction": "Freljord",
+      "rarity": "Epic",
+      "current_price": 6.80,
+      "price_7d_ago": 7.40,
+      "delta_7d_pct": -8.1,
+      "signal": "SELL",
+      "sparkline": [7.8,7.6,7.4,7.2,7.1,7.0,6.9,6.85,6.80,6.82,6.80,6.78,6.80,6.79,6.80,6.80],
+      "tags": ["champion","control"]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-"""
+﻿"""
 Phase 1 — Data Collection runner.
 
 Usage:
@@ -28,14 +28,14 @@ def main() -> None:
         print("=" * 60)
         print("TCGCSV scraper (price history + card metadata -> SQLite)")
         print("=" * 60)
-        from src.scrapers.tcgcsv_scraper import scrape_all as scrape_tcgcsv
+        from pipeline.scrapers.tcgcsv_scraper import scrape_all as scrape_tcgcsv
         scrape_tcgcsv()
 
     if run_default or args.riftboundstats:
         print("=" * 60)
         print("RiftboundStats API scraper (tournament data)")
         print("=" * 60)
-        from src.scrapers.riftboundstats_scraper import scrape_all as scrape_riftboundstats
+        from pipeline.scrapers.riftboundstats_scraper import scrape_all as scrape_riftboundstats
         scrape_riftboundstats()
 
     if args.tcgplayer:
@@ -46,7 +46,7 @@ def main() -> None:
         cookie = os.environ.get("TCGPLAYER_COOKIE", "")
         if not cookie:
             raise RuntimeError("Set TCGPLAYER_COOKIE env var before running --tcgplayer.")
-        from src.scrapers.tcgplayer_scraper import scrape_all as scrape_tcgplayer
+        from pipeline.scrapers.tcgplayer_scraper import scrape_all as scrape_tcgplayer
         scrape_tcgplayer(cookie=cookie, range_="quarter")
 
     print("\nPhase 1 complete. Check data/ for output files.")

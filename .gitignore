@@ -50,3 +50,11 @@ Thumbs.db
 
 # Streamlit cache
 .streamlit/secrets.toml
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+
+# Claude Code session files
+.claude/

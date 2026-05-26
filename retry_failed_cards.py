@@ -1,4 +1,4 @@
-"""
+﻿"""
 Retry scraper for TCGPlayer cards that returned 403 in the previous run.
 
 Reads data/raw/tcgplayer/2026-03-24_failed.json, fetches price history for each,
@@ -20,7 +20,7 @@ from tqdm import tqdm
 
 import sys
 sys.path.insert(0, str(Path(__file__).parent))
-from src.scrapers.tcgplayer_scraper import fetch_price_history, _best_sku
+from pipeline.scrapers.tcgplayer_scraper import fetch_price_history, _best_sku
 
 RAW_TCGPLAYER = Path("data/raw/tcgplayer")
 FAILED_PATH = RAW_TCGPLAYER / "2026-03-24_failed.json"

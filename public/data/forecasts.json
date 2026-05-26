@@ -1,0 +1,110 @@
+{
+  "updated_at": "2026-05-25T00:00:00Z",
+  "forecasts": [
+    {
+      "card_id": "jinx-loose-cannon",
+      "history": [
+        { "date": "2026-04-01", "price": 21.5 },
+        { "date": "2026-04-08", "price": 22.8 },
+        { "date": "2026-04-15", "price": 23.5 },
+        { "date": "2026-04-22", "price": 24.0 },
+        { "date": "2026-04-29", "price": 24.5 },
+        { "date": "2026-05-06", "price": 23.9 },
+        { "date": "2026-05-13", "price": 24.4 },
+        { "date": "2026-05-20", "price": 24.99 }
+      ],
+      "forecast": [
+        { "date": "2026-05-27", "yhat": 25.40, "yhat_lower": 24.10, "yhat_upper": 26.70 },
+        { "date": "2026-06-03", "yhat": 25.80, "yhat_lower": 23.90, "yhat_upper": 27.70 },
+        { "date": "2026-06-10", "yhat": 26.20, "yhat_lower": 23.60, "yhat_upper": 28.80 },
+        { "date": "2026-06-17", "yhat": 26.50, "yhat_lower": 23.20, "yhat_upper": 29.80 }
+      ],
+      "metrics": { "rmse": 1.80, "mae": 1.64, "r2": 0.9986 },
+      "model": "prophet"
+    },
+    {
+      "card_id": "ahri-nine-tailed-fox",
+      "history": [
+        { "date": "2026-04-01", "price": 26.0 },
+        { "date": "2026-04-08", "price": 27.2 },
+        { "date": "2026-04-15", "price": 28.1 },
+        { "date": "2026-04-22", "price": 29.0 },
+        { "date": "2026-04-29", "price": 30.2 },
+        { "date": "2026-05-06", "price": 30.0 },
+        { "date": "2026-05-13", "price": 31.1 },
+        { "date": "2026-05-20", "price": 31.50 }
+      ],
+      "forecast": [
+        { "date": "2026-05-27", "yhat": 32.10, "yhat_lower": 30.40, "yhat_upper": 33.80 },
+        { "date": "2026-06-03", "yhat": 32.70, "yhat_lower": 30.10, "yhat_upper": 35.30 },
+        { "date": "2026-06-10", "yhat": 33.20, "yhat_lower": 29.80, "yhat_upper": 36.60 },
+        { "date": "2026-06-17", "yhat": 33.80, "yhat_lower": 29.30, "yhat_upper": 38.30 }
+      ],
+      "metrics": { "rmse": 2.10, "mae": 1.82, "r2": 0.9971 },
+      "model": "prophet"
+    },
+    {
+      "card_id": "darius-hand-of-noxus",
+      "history": [
+        { "date": "2026-04-01", "price": 16.5 },
+        { "date": "2026-04-08", "price": 17.0 },
+        { "date": "2026-04-15", "price": 17.3 },
+        { "date": "2026-04-22", "price": 17.5 },
+        { "date": "2026-04-29", "price": 17.8 },
+        { "date": "2026-05-06", "price": 17.9 },
+        { "date": "2026-05-13", "price": 18.0 },
+        { "date": "2026-05-20", "price": 18.20 }
+      ],
+      "forecast": [
+        { "date": "2026-05-27", "yhat": 18.60, "yhat_lower": 17.50, "yhat_upper": 19.70 },
+        { "date": "2026-06-03", "yhat": 18.90, "yhat_lower": 17.20, "yhat_upper": 20.60 },
+        { "date": "2026-06-10", "yhat": 19.20, "yhat_lower": 16.90, "yhat_upper": 21.50 },
+        { "date": "2026-06-17", "yhat": 19.50, "yhat_lower": 16.60, "yhat_upper": 22.40 }
+      ],
+      "metrics": { "rmse": 1.42, "mae": 1.21, "r2": 0.9992 },
+      "model": "prophet"
+    },
+    {
+      "card_id": "thresh-chain-warden",
+      "history": [
+        { "date": "2026-04-01", "price": 10.8 },
+        { "date": "2026-04-08", "price": 10.5 },
+        { "date": "2026-04-15", "price": 10.32 },
+        { "date": "2026-04-22", "price": 10.2 },
+        { "date": "2026-04-29", "price": 10.1 },
+        { "date": "2026-05-06", "price": 10.0 },
+        { "date": "2026-05-13", "price": 9.98 },
+        { "date": "2026-05-20", "price": 9.99 }
+      ],
+      "forecast": [
+        { "date": "2026-05-27", "yhat": 9.70, "yhat_lower": 8.90, "yhat_upper": 10.50 },
+        { "date": "2026-06-03", "yhat": 9.40, "yhat_lower": 8.40, "yhat_upper": 10.40 },
+        { "date": "2026-06-10", "yhat": 9.20, "yhat_lower": 8.00, "yhat_upper": 10.40 },
+        { "date": "2026-06-17", "yhat": 8.90, "yhat_lower": 7.60, "yhat_upper": 10.20 }
+      ],
+      "metrics": { "rmse": 2.34, "mae": 2.11, "r2": 0.9941 },
+      "model": "prophet"
+    },
+    {
+      "card_id": "ashe-frost-archer",
+      "history": [
+        { "date": "2026-04-01", "price": 7.8 },
+        { "date": "2026-04-08", "price": 7.6 },
+        { "date": "2026-04-15", "price": 7.4 },
+        { "date": "2026-04-22", "price": 7.1 },
+        { "date": "2026-04-29", "price": 6.9 },
+        { "date": "2026-05-06", "price": 6.85 },
+        { "date": "2026-05-13", "price": 6.80 },
+        { "date": "2026-05-20", "price": 6.80 }
+      ],
+      "forecast": [
+        { "date": "2026-05-27", "yhat": 6.60, "yhat_lower": 5.80, "yhat_upper": 7.40 },
+        { "date": "2026-06-03", "yhat": 6.40, "yhat_lower": 5.40, "yhat_upper": 7.40 },
+        { "date": "2026-06-10", "yhat": 6.20, "yhat_lower": 5.00, "yhat_upper": 7.40 },
+        { "date": "2026-06-17", "yhat": 6.00, "yhat_lower": 4.70, "yhat_upper": 7.30 }
+      ],
+      "metrics": { "rmse": 1.96, "mae": 1.74, "r2": 0.9968 },
+      "model": "prophet"
+    }
+  ]
+}
