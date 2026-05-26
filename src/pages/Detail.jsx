@@ -24,32 +24,33 @@ const TOGGLE_OPTIONS = [
 const METRIC_EXPLANATIONS = [
   {
     key: 'rmse',
-    label: 'RMSE',
-    title: 'Root Mean Square Error',
-    body: 'Average prediction error in dollars. Lower is better. An RMSE of $1.80 means forecasts are typically within $1.80 of the actual price.',
+    label: 'PRICE ERROR',
+    title: 'How close are the predictions?',
+    body: 'The average dollar amount the forecast misses by. A price error of $1.80 means our model\'s guesses are usually within $1.80 of the real price — roughly the spread between a buylist and market price.',
   },
   {
     key: 'mae',
-    label: 'MAE',
-    title: 'Mean Absolute Error',
-    body: 'The median prediction error. Less sensitive to outliers than RMSE. A useful "typical miss" figure for everyday use.',
+    label: 'TYPICAL MISS',
+    title: 'What\'s the usual miss on any given week?',
+    body: 'The middle-of-the-road prediction error. Half of forecasts beat this number, half are wider. Good to check if you\'re deciding whether to buy now or wait a week.',
   },
   {
     key: 'r2',
-    label: 'R²',
-    title: 'R-Squared (Coefficient of Determination)',
-    body: 'How much of price variance the model explains. 0.9986 means the model captures 99.86% of price movement — near-perfect fit.',
+    label: 'CONFIDENCE',
+    title: 'How well does the model track price movement?',
+    body: 'Shown as a percentage. 99.86% means the model\'s price curve almost perfectly follows real historical prices. Anything above 95% is strong for a volatile TCG market.',
   },
 ]
 
 function buildScoreBugs(card, forecast) {
   const forecastTarget = forecast?.forecast?.[0]?.yhat
+  const hasMetrics = forecast != null && forecast.metrics != null
   return [
-    { label: 'CURRENT PRICE',    value: card ? `$${formatPrice(card.current_price)}` : '—' },
-    { label: '7D CHANGE',        value: card ? undefined : '—', delta: card?.delta_7d_pct },
-    { label: 'FORECAST TARGET',  value: forecastTarget != null ? `$${forecastTarget.toFixed(2)}` : '—', highlight: true },
-    { label: 'RMSE',             value: forecast?.metrics ? `$${forecast.metrics.rmse.toFixed(2)}` : '—' },
-    { label: 'R²',               value: forecast?.metrics ? forecast.metrics.r2.toFixed(4) : '—' },
+    { label: 'CURRENT PRICE',   value: card ? `$${formatPrice(card.current_price)}` : '—' },
+    { label: '7D CHANGE',       value: card ? undefined : '—', delta: card?.delta_7d_pct },
+    { label: 'NEXT WEEK TARGET',value: forecastTarget != null ? `$${forecastTarget.toFixed(2)}` : '—', highlight: true },
+    { label: 'PRICE ERROR',     value: hasMetrics ? `$${forecast.metrics.rmse.toFixed(2)}` : '—' },
+    { label: 'CONFIDENCE',      value: hasMetrics ? `${(forecast.metrics.r2 * 100).toFixed(1)}%` : '—' },
   ]
 }
 
@@ -74,7 +75,7 @@ function MetricsAccordion({ metrics }) {
                 <span className="eyebrow" style={{ color: 'var(--text-muted)', opacity: 0.6 }}>{item.label}</span>
                 <span className="font-mono text-sm font-semibold" style={{ color: 'var(--accent-gold)' }}>
                   {item.key === 'r2'
-                    ? metrics.r2.toFixed(4)
+                    ? `${(metrics.r2 * 100).toFixed(1)}%`
                     : `$${metrics[item.key].toFixed(2)}`
                   }
                 </span>
@@ -169,7 +170,7 @@ export default function Detail() {
               >
                 ← EXPLORER
               </Link>
-              {card && <Rarity rarity={card.rarity} />}
+              {card && <Rarity kind={card.rarity} />}
               {card && <Signal signal={card.signal} />}
             </div>
 
@@ -267,10 +268,18 @@ export default function Detail() {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.6, delay: 0.15 }}
           >
-            {chartData
-              ? <ConfidenceBand data={chartData} height={360} />
-              : <SkeletonChart height={360} />
-            }
+            {forecast === undefined ? (
+              <SkeletonChart height={360} />
+            ) : forecast === null ? (
+              <div
+                style={{ height: 360, background: 'var(--bg-surface)', border: '1px solid var(--border-subtle)', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: 8 }}
+              >
+                <p className="font-display text-2xl" style={{ color: 'var(--text-muted)', opacity: 0.4 }}>NO FORECAST</p>
+                <p className="font-mono text-xs" style={{ color: 'var(--text-muted)', opacity: 0.3 }}>This card is not in the top 30 tracked by Prophet. Check back after the next weekly update.</p>
+              </div>
+            ) : (
+              <ConfidenceBand data={chartData} height={360} />
+            )}
           </motion.div>
 
           <MetricsAccordion metrics={forecast?.metrics} />
