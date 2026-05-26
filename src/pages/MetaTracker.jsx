@@ -19,8 +19,7 @@ function DeckRow({ deck, index }) {
   return (
     <motion.tr
       initial={{ opacity: 0, x: -8 }}
-      whileInView={{ opacity: 1, x: 0 }}
-      viewport={{ once: true }}
+      animate={{ opacity: 1, x: 0 }}
       transition={{ duration: 0.35, delay: index * 0.05 }}
       style={{ background: index % 2 === 0 ? 'var(--bg-surface)' : 'var(--bg-elevated)' }}
     >
@@ -176,22 +175,30 @@ export default function MetaTracker() {
             <h2 className="font-display text-3xl" style={{ color: 'var(--text-primary)' }}>TOP DECKS</h2>
           </motion.div>
 
-          <div style={{ overflowX: 'auto' }}>
-            <table style={{ width: '100%', borderCollapse: 'separate', borderSpacing: '0 2px' }}>
-              <thead>
-                <tr>
-                  {['RANK', 'DECK', 'WIN RATE', 'TOP 8'].map(h => (
-                    <th key={h} className="eyebrow text-left pb-3 pr-6" style={{ color: 'var(--text-muted)', opacity: 0.55, fontWeight: 500 }}>
-                      {h}
-                    </th>
-                  ))}
-                </tr>
-              </thead>
-              <tbody>
-                {topDecks.map((deck, i) => <DeckRow key={deck.rank} deck={deck} index={i} />)}
-              </tbody>
-            </table>
-          </div>
+          {!meta ? (
+            <div className="flex flex-col gap-px">
+              {Array.from({ length: 5 }).map((_, i) => (
+                <div key={i} className="skeleton" style={{ height: 52, borderRadius: 2 }} />
+              ))}
+            </div>
+          ) : (
+            <div style={{ overflowX: 'auto' }}>
+              <table style={{ width: '100%', borderCollapse: 'separate', borderSpacing: '0 2px' }}>
+                <thead>
+                  <tr>
+                    {['RANK', 'DECK', 'WIN RATE', 'TOP 8'].map(h => (
+                      <th key={h} className="eyebrow text-left pb-3 pr-6" style={{ color: 'var(--text-muted)', opacity: 0.55, fontWeight: 500 }}>
+                        {h}
+                      </th>
+                    ))}
+                  </tr>
+                </thead>
+                <tbody>
+                  {topDecks.map((deck, i) => <DeckRow key={deck.rank} deck={deck} index={i} />)}
+                </tbody>
+              </table>
+            </div>
+          )}
         </div>
       </section>
 
@@ -214,20 +221,28 @@ export default function MetaTracker() {
             </span>
           </motion.div>
 
-          <motion.div
-            variants={staggerContainerVariants}
-            initial="initial"
-            whileInView="enter"
-            viewport={{ once: true, margin: '-60px' }}
-            className="grid gap-4"
-            style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(220px, 1fr))' }}
-          >
-            {topPlayed.map(card => (
-              <motion.div key={card.id} variants={cardRevealVariants}>
-                <TopCardTile card={card} />
-              </motion.div>
-            ))}
-          </motion.div>
+          {!meta ? (
+            <div className="grid gap-4" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(220px, 1fr))' }}>
+              {Array.from({ length: 8 }).map((_, i) => (
+                <div key={i} className="skeleton" style={{ height: 140, borderRadius: 2 }} />
+              ))}
+            </div>
+          ) : (
+            <motion.div
+              key="top-played-grid"
+              variants={staggerContainerVariants}
+              initial="initial"
+              animate="enter"
+              className="grid gap-4"
+              style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(220px, 1fr))' }}
+            >
+              {topPlayed.map(card => (
+                <motion.div key={card.id} variants={cardRevealVariants}>
+                  <TopCardTile card={card} />
+                </motion.div>
+              ))}
+            </motion.div>
+          )}
         </div>
       </section>
 
