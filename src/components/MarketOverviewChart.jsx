@@ -9,7 +9,8 @@ import {
 } from 'recharts'
 
 function formatDate(dateStr) {
-  const d = new Date(dateStr)
+  if (!dateStr) return ''
+  const d = new Date(dateStr + 'T00:00:00')
   return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
 }
 
@@ -48,7 +49,7 @@ export function MarketOverviewChart({ history = [], height = 280 }) {
           vertical={false}
         />
         <XAxis
-          dataKey="date"
+          dataKey="week"
           tickFormatter={formatDate}
           tick={{ fill: 'var(--text-muted)', fontFamily: 'JetBrains Mono, monospace', fontSize: 10 }}
           axisLine={false}
@@ -66,7 +67,7 @@ export function MarketOverviewChart({ history = [], height = 280 }) {
         <Tooltip content={<CustomTooltip />} cursor={{ stroke: 'var(--accent-gold)', strokeWidth: 1, strokeDasharray: '4 4' }} />
         <Area
           type="monotone"
-          dataKey="market_cap"
+          dataKey="total_market_cap"
           stroke="var(--accent-gold)"
           strokeWidth={2}
           fill="url(#capGradient)"

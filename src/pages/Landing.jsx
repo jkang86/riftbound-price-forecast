@@ -34,26 +34,26 @@ function buildScoreBugs(market) {
     { label: 'TOP GAINER',   value: '—' },
   ]
 
-  const gainerName = market.top_gainer?.name?.split(',')[0] ?? '—'
+  const latest = market.market_history?.at(-1)
+  const cap = latest?.total_market_cap
 
   return [
     {
       label: 'TOTAL CARDS',
-      value: market.total_cards,
+      value: latest?.card_count ?? '—',
       countUp: true,
     },
     {
       label: 'MARKET CAP',
-      value: `$${Math.round(market.market_cap).toLocaleString()}`,
+      value: cap != null ? `$${Math.round(cap).toLocaleString()}` : '—',
     },
     {
-      label: '24H VOLUME',
-      value: formatPrice(market.volume_24h),
+      label: 'GAINERS',
+      value: market.gainers_count ?? '—',
     },
     {
-      label: 'TOP GAINER',
-      value: gainerName,
-      delta: market.top_gainer?.delta_7d_pct,
+      label: 'AVG PRICE',
+      value: latest?.avg_price != null ? formatPrice(latest.avg_price) : '—',
     },
   ]
 }

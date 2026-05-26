@@ -23,13 +23,15 @@ function topMovers(cards, n) {
 }
 
 function buildKPIs(market) {
-  if (!market) return Array.from({ length: 5 }, (_, i) => ({ label: '—', value: '—' }))
+  if (!market) return Array.from({ length: 5 }, () => ({ label: '—', value: '—' }))
+  const latest = market.market_history?.at(-1)
+  const cap = latest?.total_market_cap
   return [
-    { label: 'MARKET CAP',    value: `$${Math.round(market.market_cap).toLocaleString()}` },
-    { label: '24H VOLUME',    value: formatPrice(market.volume_24h) },
-    { label: 'TOTAL CARDS',   value: market.total_cards, countUp: true },
+    { label: 'MARKET CAP',    value: cap != null ? `$${Math.round(cap).toLocaleString()}` : '—' },
+    { label: '24H VOLUME',    value: '—' },
+    { label: 'TOTAL CARDS',   value: latest?.card_count ?? '—', countUp: true },
     { label: 'GAINERS',       value: market.gainers_count ?? '—', highlight: true },
-    { label: 'VOLATILITY IDX',value: market.volatility_index != null ? `${market.volatility_index.toFixed(1)}` : '—' },
+    { label: 'VOLATILITY IDX',value: '—' },
   ]
 }
 
